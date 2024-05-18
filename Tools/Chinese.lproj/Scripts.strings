@@ -1,0 +1,3833 @@
+/* 
+   Scripts.strings
+   MapleThief
+
+   Created by Hyunchul Kim on 3/22/10.
+   Copyright 2010 NEXON MOBILE Corporation. All rights reserved.
+ */
+
+
+
+/* 
+   ScriptChapter1.strings (Korean Version)
+   MapleThief
+
+   Created by Hyunchul Kim on 1/28/10.
+   Copyright 2010 NEXON Mobile Corporation. All rights reserved.
+ */
+
+
+
+/*
+ * Script - Chapter1
+ * String Definition: "FileName.MethodName.Sequence" = "Localized String";
+ */
+
+
+/* BackChapter1_Quest_Bruce ***************************************************/
+
+/* function mainCallBack() */
+"BackChapter1_Quest_Bruce.mainCallBack.1" = "这可不是什么好兆头.岛\r\n上的怪物以前还没有炸弹";
+"BackChapter1_Quest_Bruce.mainCallBack.2" = "我需要在岛上做些调查.\r\n你会帮我么?我需要15\r\n个花蘑菇盖和20个猪头\r\n用来帮助我研究周围这些\r\n怪物.";
+"BackChapter1_Quest_Bruce.mainCallBack.3" = "利用科学无法调查这一切\r\n的原因.你最好去找长老\r\n斯坦,自我有记忆的时候\r\n他就住这里了.";
+
+/* function mainQuest11() */
+"BackChapter1_Quest_Bruce.mainQuest11.1" = "布鲁斯的调查";
+"BackChapter1_Quest_Bruce.mainQuest11.2" = "从怪物身上找到我需要研\r\n究的材料.帮我弄到15\r\n个花蘑菇盖和20个猪头";
+"BackChapter1_Quest_Bruce.mainQuest11.3" = "如果有人已经被炸伤了...\r\n那就说明我要调查的地\r\n方已经被炸过了...吧.";
+
+/* function mainQuest12() */
+"BackChapter1_Quest_Bruce.mainQuest12.1" = "布鲁斯的调查";
+"BackChapter1_Quest_Bruce.mainQuest12.2" = "请和长老斯坦对话.他或\r\n许知道些什么.";
+"BackChapter1_Quest_Bruce.mainQuest12.3" = "干得好.谢谢你.我几乎\r\n调查过所有的怪物但仍没\r\n发现爆炸的痕迹.";
+"BackChapter1_Quest_Bruce.mainQuest12.4" = "请帮我收集到15个花蘑\r\n菇盖和20个猪头.";
+
+/* function subQuest22() */
+"BackChapter1_Quest_Bruce.subQuest22.1" = "失踪的父亲";
+"BackChapter1_Quest_Bruce.subQuest22.2" = "交付布鲁斯的照片和信.";
+"BackChapter1_Quest_Bruce.subQuest22.3" = "失踪的父亲";
+"BackChapter1_Quest_Bruce.subQuest22.4" = "交付布鲁斯的照片和信.";
+"BackChapter1_Quest_Bruce.subQuest22.5" = "我失散多年的女儿正在找\r\n我?你确定??!";
+"BackChapter1_Quest_Bruce.subQuest22.6" = "我的助手在前一段时间去\r\n过勇士部落.也提到一个\r\n女孩,不过我没抱太大希望\r\n.她真的会是我女儿吗?";
+"BackChapter1_Quest_Bruce.subQuest22.7" = "你女儿希望我把这个项链\r\n给你.";
+"BackChapter1_Quest_Bruce.subQuest22.8" = "天呐!这正我送她的生日礼\r\n.物!!我的宝贝女儿还活着!!!\r\n*啜泣声*";
+"BackChapter1_Quest_Bruce.subQuest22.9" = "除了赶过去见她以外我真的\r\n什么都不想做..但是研究工作\r\n也正在特殊阶段,这将造福所有村民.\r\n我还不能立刻去找她...你能\r\n先回去通知我女儿么?";
+"BackChapter1_Quest_Bruce.subQuest22.10" = "告诉她我马上就会去她那\r\n里非常感谢!!";
+"BackChapter1_Quest_Bruce.subQuest22.11" = "告诉她我马上就会去她那\r\n里非常感谢!!";
+
+/* function setQuestList() */
+"BackChapter1_Quest_Bruce.setQuestList.1" = "布鲁斯的调查";
+"BackChapter1_Quest_Bruce.setQuestList.2" = "失踪的父亲";
+"BackChapter1_Quest_Bruce.setQuestList.3" = "当前任务";
+
+/* function dialog() */
+"BackChapter1_Quest_Bruce.dialog.1" = "我是布鲁斯,一名高级调\r\n查员.";
+
+
+/* BackChapter1_Quest_Map_Perion ***************************************************/
+
+/* function mainQuest10() */
+"BackChapter1_Quest_Map_Perion.mainQuest10.1" = "失踪的大师1";
+"BackChapter1_Quest_Map_Perion.mainQuest10.2" = "我需要12片叶子!";
+"BackChapter1_Quest_Map_Perion.mainQuest10.3" = "罗宾!你在这!你见过麦\r\n克阿瑟么?";
+"BackChapter1_Quest_Map_Perion.mainQuest10.4" = "当然,我刚刚还跟他一起\r\n训练来着.";
+"BackChapter1_Quest_Map_Perion.mainQuest10.5" = "这可真奇怪.他可不是一句\r\n话不说就离开的人.";
+"BackChapter1_Quest_Map_Perion.mainQuest10.6" = "靠!麦克阿瑟前些日子让\r\n我收集12片叶子.我差\r\n点忘了.";
+"BackChapter1_Quest_Map_Perion.mainQuest10.7" = "我去寻找麦克阿瑟,请为\r\n我准备12片叶子.";
+
+
+/* BackChapter1_SubQuest_Alex ***************************************************/
+
+/* function reward() */
+"BackChapter1_SubQuest_Alex.reward.1" = "好人有好报.";
+"BackChapter1_SubQuest_Alex.reward.2" = "伊安是我的!只要想起她\r\n心里就一片澎湃.(伊安\r\n!你等着!我们会永远在\r\n一起!!)";
+"BackChapter1_SubQuest_Alex.reward.3" = "祝你好运,阿勒斯.";
+"BackChapter1_SubQuest_Alex.reward.4" = "大恩不言谢.";
+
+/* function step2() */
+"BackChapter1_SubQuest_Alex.step2.1" = "伊安似乎在渴望谁的出现\r\n,帮我找出那个人是谁.";
+"BackChapter1_SubQuest_Alex.step2.2" = "小心点,尤其是当你接近\r\n顶部的时候.";
+"BackChapter1_SubQuest_Alex.step2.3" = "罗宾!帮我从黑木妖那弄\r\n30片树叶.";
+
+/* function quest1() */
+"BackChapter1_SubQuest_Alex.quest1.1" = "啊哈!这么说伊安正在寻\r\n找她的父亲.";
+"BackChapter1_SubQuest_Alex.quest1.2" = "谢谢你找到她父亲.";
+"BackChapter1_SubQuest_Alex.quest1.3" = "调查伊安在秘密的等谁";
+"BackChapter1_SubQuest_Alex.quest1.4" = "阿勒斯的担忧";
+"BackChapter1_SubQuest_Alex.quest1.5" = "伊安是我的梦中女孩,但\r\n是看样子她已经看上谁了\r\n请帮我找出究竟是谁!";
+"BackChapter1_SubQuest_Alex.quest1.6" = "我在前不久的节日上发现\r\n了一个美丽的女孩.我无\r\n法控制对她的思念.";
+"BackChapter1_SubQuest_Alex.quest1.7" = "她的名字是伊安并且来自\r\n勇士部落.我好想再见她\r\n一面,但是...";
+"BackChapter1_SubQuest_Alex.quest1.8" = "好吧,那个女孩看样子在\r\n等什么人.但我不知道是\r\n谁.你能帮我找出来那个\r\n人么?";
+"BackChapter1_SubQuest_Alex.quest1.9" = "你们在讨论伊安么?我知\r\n道她.";
+"BackChapter1_SubQuest_Alex.quest1.10" = "请等下.我会马上回来.";
+
+/* function quest2() */
+"BackChapter1_SubQuest_Alex.quest2.1" = "我还以为你已经放弃了.\r\n感谢你帮我.非常感激.";
+"BackChapter1_SubQuest_Alex.quest2.2" = "请帮我送伊安一束玫瑰.";
+"BackChapter1_SubQuest_Alex.quest2.3" = "阿勒斯的请求";
+"BackChapter1_SubQuest_Alex.quest2.4" = "我被怪物袭击并且伤到腿\r\n了,请帮我从韧性之林捎回一\r\n束玫瑰.";
+"BackChapter1_SubQuest_Alex.quest2.5" = "你知道该如何吸引伊安的\r\n注意么?如果知道的话那\r\n就做吧!";
+"BackChapter1_SubQuest_Alex.quest2.6" = "好吧...";
+"BackChapter1_SubQuest_Alex.quest2.7" = "伊安说她想见有毅力的人\r\n,可以送她韧性之林的玫瑰.";
+"BackChapter1_SubQuest_Alex.quest2.8" = "但并不是所有人都有去那\r\n韧性之林里的毅力...";
+"BackChapter1_SubQuest_Alex.quest2.9" = "韧性之林?几天前还去\r\n过！不过在半路被几个像\r\n是树墩子的怪物给袭击了\r\n,胳膊也受了伤.";
+"BackChapter1_SubQuest_Alex.quest2.10" = "医生说我3个月不能动!";
+"BackChapter1_SubQuest_Alex.quest2.11" = "所以我只能靠你了,罗宾\r\n.你必须得帮我!";
+"BackChapter1_SubQuest_Alex.quest2.12" = "即使在非常时期我也不能\r\n放弃一个坠入爱河的人.\r\n我会帮你的!";
+"BackChapter1_SubQuest_Alex.quest2.13" = "我永远也忘不了你的恩德\r\n!太感谢你了!记住在韧性森\r\n林闯荡的时候要小心.";
+
+/* function subQuest28() */
+"BackChapter1_SubQuest_Alex.subQuest28.1" = "和我玩";
+"BackChapter1_SubQuest_Alex.subQuest28.2" = "我实在是太太太太无聊了\r\n.请帮我从黑木妖\r\n那弄来30片树叶.让我有\r\n点东西玩玩.";
+"BackChapter1_SubQuest_Alex.subQuest28.3" = "我很无聊.完全无聊,非\r\n常以及极其特别的无聊!";
+"BackChapter1_SubQuest_Alex.subQuest28.4" = "我想把树叶收集在一起做\r\n把雨伞,那样的颜色或许\r\n看上去非常不错....";
+"BackChapter1_SubQuest_Alex.subQuest28.5" = "我就知道你一定会帮\r\n我，是吧,罗宾?";
+"BackChapter1_SubQuest_Alex.subQuest28.6" = "我需要30片黑木妖的叶子.";
+
+/* function setQuestList() */
+"BackChapter1_SubQuest_Alex.setQuestList.1" = "阿勒斯的担心";
+"BackChapter1_SubQuest_Alex.setQuestList.2" = "阿勒斯的请求";
+"BackChapter1_SubQuest_Alex.setQuestList.3" = "跟我玩吧";
+"BackChapter1_SubQuest_Alex.setQuestList.4" = "当前任务";
+
+/* function dialog() */
+"BackChapter1_SubQuest_Alex.dialog.1" = "你好,罗宾.我是阿勒斯\r\n看样子你的第一站是勇士部\r\n落，你是否需要帮助.";
+
+
+/* BackChapter1_SubQuest_Iyan ***************************************************/
+
+/* function reward() */
+"BackChapter1_SubQuest_Iyan.reward.1" = "我真不知道如何表达我的\r\n感激.谢谢你.";
+"BackChapter1_SubQuest_Iyan.reward.2" = "阿勒斯真是浪漫哦";
+"BackChapter1_SubQuest_Iyan.reward.3" = "罗宾特有的风格.";
+
+/* function step2() */
+"BackChapter1_SubQuest_Iyan.step2.1" = "请一定要找到我父亲";
+"BackChapter1_SubQuest_Iyan.step2.2" = "我的另一半应该和我父亲\r\n一样浪漫,他在哪里呢?";
+"BackChapter1_SubQuest_Iyan.step2.3" = "那我就能安全滴继续走这\r\n条路了.";
+
+/* function quest1() */
+"BackChapter1_SubQuest_Iyan.quest1.1" = "谢谢你,罗宾.我再也不会\r\n孤单一人了，这个家因你而圆满.";
+"BackChapter1_SubQuest_Iyan.quest1.2" = "请代为去看望我父亲,告\r\n诉我他现在什么模样.";
+"BackChapter1_SubQuest_Iyan.quest1.3" = "失踪的父亲";
+"BackChapter1_SubQuest_Iyan.quest1.4" = "有人告诉我我父亲在射手\r\n村,我连他长什么样都忘\r\n了.能帮我去找到他么?";
+"BackChapter1_SubQuest_Iyan.quest1.5" = "伊安,你看样子状态不好\r\n,发生什么了?";
+"BackChapter1_SubQuest_Iyan.quest1.6" = "有个男人不久前来过勇\r\n士部落收集研究材料,有\r\n居民从他那得知我父亲\r\n\似乎在射手村";
+"BackChapter1_SubQuest_Iyan.quest1.7" = "不过我已经想不起任何\r\n父亲的事了,甚至都记不得\r\n他的长相,因为大部分记\r\n忆都在年幼时被蘑菇怪\r\n袭击的事故中失去了...\r\n我实在不想这样子去见他.";
+"BackChapter1_SubQuest_Iyan.quest1.8" = "罗宾,你能代我去见父亲\r\n吗?拿着这串项链.我小时\r\n候就戴着它.把他拿给可\r\n能是我父亲的人看.";
+"BackChapter1_SubQuest_Iyan.quest1.9" = "拿好别丢了.";
+"BackChapter1_SubQuest_Iyan.quest1.10" = "他在射手村.或许长老斯坦\r\n知道在哪找他,毕竟他\r\n是村长，村里发生什么他\r\n都清楚.";
+"BackChapter1_SubQuest_Iyan.quest1.11" = "我马上去找他，别担心";
+
+/* function quest2() */
+"BackChapter1_SubQuest_Iyan.quest2.1" = "嗯..罗宾.有人告诉我他\r\n喜欢我...";
+"BackChapter1_SubQuest_Iyan.quest2.2" = "那个男孩叫阿勒斯.住在\r\n附近的村子.我一直觉得\r\n他为人冷淡,但他告诉我\r\n他要给我韧性之林里的玫瑰.";
+"BackChapter1_SubQuest_Iyan.quest2.3" = "他说要送我韧性之林的玫瑰来\r\n证明他对我的爱,精力过\r\n剩了吧?呵呵.";
+"BackChapter1_SubQuest_Iyan.quest2.4" = "我真正的另一半在哪呢?";
+"BackChapter1_SubQuest_Iyan.quest2.5" = "伊安的另一半";
+"BackChapter1_SubQuest_Iyan.quest2.6" = "我心目中的他要像我父亲\r\n一样浪漫.他会在哪呢?";
+"BackChapter1_SubQuest_Iyan.quest2.7" = "再次感谢你找到了我父亲\r\n.我一直憧憬着我的\r\n家.";
+"BackChapter1_SubQuest_Iyan.quest2.8" = "我父亲讲了他是如何向\r\n我母亲求婚的故事.很久前,\r\n在一顿晚餐后.他冒险去了\r\n韧性之林,只为摘下玫瑰花送她\r\n.我父亲太浪漫了.";
+"BackChapter1_SubQuest_Iyan.quest2.9" = "据说只有那些勇敢坚毅\r\n的人才能进韧性之林.啊...\r\n我心中的爱人应该也会和我父亲\r\n一样浪漫勇敢.";
+
+/* function subQuest26() */
+"BackChapter1_SubQuest_Iyan.subQuest26.1" = "再次感谢你的帮助,罗宾.";
+"BackChapter1_SubQuest_Iyan.subQuest26.2" = "请帮我解决30个木妖!";
+"BackChapter1_SubQuest_Iyan.subQuest26.3" = "木妖的恐怖故事";
+"BackChapter1_SubQuest_Iyan.subQuest26.4" = "我很怕木妖.请帮我消灭30\r\n个，这样我就能自由进出村庄了.";
+"BackChapter1_SubQuest_Iyan.subQuest26.5" = "村庄西部的蠢木妖们前几天\r\n差点把我困住了.这些东西真让人头皮发麻!";
+"BackChapter1_SubQuest_Iyan.subQuest26.6" = "太痛苦了!我还必须得走这\r\n条路...嘿,罗宾.能帮我\r\n干掉30个木妖么?";
+
+/* function setQuestList() */
+"BackChapter1_SubQuest_Iyan.setQuestList.1" = "失踪的父亲";
+"BackChapter1_SubQuest_Iyan.setQuestList.2" = "伊安的另一半";
+"BackChapter1_SubQuest_Iyan.setQuestList.3" = "木妖的恐怖故事";
+"BackChapter1_SubQuest_Iyan.setQuestList.4" = "当前任务";
+
+/* function dialog() */
+"BackChapter1_SubQuest_Iyan.dialog.1" = "啧…";
+"BackChapter1_SubQuest_Iyan.dialog.2" = "谢谢,罗宾.在你的帮助\r\n下我找到了父亲.";
+"BackChapter1_SubQuest_Iyan.dialog.3" = "实在是不知道该如何感\r\n谢你，罗宾.你救了我的命.";
+
+
+/* Chapter1_Boss_Melody_Map ***************************************************/
+
+/* function BossMsg() */
+"Chapter1_Boss_Melody_Map.BossMsg.1" = "你是谁?!你怎么敢来这";
+"Chapter1_Boss_Melody_Map.BossMsg.2" = "想想你该葬在哪吧.";
+"Chapter1_Boss_Melody_Map.BossMsg.3" = "我怎么会被你这种弱者\r\n打败?这不可能!";
+
+
+/* Chapter1_MonsterCarnival_Spiegelman ***************************************************/
+
+/* function MoveToMCMap() */
+"Chapter1_MonsterCarnival_Spiegelman.MoveToMCMap.1" = "现在,让怪物嘉年华开始\r\n吧!";
+"Chapter1_MonsterCarnival_Spiegelman.MoveToMCMap.2" = "你需要怪物嘉年华的A票";
+"Chapter1_MonsterCarnival_Spiegelman.MoveToMCMap.3" = "如果想要参加就去买张嘉\r\n年华的A票.";
+
+/* function MCInfo() */
+"Chapter1_MonsterCarnival_Spiegelman.MCInfo.1" = "这是你第一次来怪物嘉年\r\n华吧,这么说吧,这里的体验\r\n简直超乎你的想象!这个嘉年华的主题就是\r\n冒险家间的竞赛.";
+"Chapter1_MonsterCarnival_Spiegelman.MCInfo.2" = "毕竟这个世界是一个充满\r\n和平主义者的地方，直接用\r\n真正的武器那就太残酷了.";
+"Chapter1_MonsterCarnival_Spiegelman.MCInfo.3" = "怪物嘉年华就是看谁击败\r\n最多的怪物.";
+"Chapter1_MonsterCarnival_Spiegelman.MCInfo.4" = "同样依照你击败的怪物\r\n数量来给你排名.迟早会有你\r\n被所有冒险者所仰慕的那一天.";
+"Chapter1_MonsterCarnival_Spiegelman.MCInfo.5" = "怎么样.感觉到你的心跳\r\n加速了么?来试试吧?";
+
+/* function MCGameInfo() */
+"Chapter1_MonsterCarnival_Spiegelman.MCGameInfo.1" = "怪物嘉年华基础规则——\r\n在3分钟内尽可能多\r\n地击败怪物.";
+"Chapter1_MonsterCarnival_Spiegelman.MCGameInfo.2" = "击败怪物数越多,得到的狂\r\n欢CP点数也越多,这将\r\n影响到你的排名.";
+"Chapter1_MonsterCarnival_Spiegelman.MCGameInfo.3" = "这是用来筛选优秀的冒\r\n险家的游戏,感兴趣了吗?不来考验下你的必胜决心吗?";
+
+/* function MCRankInfo() */
+"Chapter1_MonsterCarnival_Spiegelman.MCRankInfo.1" = "有了足够的CP点数可以\r\n去主菜单社区选单内注册参与排名";
+"Chapter1_MonsterCarnival_Spiegelman.MCRankInfo.2" = "提醒一下!注册登记是要\r\n花流量的呦.";
+
+/* function infoMenu() */
+"Chapter1_MonsterCarnival_Spiegelman.infoMenu.1" = "怪物嘉年华是什么?";
+"Chapter1_MonsterCarnival_Spiegelman.infoMenu.2" = "细节";
+"Chapter1_MonsterCarnival_Spiegelman.infoMenu.3" = "关于注册等级";
+"Chapter1_MonsterCarnival_Spiegelman.infoMenu.4" = "内容很长,请仔细阅读.";
+
+/* function enterMobCarnival() */
+"Chapter1_MonsterCarnival_Spiegelman.enterMobCarnival.1" = "去怪物嘉年华";
+"Chapter1_MonsterCarnival_Spiegelman.enterMobCarnival.2" = "什么是怪物嘉年华?";
+"Chapter1_MonsterCarnival_Spiegelman.enterMobCarnival.3" = "哈哈.我是休彼得曼,狂\r\n欢马戏团的老板.是我举\r\n办了第一届嘉年华并邀请\r\n像你一样的冒险者们.";
+"Chapter1_MonsterCarnival_Spiegelman.enterMobCarnival.4" = "我很乐意向你介绍嘉年华\r\n,如果你还不了解.";
+
+/* function levelDownLimit() */
+"Chapter1_MonsterCarnival_Spiegelman.levelDownLimit.1" = "欢迎来到怪物嘉年华,噢\r\n!你的排名太高啦.";
+"Chapter1_MonsterCarnival_Spiegelman.levelDownLimit.2" = "打怪对你来说太无趣了.\r\n试试看挑战高级的怪物.";
+
+/* function levelUpLimit() */
+"Chapter1_MonsterCarnival_Spiegelman.levelUpLimit.1" = "你的等级还不能参加,只\r\n有10到30级的才行.";
+"Chapter1_MonsterCarnival_Spiegelman.levelUpLimit.2" = "这儿对你来说等于自杀.\r\n去升级以后再来...";
+
+
+/* Chapter1_Portal_HenesisTown ***************************************************/
+
+
+/* Chapter1_PortalToAntCave ***************************************************/
+
+
+/* Chapter1_PortalToMelody ***************************************************/
+
+
+/* Chapter1_PortalToMiniGame ***************************************************/
+
+
+/* Chapter1_Quest_Bruce ***************************************************/
+
+/* function mainCallBack() */
+"Chapter1_Quest_Bruce.mainCallBack.1" = "这可不是什么好兆头.岛\r\n上的怪物以前还没有炸弹";
+"Chapter1_Quest_Bruce.mainCallBack.2" = "我需要进一步的研究.";
+"Chapter1_Quest_Bruce.mainCallBack.3" = "我该怎么帮助你?!飞侠\r\n经常拔刀相助.";
+"Chapter1_Quest_Bruce.mainCallBack.4" = "首先我们要调查我们附近\r\n的怪物.";
+"Chapter1_Quest_Bruce.mainCallBack.5" = "几年前,我彻底的调查过\r\n金银岛的怪物,但现在出\r\n来新品种了.";
+"Chapter1_Quest_Bruce.mainCallBack.6" = "蓝蘑菇是其中最坏的,非\r\n常暴力.有必要去研究.";
+"Chapter1_Quest_Bruce.mainCallBack.7" = "你能在东部山岭上帮我弄\r\n到30个蓝蘑菇盖吗?";
+"Chapter1_Quest_Bruce.mainCallBack.8" = "这必将会加速我完成研究";
+"Chapter1_Quest_Bruce.mainCallBack.9" = "通过调查,蓝蘑菇身上并\r\n没有爆炸的痕迹.";
+"Chapter1_Quest_Bruce.mainCallBack.10" = "利用科学无法调查这一切\r\n的原因.你最好去找长老\r\n斯坦,自我有记忆的时候\r\n他就住这里了.";
+
+/* function mainQuest11() */
+"Chapter1_Quest_Bruce.mainQuest11.1" = "布鲁斯的调查";
+"Chapter1_Quest_Bruce.mainQuest11.2" = "我研究需要的材料在怪物\r\n身上.弄30个蘑菇盖.";
+"Chapter1_Quest_Bruce.mainQuest11.3" = "布鲁斯!坏消息!勇士部\r\n落附近的一个村民因为炸\r\n弹受伤了!";
+"Chapter1_Quest_Bruce.mainQuest11.4" = "炸弹?这意味着我曾经调\r\n查的地方可能是爆炸点.";
+
+/* function mainQuest12() */
+"Chapter1_Quest_Bruce.mainQuest12.1" = "布鲁斯的调查";
+"Chapter1_Quest_Bruce.mainQuest12.2" = "找到长老斯坦.";
+"Chapter1_Quest_Bruce.mainQuest12.3" = "干得好.谢谢你.我已经\r\n调查了几乎所有种类的怪\r\n物.仍未发现爆炸痕迹.";
+"Chapter1_Quest_Bruce.mainQuest12.4" = "你能帮我在东部山岭弄到\r\n30个蓝蘑菇盖么?";
+
+/* function reward() */
+"Chapter1_Quest_Bruce.reward.1" = "非常感谢你能找到我女儿\r\n告诉她我很快就去见她!";
+
+/* function subQuest22() */
+"Chapter1_Quest_Bruce.subQuest22.1" = "失踪的父亲";
+"Chapter1_Quest_Bruce.subQuest22.3" = "失踪的父亲";
+"Chapter1_Quest_Bruce.subQuest22.4" = "交付布鲁斯的照片和信.";
+"Chapter1_Quest_Bruce.subQuest22.5" = "我失踪多年的女儿在找我\r\n?你说真的么?!";
+"Chapter1_Quest_Bruce.subQuest22.6" = "我的助手在前一段时间去\r\n到勇士部落.他提到一个\r\n女孩,这并没有给我多少\r\n希望.她真是我女儿?";
+"Chapter1_Quest_Bruce.subQuest22.7" = "哦!这是我在我女儿生日\r\n时给她的项链.我真的无\r\n法相信我的宝贝还活着!\r\n*啜泣声*";
+"Chapter1_Quest_Bruce.subQuest22.8" = "我现在除了去找她以外什\r\n么都不想做,但这个研究\r\n关系着整个村子,所以我\r\n还不能去找她...你能\r\n去告诉她这些么?";
+"Chapter1_Quest_Bruce.subQuest22.9" = "告诉她我会很快去找她,\r\n这太感谢你了!";
+
+/* function setQuestList() */
+"Chapter1_Quest_Bruce.setQuestList.1" = "布鲁斯的调查";
+"Chapter1_Quest_Bruce.setQuestList.2" = "失踪的父亲";
+"Chapter1_Quest_Bruce.setQuestList.3" = "当前任务";
+
+/* function dialog() */
+"Chapter1_Quest_Bruce.dialog.1" = "我是布鲁斯,一名高级调\r\n查员.";
+
+
+/* Chapter1_Quest_Darklord(2) ***************************************************/
+
+/* function reward() */
+"Chapter1_Quest_Darklord.reward.1" = "恭喜!";
+"Chapter1_Quest_Darklord.reward.2" = "你已经证明你是一个合格\r\n的飞侠了.";
+"Chapter1_Quest_Darklord.reward.3" = "展示给守卫看.";
+
+/* function step2() */
+"Chapter1_Quest_Darklord.step2.1" = "如果你和人们交谈并帮助\r\n他们就会很快的升级.";
+"Chapter1_Quest_Darklord.step2.2" = "从村外搞30个花蘑菇盖";
+"Chapter1_Quest_Darklord.step2.3" = "尝试击败黑斧木妖,它们\r\n是金银岛最残忍的怪物.\r\n就知道自己变强了.";
+
+/* function classUpCallBack() */
+"Chapter1_Quest_Darklord.classUpCallBack.1" = "如果发现无法再提高了,\r\n就来找我!";
+
+/* function startClassUp() */
+"Chapter1_Quest_Darklord.startClassUp.1" = "你应该知道,每次升级后\r\n都可以得到技能点数.有\r\n疑问请查看帮助菜单.";
+
+/* function startClassUp2() */
+"Chapter1_Quest_Darklord.startClassUp2.1" = "你已经成为一个很棒的飞\r\n侠,但在你面前还有一个\r\n很重要的冒险.";
+
+/* function classUp2CallBack() */
+"Chapter1_Quest_Darklord.classUp2CallBack.1" = "转职";
+"Chapter1_Quest_Darklord.classUp2CallBack.2" = "转职";
+"Chapter1_Quest_Darklord.classUp2CallBack.3" = "转职成刺客";
+"Chapter1_Quest_Darklord.classUp2CallBack.4" = "转职成侠客";
+
+/* function assasinInfo() */
+"Chapter1_Quest_Darklord.assasinInfo.1" = "刺客的主武器是投掷飞镖\r\n,并拥有远程强力技能.";
+"Chapter1_Quest_Darklord.assasinInfo.2" = "刺客的主要技能是多重飞\r\n镖和无影人.多重飞镖是\r\n巨大飞镖攻击多个敌人.";
+"Chapter1_Quest_Darklord.assasinInfo.3" = "无影人三次转职后才能获\r\n得,能复制你的动作,从\r\n而提升攻击力.";
+
+/* function thiefInfo() */
+"Chapter1_Quest_Darklord.thiefInfo.1" = "侠客也是飞侠的一种,但\r\n他们使用短刀,有强大的\r\n近身格斗技能.";
+"Chapter1_Quest_Darklord.thiefInfo.2" = "侠客的主技能是回旋斩和\r\n一击双出.回旋斩是快速\r\n攻击敌人6次.";
+"Chapter1_Quest_Darklord.thiefInfo.3" = "双出只有在第三次转职后\r\n才能使用.可以短时间内\r\n攻击敌人两次,并且提升\r\n攻击力.";
+
+/* function classUp2() */
+"Chapter1_Quest_Darklord.classUp2.1" = "嗯,你看起来比我上次见\r\n你时更强了.";
+"Chapter1_Quest_Darklord.classUp2.2" = "我可以再次提升你的职业\r\n技能.选择发展方向,进\r\n行第二次转职.";
+"Chapter1_Quest_Darklord.classUp2.3" = "决定就不能再反悔,所以\r\n一定要明智的选择!";
+"Chapter1_Quest_Darklord.classUp2.4" = "二次转职";
+"Chapter1_Quest_Darklord.classUp2.5" = "二次转职";
+"Chapter1_Quest_Darklord.classUp2.6" = "关于刺客…";
+"Chapter1_Quest_Darklord.classUp2.7" = "关于侠客…";
+"Chapter1_Quest_Darklord.classUp2.8" = "转职刺客";
+"Chapter1_Quest_Darklord.classUp2.9" = "转职侠客";
+
+/* function subQuest6() */
+"Chapter1_Quest_Darklord.subQuest6.1" = "给我看看你得到啥了";
+"Chapter1_Quest_Darklord.subQuest6.2" = "给我带来30个花蘑菇盖\r\n.来证明做飞侠没问题.";
+"Chapter1_Quest_Darklord.subQuest6.3" = "我要测试你的飞侠技能.";
+"Chapter1_Quest_Darklord.subQuest6.4" = "小心点.蘑菇比你想象的\r\n更要难搞哦.";
+"Chapter1_Quest_Darklord.subQuest6.5" = "给我带来30个花蘑菇盖";
+
+/* function subQuest8() */
+"Chapter1_Quest_Darklord.subQuest8.1" = "达克鲁的信念";
+"Chapter1_Quest_Darklord.subQuest8.2" = "如果你击败了30只黑斧\r\n木妖我就会给你及格.";
+"Chapter1_Quest_Darklord.subQuest8.3" = "你要去蚂蚁洞?那里的怪\r\n物太强大了.我知道你要\r\n找麦克阿瑟,但我不允许\r\n你一个人前往蚂蚁洞.";
+"Chapter1_Quest_Darklord.subQuest8.4" = "你在这训练更好.";
+"Chapter1_Quest_Darklord.subQuest8.5" = "已经够了.你已经变强了.";
+"Chapter1_Quest_Darklord.subQuest8.6" = "有了这个技能你应该可以\r\n只身独闯蚂蚁洞.";
+
+/* function mainCallBack() */
+"Chapter1_Quest_Darklord.mainCallBack.1" = "到达等级10并干掉废弃\r\n都市的10个木妖就允许\r\n你成为一名飞侠.";
+"Chapter1_Quest_Darklord.mainCallBack.2" = "我的小宇宙已经在燃烧!\r\n10个木妖,很轻松!";
+"Chapter1_Quest_Darklord.mainCallBack.3" = "麦克阿瑟会很高兴的.也\r\n很安慰...去告诉他这\r\n个好消息吧.";
+"Chapter1_Quest_Darklord.mainCallBack.4" = "麦克阿瑟说过他去了勇士\r\n部落.去那找他.";
+"Chapter1_Quest_Darklord.mainCallBack.5" = "当你觉得无法再提高的时\r\n候就回来找我.";
+
+/* function mainQuest21() */
+"Chapter1_Quest_Darklord.mainQuest21.1" = "转职评估";
+"Chapter1_Quest_Darklord.mainQuest21.2" = "升到10级并干掉10个\r\n木妖,我就让你成为一个\r\n真正的飞侠.";
+"Chapter1_Quest_Darklord.mainQuest21.3" = "啊,你就是麦克阿瑟说过\r\n的人,非常欢迎.";
+"Chapter1_Quest_Darklord.mainQuest21.4" = "你知道我?我现在很出名\r\n么?真了不起!我要成为\r\n冒险岛最厉害的飞侠!";
+"Chapter1_Quest_Darklord.mainQuest21.5" = "你要接受飞侠转职测验?\r\n很好.既然是长老斯坦派\r\n的,那我就同意了.";
+
+/* function mainQuest8() */
+"Chapter1_Quest_Darklord.mainQuest8.1" = "前往勇士部落";
+"Chapter1_Quest_Darklord.mainQuest8.2" = "前往勇士部落告诉麦克阿\r\n瑟你转职的好消息.";
+"Chapter1_Quest_Darklord.mainQuest8.3" = "我真的很惊讶你能专心的\r\n完成测试.你本看起来不\r\n是这种类型的.\r\n";
+"Chapter1_Quest_Darklord.mainQuest8.4" = "非常好.我宣布你已经是\r\n一个飞侠.你现在可以使\r\n用飞侠技能了.";
+"Chapter1_Quest_Darklord.mainQuest8.5" = "就是这样!!我都知道了\r\n.双飞斩用来投掷飞镖.\r\n二连击使用短剑.我已经\r\n迫不及待的要使用了!";
+"Chapter1_Quest_Darklord.mainQuest8.6" = "你真是...非常有激情\r\n啊.这些技能帮助你攻击\r\n或者防御,好好想想该如\r\n何运用.";
+"Chapter1_Quest_Darklord.mainQuest8.7" = "当你升级的时候你会获得\r\n技能点数.";
+"Chapter1_Quest_Darklord.mainQuest8.8" = "技能点数可以帮助你提升\r\n技能的威力.你一旦用了\r\n技能点数就无法退回.";
+"Chapter1_Quest_Darklord.mainQuest8.9" = "如果你不能完成这么简单\r\n的任务,你就不是成为飞\r\n侠的那块料.";
+
+/* function mainQuest9() */
+"Chapter1_Quest_Darklord.mainQuest9.1" = "麦克阿瑟会很高兴的.也\r\n很安慰...去告诉他这\r\n个好消息吧.";
+
+/* function setQuestList() */
+"Chapter1_Quest_Darklord.setQuestList.1" = "找到达克鲁";
+"Chapter1_Quest_Darklord.setQuestList.2" = "转职评估";
+"Chapter1_Quest_Darklord.setQuestList.3" = "前往勇士部落";
+"Chapter1_Quest_Darklord.setQuestList.4" = "给我看看你得到什么了";
+"Chapter1_Quest_Darklord.setQuestList.5" = "达克鲁的信念";
+"Chapter1_Quest_Darklord.setQuestList.6" = "当前任务";
+
+/* function dialog() */
+"Chapter1_Quest_Darklord.dialog.1" = "当你决心成为最厉害的飞\r\n侠的时候再来找我.";
+
+
+/* Chapter1_Quest_Krishurama ***************************************************/
+
+/* function reward() */
+"Chapter1_Quest_Krishurama.reward.1" = "不能干掉这么多火独眼兽";
+"Chapter1_Quest_Krishurama.reward.2" = "我的天哪!这里全都是冰\r\n独眼兽.";
+"Chapter1_Quest_Krishurama.reward.3" = "但是没人知道怎么除掉它\r\n们.总有你需要知道这个\r\n方法的时候.";
+
+/* function step2() */
+"Chapter1_Quest_Krishurama.step2.1" = "这里有一种火独眼兽怪物\r\n.帮我弄来30条尾巴.";
+"Chapter1_Quest_Krishurama.step2.2" = "帮我带来30条风独眼兽\r\n的尾巴.";
+"Chapter1_Quest_Krishurama.step2.3" = "帮我搞定50只冰独眼兽";
+
+/* function subQuest9() */
+"Chapter1_Quest_Krishurama.subQuest9.1" = "谢谢!";
+"Chapter1_Quest_Krishurama.subQuest9.2" = "请带回30条火独眼兽尾\r\n巴,必须阻止他们.";
+"Chapter1_Quest_Krishurama.subQuest9.3" = "克利斯拉玛的请求";
+"Chapter1_Quest_Krishurama.subQuest9.4" = "请带回30条火独眼兽尾\r\n巴,必须阻止他们.";
+"Chapter1_Quest_Krishurama.subQuest9.5" = "巫婆把蚂蚁变成了怪物,\r\n听说它们在洞附近徘徊.";
+"Chapter1_Quest_Krishurama.subQuest9.6" = "它们繁殖的非常快数量呈\r\n几何倍增长...";
+"Chapter1_Quest_Krishurama.subQuest9.7" = "它们可能会接管整个蚂蚁\r\n洞,如果再不快点的话.";
+
+/* function subQuest10() */
+"Chapter1_Quest_Krishurama.subQuest10.1" = "谢谢.我已经研究完你带\r\n来的火独眼兽和风独眼兽\r\n的尾巴了.";
+"Chapter1_Quest_Krishurama.subQuest10.2" = "然后我得到了惊人的结果\r\n.就是冰独眼兽的主人.";
+"Chapter1_Quest_Krishurama.subQuest10.3" = "帮我带来30条风独眼兽\r\n的尾巴.必须阻止他们.";
+"Chapter1_Quest_Krishurama.subQuest10.4" = "克利斯拉玛的请求2";
+"Chapter1_Quest_Krishurama.subQuest10.5" = "带回30条风独眼兽尾巴";
+"Chapter1_Quest_Krishurama.subQuest10.6" = "风独眼兽比火独眼兽还要\r\n危险因为它们已经进化.";
+
+/* function subQuest14() */
+"Chapter1_Quest_Krishurama.subQuest14.1" = "感谢你,蚂蚁洞坑道现在\r\n已经安全了.";
+"Chapter1_Quest_Krishurama.subQuest14.2" = "帮忙击败50只冰独眼兽";
+"Chapter1_Quest_Krishurama.subQuest14.3" = "克利斯拉玛的请求3";
+"Chapter1_Quest_Krishurama.subQuest14.4" = "请帮忙击败50冰独眼兽";
+"Chapter1_Quest_Krishurama.subQuest14.5" = "有必要告诉你一点关于冰\r\n独眼兽的事.";
+"Chapter1_Quest_Krishurama.subQuest14.6" = "冰独眼兽是由火和风独眼\r\n兽的尸体进化而来.";
+"Chapter1_Quest_Krishurama.subQuest14.7" = "如果不阻止冰独眼兽的行\r\n为将会有大灾难发生.";
+
+/* function dialog() */
+"Chapter1_Quest_Krishurama.dialog.1" = "这是一个非常危险的地方";
+
+
+/* Chapter1_Quest_Manji_2 ***************************************************/
+
+/* function mainCallBack() */
+"Chapter1_Quest_Manji_2.mainCallBack.1" = "你听说那个消息了么?有\r\n个农夫在耕作的时候受伤\r\n了.说是被炸弹弄伤的.\r\n真可怕.";
+"Chapter1_Quest_Manji_2.mainCallBack.2" = "这真是太怪异了.在这附\r\n近我还没见过携带炸弹的\r\n怪物.";
+"Chapter1_Quest_Manji_2.mainCallBack.3" = "很显然有恐怖的事情快要\r\n发生了.射手村有一位考\r\n古学家正研究怪物.或许\r\n他能有些相应的线索.";
+
+/* function mainQuest11() */
+"Chapter1_Quest_Manji_2.mainQuest11.1" = "失踪的师傅2";
+"Chapter1_Quest_Manji_2.mainQuest11.2" = "一个村民被炸弹袭击了,\r\n但怪物并不携带炸弹,射\r\n手村的布鲁斯可能会告诉\r\n你点什么消息.";
+"Chapter1_Quest_Manji_2.mainQuest11.3" = "干得好,罗宾.";
+"Chapter1_Quest_Manji_2.mainQuest11.4" = "这对飞侠来说都是小菜.";
+"Chapter1_Quest_Manji_2.mainQuest11.5" = "呃,是的.无论如何,是\r\n有些东西出差错了.我想\r\n尽办法也没能找到麦克阿\r\n瑟,这太不可思议了.";
+"Chapter1_Quest_Manji_2.mainQuest11.6" = "给我带来30片叶子!";
+
+/* function dialog2() */
+"Chapter1_Quest_Manji_2.dialog2.1" = "我有点心神不宁.师傅会\r\n在哪?";
+
+/* function dialog() */
+"Chapter1_Quest_Manji_2.dialog.1" = "新敌人即将出现";
+
+
+/* Chapter1_Quest_Manji ***************************************************/
+
+/* function dialog() */
+"Chapter1_Quest_Manji.dialog.1" = "我有点心神不宁.师傅会\r\n在哪?";
+
+
+/* Chapter1_Quest_Map_Perion ***************************************************/
+
+/* function mainQuest10() */
+"Chapter1_Quest_Map_Perion.mainQuest10.1" = "失踪的师傅";
+"Chapter1_Quest_Map_Perion.mainQuest10.2" = "现在去弄来30片叶子!";
+
+
+/* Chapter1_Quest_McAthur_Perion ***************************************************/
+
+/* function dialog() */
+"Chapter1_Quest_McAthur_Perion.dialog.1" = "节日准备的怎么样了?你\r\n一定忙坏了吧!\r\n";
+"Chapter1_Quest_McAthur_Perion.dialog.2" = "一切都很好,师傅.";
+
+
+/* Chapter1_Quest_Mingming ***************************************************/
+
+/* function reward() */
+"Chapter1_Quest_Mingming.reward.1" = "尽你所能去帮助别人.要\r\n做的很多,时间却不够.";
+
+/* function step2() */
+"Chapter1_Quest_Mingming.step2.1" = "现在前往废弃都市并询问\r\n吉姆是否准备好了.";
+
+/* function subQuest4() */
+"Chapter1_Quest_Mingming.subQuest4.1" = "吉姆的音乐1";
+"Chapter1_Quest_Mingming.subQuest4.2" = "询问吉姆是否准备好了.";
+"Chapter1_Quest_Mingming.subQuest4.3" = "哦.节日马上就要开始了\r\n.所有人都在忙碌.至少\r\n我很忙.";
+"Chapter1_Quest_Mingming.subQuest4.4" = "但是我这有点小问题.";
+"Chapter1_Quest_Mingming.subQuest4.5" = "吉姆说好要在节日上演唱\r\n,但我找不到他!你能让\r\n他记得承诺么?";
+"Chapter1_Quest_Mingming.subQuest4.6" = "吉姆在废弃都市.我会给\r\n你地图让你能找到他.";
+"Chapter1_Quest_Mingming.subQuest4.7" = "左上角点击地图的图标来\r\n查看当前你所在的位置.";
+"Chapter1_Quest_Mingming.subQuest4.8" = "世界地图上双击可以缩放";
+"Chapter1_Quest_Mingming.subQuest4.9" = "吉姆说好要在节日上演唱\r\n,但我找不到他!你能让\r\n他记得承诺么?";
+
+/* function setQuestList() */
+"Chapter1_Quest_Mingming.setQuestList.1" = "吉姆的音乐1";
+"Chapter1_Quest_Mingming.setQuestList.2" = "当前任务";
+
+/* function dialog() */
+"Chapter1_Quest_Mingming.dialog.1" = "我们忙着准备节日呢!";
+
+
+/* Chapter1_Quest_Pirate_Victoria ***************************************************/
+
+/* function reward() */
+"Chapter1_Quest_Pirate_Victoria.reward.1" = "哦!当你到30级时去找\r\n达克鲁完成二次转职吧!";
+
+/* function step2() */
+"Chapter1_Quest_Pirate_Victoria.step2.1" = "你要帮我搞30个刺蘑菇\r\n盖和30个绿蘑菇盖,作\r\n为送你去天空之城的代价\r\n.快点干吧.";
+
+/* function subQuest0() */
+"Chapter1_Quest_Pirate_Victoria.subQuest0.1" = "海盗的请求";
+"Chapter1_Quest_Pirate_Victoria.subQuest0.2" = "我被红鼻子海盗攻击了,\r\n我需要修复诺特勒斯号,\r\n但还差30个刺蘑菇盖和\r\n30个绿蘑菇盖.";
+"Chapter1_Quest_Pirate_Victoria.subQuest0.3" = "在我前往冒险岛时,我在\r\n姆仑附近被红鼻子海盗攻\r\n击了,并且我美丽的战舰\r\n诺特勒斯号受损了.";
+"Chapter1_Quest_Pirate_Victoria.subQuest0.4" = "如果你帮我搞到需要的材\r\n料,就送你去天空之城.";
+"Chapter1_Quest_Pirate_Victoria.subQuest0.5" = "我听说刺蘑菇盖和绿蘑菇\r\n盖是非常结实的材料.";
+"Chapter1_Quest_Pirate_Victoria.subQuest0.6" = "传言是真的!刺蘑菇盖和\r\n绿蘑菇盖果然结实异常.";
+"Chapter1_Quest_Pirate_Victoria.subQuest0.7" = "好样的!让我们去找天空\r\n之城吧!";
+"Chapter1_Quest_Pirate_Victoria.subQuest0.8" = "我需要你带回30个刺蘑\r\n菇盖和30个绿蘑菇盖.";
+
+/* function toOrbisCallBack() */
+"Chapter1_Quest_Pirate_Victoria.toOrbisCallBack.1" = "现在我们去找天空之城!";
+
+/* function toOrbis() */
+"Chapter1_Quest_Pirate_Victoria.toOrbis.1" = "现在我们去找天空之城!";
+"Chapter1_Quest_Pirate_Victoria.toOrbis.2" = "现在我们去找天空之城!";
+"Chapter1_Quest_Pirate_Victoria.toOrbis.3" = "你就是干掉巫婆的那个人\r\n,打算去神秘岛找药物?";
+"Chapter1_Quest_Pirate_Victoria.toOrbis.4" = "如果你到了新大陆后所有\r\n未完成的任务都会消失.";
+"Chapter1_Quest_Pirate_Victoria.toOrbis.5" = "就像展开了全新的旅程.";
+"Chapter1_Quest_Pirate_Victoria.toOrbis.6" = "现在做选择吧.你是否要\r\n去新大陆来次新冒险?";
+
+/* function dialog() */
+"Chapter1_Quest_Pirate_Victoria.dialog.1" = "我是冒险岛著名的海盗.";
+
+
+/* Chapter1_Quest_Remem ***************************************************/
+
+/* function start() */
+"Chapter1_Quest_Remem.start.1" = "你要是回来的话可能会有\r\n些困难,所以我会把你送\r\n到附近的村庄.";
+
+/* function subQuest() */
+"Chapter1_Quest_Remem.subQuest.1" = "你很坚定...这是我训\r\n练的一部分.但你...";
+"Chapter1_Quest_Remem.subQuest.2" = "为了玫瑰花.前进吧.你\r\n已经跨越很多困难了.";
+"Chapter1_Quest_Remem.subQuest.3" = "勇士部落森林";
+"Chapter1_Quest_Remem.subQuest.4" = "勇士部落森林";
+
+/* function dialog() */
+"Chapter1_Quest_Remem.dialog.1" = "你是个非常顽固的家伙.";
+
+
+/* Chapter1_Quest_Roy ***************************************************/
+
+/* function mainCallBack() */
+"Chapter1_Quest_Roy.mainCallBack.1" = "麦克阿瑟千万别发生什么\r\n糟糕的事.";
+"Chapter1_Quest_Roy.mainCallBack.2" = "村外的怪物因为什么原因\r\n变得更加凶猛了.";
+"Chapter1_Quest_Roy.mainCallBack.3" = "黑木妖和斧木妖正在破坏\r\n那片地区.";
+"Chapter1_Quest_Roy.mainCallBack.4" = "我要去巫婆可能在的地方\r\n,而你要去帮助干掉20\r\n个黑木妖和斧木妖.";
+"Chapter1_Quest_Roy.mainCallBack.5" = "你找到巫婆躲哪了?!";
+"Chapter1_Quest_Roy.mainCallBack.6" = "是的.她在一个叫被诅咒\r\n的圣坛.去那的唯一方法\r\n是穿过蚂蚁洞坑道.";
+"Chapter1_Quest_Roy.mainCallBack.7" = "如果我们先找萨比特拉玛\r\n聊聊,可能会帮助我们\r\n.他了解那片地区.";
+"Chapter1_Quest_Roy.mainCallBack.8" = "萨比特拉玛在蚂蚁洞,穿\r\n过射手村的三岔路就可以\r\n到了.";
+
+/* function mainQuest15() */
+"Chapter1_Quest_Roy.mainQuest15.1" = "罗伊的建议";
+"Chapter1_Quest_Roy.mainQuest15.2" = "帮忙干掉20个黑木妖和\r\n斧木妖.";
+"Chapter1_Quest_Roy.mainQuest15.3" = "这可是坏消息.我认为巫\r\n婆应该和师傅失踪有关.";
+"Chapter1_Quest_Roy.mainQuest15.4" = "我从麦吉那听说了,我也\r\n感觉有不对劲.如果巫婆\r\n真的不见了,那么肯定和\r\n师傅的失踪有什么关系.";
+
+/* function mainQuest16() */
+"Chapter1_Quest_Roy.mainQuest16.1" = "罗伊的建议2";
+"Chapter1_Quest_Roy.mainQuest16.2" = "试着在蚂蚁洞坑道找寻萨\r\n比特拉玛.";
+"Chapter1_Quest_Roy.mainQuest16.3" = "我觉得自从怪物消失了后\r\n,村子平静了许多.但是\r\n谁也不知道它们什么时候\r\n会回来.必须保持警惕.";
+"Chapter1_Quest_Roy.mainQuest16.4" = "请帮忙解决20个黑木妖\r\n和斧木妖.";
+
+/* function dialog() */
+"Chapter1_Quest_Roy.dialog.1" = "这件盔甲真不舒服.";
+
+/* function setQuestList() */
+"Chapter1_Quest_Roy.setQuestList.1" = "罗伊的建议1";
+"Chapter1_Quest_Roy.setQuestList.2" = "罗伊的建议2";
+"Chapter1_Quest_Roy.setQuestList.3" = "当前任务";
+
+
+/* Chapter1_Quest_Sabishurama ***************************************************/
+
+/* function mainCallBack() */
+"Chapter1_Quest_Sabishurama.mainCallBack.1" = "我认为巫婆正在被诅咒的\r\n圣坛策划什么.但是去那\r\n的就只能穿过蚂蚁洞.";
+"Chapter1_Quest_Sabishurama.mainCallBack.2" = "知道如何进入蚂蚁洞么?";
+"Chapter1_Quest_Sabishurama.mainCallBack.3" = "我能带你进入蚂蚁洞.但\r\n是我需要一些符咒来坚定\r\n我去那的意志.";
+"Chapter1_Quest_Sabishurama.mainCallBack.4" = "帮我从僵尸蘑菇身上搞来\r\n30个符咒.";
+"Chapter1_Quest_Sabishurama.mainCallBack.5" = "蚂蚁洞那太危险了,小心\r\n点.我真希望你能击败巫\r\n婆并救出师傅.";
+"Chapter1_Quest_Sabishurama.mainCallBack.6" = "巫婆在被诅咒的圣坛位于\r\n蚂蚁洞深部.";
+"Chapter1_Quest_Sabishurama.mainCallBack.7" = "别担心.不论多困难我都\r\n会带回来师傅的.";
+"Chapter1_Quest_Sabishurama.mainCallBack.8" = "小心点.巫婆法力高深.";
+
+/* function mainQuest17() */
+"Chapter1_Quest_Sabishurama.mainQuest17.1" = "萨比特拉玛的帮助";
+"Chapter1_Quest_Sabishurama.mainQuest17.2" = "我需要死亡的力量.帮我带\r\n回来30个符咒.";
+"Chapter1_Quest_Sabishurama.mainQuest17.3" = "罗伊让我来找你,因为你\r\n可能知道巫婆的消息.";
+"Chapter1_Quest_Sabishurama.mainQuest17.4" = "你就是罗伊提到的人.";
+
+/* function mainQuest18() */
+"Chapter1_Quest_Sabishurama.mainQuest18.1" = "击败巫婆";
+"Chapter1_Quest_Sabishurama.mainQuest18.2" = "请去打败巫婆.";
+"Chapter1_Quest_Sabishurama.mainQuest18.3" = "已经回来了?我现在明白\r\n为什么罗伊让你去了.";
+"Chapter1_Quest_Sabishurama.mainQuest18.4" = "收集30个符咒来打开那\r\n个洞穴.";
+
+/* function dialog() */
+"Chapter1_Quest_Sabishurama.dialog.1" = "我能感觉到邪恶的力量正\r\n在四溢...";
+
+
+/* Chapter1_Quest_Sabishurama2 ***************************************************/
+
+/* function mainQuest19() */
+"Chapter1_Quest_Sabishurama2.mainQuest19.1" = "陷入危境的师傅";
+"Chapter1_Quest_Sabishurama2.mainQuest19.2" = "麦克阿瑟现在情况很不妙\r\n快去找长老斯坦.";
+"Chapter1_Quest_Sabishurama2.mainQuest19.3" = "别担心师傅,当你和巫婆\r\n对战的时侯我会用意念把\r\n他送回射手村.";
+"Chapter1_Quest_Sabishurama2.mainQuest19.4" = "谢谢.我不会忘记你的帮\r\n助.";
+"Chapter1_Quest_Sabishurama2.mainQuest19.5" = "你已经击败了声名狼藉的\r\n巫婆.";
+"Chapter1_Quest_Sabishurama2.mainQuest19.6" = "现在最重要的是.我必须\r\n去见师傅!";
+"Chapter1_Quest_Sabishurama2.mainQuest19.7" = "...";
+
+
+/* Chapter1_Quest_Stan ***************************************************/
+
+/* function reward() */
+"Chapter1_Quest_Stan.reward.1" = "这是我的一点心意,请收\r\n下吧.";
+
+/* function step2() */
+"Chapter1_Quest_Stan.step2.1" = "请帮我从部落东部街角游\r\n荡的斧木妖身上搞到30\r\n根柴火.";
+
+/* function mainCallBack() */
+"Chapter1_Quest_Stan.mainCallBack.1" = "他们一起上了!我还是干\r\n掉了他们!";
+"Chapter1_Quest_Stan.mainCallBack.2" = "这不算什么.我要成为冒\r\n险岛最厉害的飞侠!";
+"Chapter1_Quest_Stan.mainCallBack.3" = "最厉害的?你在吹牛吧,\r\n我甚至怀疑你能否干掉这\r\n最弱的怪物...";
+"Chapter1_Quest_Stan.mainCallBack.4" = "哈哈,我可以蒙着眼睛,\r\n一只手就可以摆平它们百\r\n多个!";
+"Chapter1_Quest_Stan.mainCallBack.5" = "行动证明吧.干掉村外5\r\n只红蜗牛.如果你能办到\r\n的话...";
+"Chapter1_Quest_Stan.mainCallBack.6" = "哈!那些蜗牛应该祈祷它\r\n们还没出生!我会在你们\r\n眨眼之间回来的!";
+"Chapter1_Quest_Stan.mainCallBack.7" = "(蜗牛数量该减少了,希\r\n望那孩子别受伤.)";
+"Chapter1_Quest_Stan.mainCallBack.8" = "我现在是飞侠了么?!";
+"Chapter1_Quest_Stan.mainCallBack.9" = "你认为干掉5只小蜗牛就\r\n可以成为飞侠了?";
+"Chapter1_Quest_Stan.mainCallBack.10" = "是你给的我建议...";
+"Chapter1_Quest_Stan.mainCallBack.11" = "对不起,罗宾.我需要有\r\n人帮我解决这些讨厌鬼.";
+"Chapter1_Quest_Stan.mainCallBack.12" = "如果你真想做一名飞侠,\r\n在你到10级的时候去见\r\n废弃都市的达克鲁.";
+"Chapter1_Quest_Stan.mainCallBack.13" = "你很快就会到10级.那\r\n时你就可以成为一名真正\r\n的飞侠.";
+"Chapter1_Quest_Stan.mainCallBack.14" = "但是麦吉在寻找谁?";
+"Chapter1_Quest_Stan.mainCallBack.15" = "他正在找寻师傅麦克阿瑟";
+"Chapter1_Quest_Stan.mainCallBack.16" = "哪里出错了.师傅不会离\r\n开守卫者之石这么久.";
+"Chapter1_Quest_Stan.mainCallBack.17" = "所以你推断巫婆和师傅的\r\n失踪有关系...";
+"Chapter1_Quest_Stan.mainCallBack.18" = "看起来就是这样.如果那\r\n个巫婆掳走了师傅,那就\r\n意味着她是之前阻止我们\r\n守卫者能量的邪恶势力.";
+"Chapter1_Quest_Stan.mainCallBack.19" = "邪恶势力?力量?你们在\r\n说些什么?!";
+"Chapter1_Quest_Stan.mainCallBack.20" = "数个世纪以前守卫者之\r\n石是用来帮助冒险岛抵挡\r\n邪恶势力的力量.";
+"Chapter1_Quest_Stan.mainCallBack.21" = "罗伊会知道更多关于巫婆\r\n的消息.去部落找他吧.";
+"Chapter1_Quest_Stan.mainCallBack.22" = "不管做什么事准备好药物\r\n都最重要的.";
+"Chapter1_Quest_Stan.mainCallBack.23" = "在这找不到需要的药物,\r\n去问天空之城的哈拉克.";
+"Chapter1_Quest_Stan.mainCallBack.24" = "在大陆间移动需要船只,\r\n找海盗寻求帮助吧.";
+"Chapter1_Quest_Stan.mainCallBack.25" = "海盗就是那个NPC吧?";
+
+/* function mainQuest7() */
+"Chapter1_Quest_Stan.mainQuest7.1" = "找到达克鲁";
+"Chapter1_Quest_Stan.mainQuest7.2" = "如果你希望当厉害的飞侠\r\n,到10级的时候去废弃\r\n都市拜访达克鲁吧.";
+"Chapter1_Quest_Stan.mainQuest7.3" = "除掉村外的红蜗牛?!\r\n你或许有那个潜力.";
+"Chapter1_Quest_Stan.mainQuest7.4" = "你说干掉5条红蜗牛是轻\r\n而易举的...";
+"Chapter1_Quest_Stan.mainQuest7.5" = "长老的建议";
+"Chapter1_Quest_Stan.mainQuest7.6" = "干掉5条红蜗牛没什么难\r\n度.去吧!";
+"Chapter1_Quest_Stan.mainQuest7.7" = "你就是那个整天和怪物瞎\r\n折腾的罗宾了.";
+
+/* function mainQuest8() */
+"Chapter1_Quest_Stan.mainQuest8.1" = "如果你希望当厉害的飞侠\r\n,到10级的时候去废弃\r\n都市拜访达克鲁吧.";
+
+/* function mainQuest14() */
+"Chapter1_Quest_Stan.mainQuest14.1" = "长老斯坦的想法";
+"Chapter1_Quest_Stan.mainQuest14.2" = "去勇士部落寻找罗伊.他\r\n知道更多关于巫婆的事.";
+"Chapter1_Quest_Stan.mainQuest14.3" = "爆炸?又发生奇怪的事了\r\n.除了巫婆没人能在冒险\r\n岛弄到炸弹.";
+
+/* function mainQuest20() */
+"Chapter1_Quest_Stan.mainQuest20.1" = "陷入险境的师傅";
+"Chapter1_Quest_Stan.mainQuest20.2" = "找到天空之城的哈拉克.\r\n去那儿需要海盗的帮助.";
+"Chapter1_Quest_Stan.mainQuest20.3" = "因为巫婆的咒语,师傅失\r\n去了力量,我们该咋办?";
+"Chapter1_Quest_Stan.mainQuest20.4" = "咒语有感染性,所以我们\r\n把他隔离在部落屋子里.";
+"Chapter1_Quest_Stan.mainQuest20.5" = "他可能无法再恢复...";
+"Chapter1_Quest_Stan.mainQuest20.6" = "你这是什么意思?!你应\r\n该让我去看望他!";
+"Chapter1_Quest_Stan.mainQuest20.7" = "没有人能让他恢复过来.\r\n你应该明白,罗宾,那个\r\n咒语的力量太强了.";
+
+/* function subQuest22() */
+"Chapter1_Quest_Stan.subQuest22.1" = "好久不见,罗宾,什么风\r\n把你吹来了?";
+"Chapter1_Quest_Stan.subQuest22.2" = "你正在帮忙寻找失踪的家\r\n人?你真善良.";
+"Chapter1_Quest_Stan.subQuest22.3" = "现在想起来了,是有一个\r\n伙计找他女儿好多年了.";
+"Chapter1_Quest_Stan.subQuest22.4" = "让我想想.哦对.他的名\r\n字叫布鲁斯,是个研究怪\r\n兽的.去找他吧.";
+
+/* function subQuest34() */
+"Chapter1_Quest_Stan.subQuest34.1" = "冬季的准备";
+"Chapter1_Quest_Stan.subQuest34.2" = "这个冬天会很冷.去找斧\r\n木妖帮我搞30根柴火.";
+"Chapter1_Quest_Stan.subQuest34.3" = "我听说这个冬天会很冷.\r\n我需要你帮我找些柴火.";
+"Chapter1_Quest_Stan.subQuest34.4" = "谢谢.这个冬天我可以在\r\n温暖中度过了.";
+"Chapter1_Quest_Stan.subQuest34.5" = "从斧木妖身上弄到30根\r\n柴火.";
+
+/* function setQuestList() */
+"Chapter1_Quest_Stan.setQuestList.1" = "长老的建议";
+"Chapter1_Quest_Stan.setQuestList.2" = "找到DarkLord";
+"Chapter1_Quest_Stan.setQuestList.3" = "长老斯坦的想法";
+"Chapter1_Quest_Stan.setQuestList.4" = "陷入危境的师傅";
+"Chapter1_Quest_Stan.setQuestList.5" = "失踪的父亲";
+"Chapter1_Quest_Stan.setQuestList.6" = "冬季的准备";
+"Chapter1_Quest_Stan.setQuestList.7" = "当前任务";
+
+/* function dialog() */
+"Chapter1_Quest_Stan.dialog.1" = "感觉有啥不对劲.";
+
+
+/* Chapter1_SubQuest_Alex ***************************************************/
+
+/* function reward() */
+"Chapter1_SubQuest_Alex.reward.1" = "好人必定会有好报.";
+"Chapter1_SubQuest_Alex.reward.2" = "伊安是我的!只要想起她\r\n心里就一片澎湃.(伊安\r\n!你等着!我们会永远在\r\n一起!!)";
+"Chapter1_SubQuest_Alex.reward.3" = "虽然不多,略表心意.";
+
+/* function step2() */
+"Chapter1_SubQuest_Alex.step2.1" = "好吧,那个女孩看样子在\r\n等什么人.但我不知道是\r\n谁.你能帮我找出来那个\r\n人么?";
+"Chapter1_SubQuest_Alex.step2.2" = "你可以通过村庄东部的洞\r\n穴到达勇士部落森林.";
+"Chapter1_SubQuest_Alex.step2.3" = "能帮弄30个蝴蝶结么?";
+
+/* function quest1() */
+"Chapter1_SubQuest_Alex.quest1.1" = "这么说伊安她一直在找的\r\n人是她的父亲.";
+"Chapter1_SubQuest_Alex.quest1.2" = "谢谢你帮她找到了失去联\r\n系的父亲.";
+"Chapter1_SubQuest_Alex.quest1.3" = "请找到伊安在等谁...";
+"Chapter1_SubQuest_Alex.quest1.4" = "阿勒斯的担心";
+"Chapter1_SubQuest_Alex.quest1.5" = "伊安是我的梦中女孩,但\r\n是看样子她已经看上谁了\r\n请帮我找出究竟是谁!";
+"Chapter1_SubQuest_Alex.quest1.6" = "我在前不久的节日上发现\r\n了一个美丽的女孩.我无\r\n法控制对她的思念.";
+"Chapter1_SubQuest_Alex.quest1.7" = "她叫伊安,来自勇士部落\r\n.好想再见她一面...";
+
+/* function quest2() */
+"Chapter1_SubQuest_Alex.quest2.1" = "你花了这么长时间,我还\r\n以为你已经放弃了.非常\r\n感谢你的帮助.";
+"Chapter1_SubQuest_Alex.quest2.2" = "请帮我送伊安一束玫瑰.";
+"Chapter1_SubQuest_Alex.quest2.3" = "阿勒斯的请求";
+"Chapter1_SubQuest_Alex.quest2.4" = "我被怪物袭击并且伤到腿\r\n了,请帮我从森林捎回一\r\n束玫瑰.";
+"Chapter1_SubQuest_Alex.quest2.5" = "勇士部落森林?我几天前\r\n刚被那里伪装成树的怪物\r\n袭击了!在战斗中我的腿\r\n受伤了.";
+"Chapter1_SubQuest_Alex.quest2.6" = "医生说我3个月不能动!";
+"Chapter1_SubQuest_Alex.quest2.7" = "所以我只能靠你了,罗宾\r\n.你必须得帮我!";
+
+/* function subQuest28() */
+"Chapter1_SubQuest_Alex.subQuest28.1" = "一件给伊安的礼物";
+"Chapter1_SubQuest_Alex.subQuest28.2" = "我有一件给伊安的礼物,\r\n我想包装好看点.帮我弄\r\n到30个蝴蝶结.";
+"Chapter1_SubQuest_Alex.subQuest28.3" = "那个节日上看到的女孩太\r\n可爱了.";
+"Chapter1_SubQuest_Alex.subQuest28.4" = "我已经为她准备好了礼物\r\n.不知道该怎样包装它.";
+"Chapter1_SubQuest_Alex.subQuest28.5" = "我知道了!可以用蝴蝶结\r\n来包装.我听说漂漂猪在\r\n村东森林某处游荡.";
+"Chapter1_SubQuest_Alex.subQuest28.6" = "谢谢你.我可以完成为我\r\n梦中女孩准备的礼物了.";
+"Chapter1_SubQuest_Alex.subQuest28.7" = "帮我带回30个蝴蝶结.";
+
+/* function setQuestList() */
+"Chapter1_SubQuest_Alex.setQuestList.1" = "阿勒斯的担心";
+"Chapter1_SubQuest_Alex.setQuestList.2" = "阿勒斯的请求";
+"Chapter1_SubQuest_Alex.setQuestList.3" = "一件给伊安的礼物";
+"Chapter1_SubQuest_Alex.setQuestList.4" = "当前任务";
+
+/* function dialog() */
+"Chapter1_SubQuest_Alex.dialog.1" = "她是我的唯一!我是如此\r\n的想她.";
+
+
+/* Chapter1_SubQuest_Chris ***************************************************/
+
+/* function reward() */
+"Chapter1_SubQuest_Chris.reward.1" = "给…拿着这个!";
+
+/* function step2() */
+"Chapter1_SubQuest_Chris.step2.1" = "如果你弄来30根斧木妖\r\n的柴火我会很感激你的.";
+
+/* function subQuest33() */
+"Chapter1_SubQuest_Chris.subQuest33.1" = "谢谢.我得给你份大礼作\r\n为回报.";
+"Chapter1_SubQuest_Chris.subQuest33.2" = "帮我带回来20个黑斧木\r\n妖的斧头和30根柴火.";
+"Chapter1_SubQuest_Chris.subQuest33.3" = "史密斯的工具";
+"Chapter1_SubQuest_Chris.subQuest33.4" = "我的炼制工具都损坏了.\r\n帮我带回来20个黑斧木\r\n妖的斧头和30根柴火.";
+"Chapter1_SubQuest_Chris.subQuest33.5" = "啊,该死的!我的装备都\r\n生锈了.帮我带回来20\r\n个黑斧木妖的斧头.";
+
+/* function manuFacturingCallBack() */
+"Chapter1_SubQuest_Chris.manuFacturingCallBack.1" = "继续试下去.";
+
+/* function startManufacturing() */
+"Chapter1_SubQuest_Chris.startManufacturing.1" = "搞定了.";
+"Chapter1_SubQuest_Chris.startManufacturing.2" = "你没有足够材料制作道具\r\n.材料够了再回来吧.";
+
+/* function ItemHead() */
+"Chapter1_SubQuest_Chris.ItemHead.1" = "制作";
+"Chapter1_SubQuest_Chris.ItemHead.2" = "制作";
+"Chapter1_SubQuest_Chris.ItemHead.3" = "现在来制作一些道具.";
+
+/* function ItemListHead() */
+"Chapter1_SubQuest_Chris.ItemListHead.1" = "我该制作什么道具?";
+"Chapter1_SubQuest_Chris.ItemListHead.2" = "飞侠黑巾(Lv.15)";
+"Chapter1_SubQuest_Chris.ItemListHead.3" = "黑提贝帽(Lv.25)";
+
+/* function ItemBody() */
+"Chapter1_SubQuest_Chris.ItemBody.1" = "制作";
+"Chapter1_SubQuest_Chris.ItemBody.2" = "制作";
+"Chapter1_SubQuest_Chris.ItemBody.3" = "现在来制作一些道具.";
+
+/* function ItemListBody() */
+"Chapter1_SubQuest_Chris.ItemListBody.1" = "我该制作什么道具?";
+"Chapter1_SubQuest_Chris.ItemListBody.2" = "黑夜行者(Lv.15)";
+"Chapter1_SubQuest_Chris.ItemListBody.3" = "黑潜行者(Lv.25)";
+
+/* function ItemDagger() */
+"Chapter1_SubQuest_Chris.ItemDagger.1" = "制作";
+"Chapter1_SubQuest_Chris.ItemDagger.2" = "制作";
+"Chapter1_SubQuest_Chris.ItemDagger.3" = "现在来制作一些道具.";
+
+/* function ItemListDagger() */
+"Chapter1_SubQuest_Chris.ItemListDagger.1" = "我该制造什么道具?";
+"Chapter1_SubQuest_Chris.ItemListDagger.2" = "三角刃(Lv.15)";
+"Chapter1_SubQuest_Chris.ItemListDagger.3" = "飞影刃(Lv.25)";
+
+/* function ItemGlove() */
+"Chapter1_SubQuest_Chris.ItemGlove.1" = "制作";
+"Chapter1_SubQuest_Chris.ItemGlove.2" = "制作";
+"Chapter1_SubQuest_Chris.ItemGlove.3" = "现在来制作一些道具.";
+
+/* function ItemListGlove() */
+"Chapter1_SubQuest_Chris.ItemListGlove.1" = "我该制作什么道具?";
+"Chapter1_SubQuest_Chris.ItemListGlove.2" = "钢铁拳套(Lv.15)";
+"Chapter1_SubQuest_Chris.ItemListGlove.3" = "狼牙(Lv.25)";
+
+/* function ItemFoot() */
+"Chapter1_SubQuest_Chris.ItemFoot.1" = "制作";
+"Chapter1_SubQuest_Chris.ItemFoot.2" = "制作";
+"Chapter1_SubQuest_Chris.ItemFoot.3" = "现在来制作一些道具.";
+
+/* function ItemListFoot() */
+"Chapter1_SubQuest_Chris.ItemListFoot.1" = "我该制作什么道具?";
+"Chapter1_SubQuest_Chris.ItemListFoot.2" = "忍者凉鞋(Lv.15)";
+"Chapter1_SubQuest_Chris.ItemListFoot.3" = "追击鞋(Lv.25)";
+
+/* function ItemEar() */
+"Chapter1_SubQuest_Chris.ItemEar.1" = "制作";
+"Chapter1_SubQuest_Chris.ItemEar.2" = "制作";
+"Chapter1_SubQuest_Chris.ItemEar.3" = "现在来制作一些道具.";
+
+/* function ItemListEar() */
+"Chapter1_SubQuest_Chris.ItemListEar.1" = "我该制造什么道具?";
+"Chapter1_SubQuest_Chris.ItemListEar.2" = "锤耳环(Lv.15)";
+"Chapter1_SubQuest_Chris.ItemListEar.3" = "雷电耳环(Lv.25)";
+
+/* function ItemSortList() */
+"Chapter1_SubQuest_Chris.ItemSortList.1" = "头盔";
+"Chapter1_SubQuest_Chris.ItemSortList.2" = "盔甲";
+"Chapter1_SubQuest_Chris.ItemSortList.3" = "匕首";
+"Chapter1_SubQuest_Chris.ItemSortList.4" = "护腕";
+"Chapter1_SubQuest_Chris.ItemSortList.5" = "鞋子";
+"Chapter1_SubQuest_Chris.ItemSortList.6" = "耳环";
+"Chapter1_SubQuest_Chris.ItemSortList.7" = "道具制作";
+
+/* function dialog() */
+"Chapter1_SubQuest_Chris.dialog.1" = "不!我的装备都生锈了!";
+
+/* function setQuestList() */
+"Chapter1_SubQuest_Chris.setQuestList.1" = "史密斯的工具";
+"Chapter1_SubQuest_Chris.setQuestList.2" = "道具制作";
+"Chapter1_SubQuest_Chris.setQuestList.3" = "当前任务";
+
+
+/* Chapter1_SubQuest_DanceWithPig ***************************************************/
+
+/* function reward() */
+"Chapter1_SubQuest_DanceWithPig.reward.1" = "群众力量大,修房就是快\r\n啊.";
+
+/* function step2() */
+"Chapter1_SubQuest_DanceWithPig.step2.1" = "请帮我带回来20个黑斧\r\n木妖的斧头.";
+
+/* function quest1() */
+"Chapter1_SubQuest_DanceWithPig.quest1.1" = "谢谢!";
+"Chapter1_SubQuest_DanceWithPig.quest1.2" = "请帮我带回来30个黑斧\r\n木妖的斧头.";
+"Chapter1_SubQuest_DanceWithPig.quest1.3" = "修理酋长的屋子";
+"Chapter1_SubQuest_DanceWithPig.quest1.4" = "请帮我修理屋子.我需要\r\n30个黑斧木妖的斧头.";
+"Chapter1_SubQuest_DanceWithPig.quest1.5" = "我要做什么?!我的屋子\r\n因为前几天妖怪的袭击快\r\n要塌了.";
+"Chapter1_SubQuest_DanceWithPig.quest1.6" = "其他很多好心的村民都来\r\n帮我,但我们材料不足.";
+
+/* function manuFacturingCallBack() */
+"Chapter1_SubQuest_DanceWithPig.manuFacturingCallBack.1" = "当你需要材料或者宝石的\r\n时候欢迎再来找我.";
+
+/* function startManufacturing() */
+"Chapter1_SubQuest_DanceWithPig.startManufacturing.1" = "我们现在已经交易完了.";
+"Chapter1_SubQuest_DanceWithPig.startManufacturing.2" = "你还太嫩了点.如果你真\r\n想交易好东西还得更强.";
+
+/* function ItemExchange() */
+"Chapter1_SubQuest_DanceWithPig.ItemExchange.1" = "交易";
+"Chapter1_SubQuest_DanceWithPig.ItemExchange.2" = "交易";
+"Chapter1_SubQuest_DanceWithPig.ItemExchange.3" = "现在...开始交易.";
+
+/* function exchange() */
+"Chapter1_SubQuest_DanceWithPig.exchange.1" = "我有这个地区出产的矿物\r\n和宝石,有兴趣吗?交易\r\n很简单,换我需要的.";
+"Chapter1_SubQuest_DanceWithPig.exchange.2" = "先选你会为我带来什么.";
+"Chapter1_SubQuest_DanceWithPig.exchange.3" = "50蓝蘑菇盖";
+"Chapter1_SubQuest_DanceWithPig.exchange.4" = "50斧头";
+"Chapter1_SubQuest_DanceWithPig.exchange.5" = "50冰兽之尾";
+
+/* function dialog() */
+"Chapter1_SubQuest_DanceWithPig.dialog.1" = "现在看我们面前的风景.";
+
+/* function setQuestList() */
+"Chapter1_SubQuest_DanceWithPig.setQuestList.1" = "修理酋长的屋子";
+"Chapter1_SubQuest_DanceWithPig.setQuestList.2" = "交易";
+"Chapter1_SubQuest_DanceWithPig.setQuestList.3" = "当前任务";
+
+
+/* Chapter1_SubQuest_Guard ***************************************************/
+
+/* function reward() */
+"Chapter1_SubQuest_Guard.reward.1" = "你或许可以通过.";
+"Chapter1_SubQuest_Guard.reward.2" = "我想表示我的谢意.";
+
+/* function step2() */
+"Chapter1_SubQuest_Guard.step2.1" = "从达克鲁那合格通过.";
+"Chapter1_SubQuest_Guard.step2.2" = "不!蚂蚁洞里有刺蘑菇.";
+
+/* function subQuest7() */
+"Chapter1_SubQuest_Guard.subQuest7.1" = "卫兵的怀疑";
+"Chapter1_SubQuest_Guard.subQuest7.2" = "要进蚂蚁洞,得去达克鲁\r\n那里要通行证.";
+"Chapter1_SubQuest_Guard.subQuest7.3" = "等一下!此地是禁区,到\r\n蚂蚁洞的路已经被封闭了\r\n,因为那里太危险了.";
+"Chapter1_SubQuest_Guard.subQuest7.4" = "有通行证的人才可进去.";
+"Chapter1_SubQuest_Guard.subQuest7.5" = "你拿到达克鲁的通行证.";
+"Chapter1_SubQuest_Guard.subQuest7.6" = "要进蚂蚁洞,得去达克鲁\r\n那里要通行证.";
+
+/* function subQuest29() */
+"Chapter1_SubQuest_Guard.subQuest29.1" = "制作盔甲中";
+"Chapter1_SubQuest_Guard.subQuest29.2" = "请为这件盔甲收集30个\r\n有刺蘑菇盖.";
+"Chapter1_SubQuest_Guard.subQuest29.3" = "我的护甲怎么坏了?!我\r\n可是一向爱护有加的!";
+"Chapter1_SubQuest_Guard.subQuest29.4" = "我要做新的护甲,但我需\r\n要30个刺蘑菇盖,当然\r\n我会重重酬谢.";
+"Chapter1_SubQuest_Guard.subQuest29.5" = "你让我等好久,我担心会\r\n有人看到我.";
+"Chapter1_SubQuest_Guard.subQuest29.6" = "我需要30个刺蘑菇盖.";
+
+/* function dialog1() */
+"Chapter1_SubQuest_Guard.dialog1.1" = "等等,这片区域禁止进入\r\n.进洞是受限的,因为那\r\n太危险了...";
+
+/* function dialog2() */
+"Chapter1_SubQuest_Guard.dialog2.1" = "请勿进入危险的蚂蚁洞.";
+
+
+/* Chapter1_SubQuest_Humanoid ***************************************************/
+
+/* function reward() */
+"Chapter1_SubQuest_Humanoid.reward.1" = "如果我真能成为人,我首\r\n先要去找个女朋友.";
+
+/* function step2() */
+"Chapter1_SubQuest_Humanoid.step2.1" = "你能帮我找8个蓝色蜗牛\r\n壳吗,人类?";
+
+/* function subQuest3() */
+"Chapter1_SubQuest_Humanoid.subQuest3.1" = "人类的渴望";
+"Chapter1_SubQuest_Humanoid.subQuest3.2" = "我渴望成为人类,你能帮\r\n我找8个蓝色蜗牛壳吗,\r\n这样我就有人类朋友了.";
+"Chapter1_SubQuest_Humanoid.subQuest3.3" = "嗨,我从玛加提亚来.";
+"Chapter1_SubQuest_Humanoid.subQuest3.4" = "你总躲着我,是因为我跟\r\n你不一样吗?";
+"Chapter1_SubQuest_Humanoid.subQuest3.5" = "说真的,我想成为人类.\r\n我渴望有群体归属感.";
+"Chapter1_SubQuest_Humanoid.subQuest3.6" = "我想交朋友,听说人类喜\r\n欢礼物,我想送村民一些\r\n礼物,他们就会成为我的\r\n朋友了.";
+"Chapter1_SubQuest_Humanoid.subQuest3.7" = "听说蜗牛壳的项链很流行\r\n.听起来很不错,对不?";
+"Chapter1_SubQuest_Humanoid.subQuest3.8" = "谢谢,现在我把项链送给\r\n大家,我们就是朋友了.";
+"Chapter1_SubQuest_Humanoid.subQuest3.9" = "请帮我找8个蓝蜗牛壳.";
+
+/* function dialog() */
+"Chapter1_SubQuest_Humanoid.dialog.1" = "我想当人类,请帮帮我.";
+
+
+/* Chapter1_SubQuest_Iyan ***************************************************/
+
+/* function reward() */
+"Chapter1_SubQuest_Iyan.reward.1" = "太感谢了.";
+"Chapter1_SubQuest_Iyan.reward.2" = "阿勒斯真浪漫啊...";
+"Chapter1_SubQuest_Iyan.reward.3" = "罗宾有事了.";
+
+/* function step2() */
+"Chapter1_SubQuest_Iyan.step2.1" = "拿着这条项链.这是我从\r\n小就戴的,给我父亲看.";
+"Chapter1_SubQuest_Iyan.step2.2" = "哪儿能找到那样的人.";
+"Chapter1_SubQuest_Iyan.step2.3" = "然后我将勇往直前!";
+
+/* function quest1() */
+"Chapter1_SubQuest_Iyan.quest1.1" = "谢谢.这照片勾起了我童\r\n年的回忆,我承受不了.";
+"Chapter1_SubQuest_Iyan.quest1.2" = "罗宾,我们家又团圆了,\r\n谢谢你.";
+"Chapter1_SubQuest_Iyan.quest1.3" = "请代为去看望我父亲,告\r\n诉我他现在什么模样.";
+"Chapter1_SubQuest_Iyan.quest1.4" = "怀念父亲";
+"Chapter1_SubQuest_Iyan.quest1.5" = "我不记得父亲的模样了,\r\n帮我找他的照片好吗?";
+"Chapter1_SubQuest_Iyan.quest1.6" = "刚才有人造访了部落.一\r\n个男人,他在收集资料.\r\n他说我父亲就在射手村.";
+"Chapter1_SubQuest_Iyan.quest1.7" = "但是我记不起关于我父亲\r\n的任何事.我小时候被邪\r\n恶的蘑菇怪攻击过,因此\r\n失忆.我不想在忘记我父\r\n亲模样的情况下去见他.";
+"Chapter1_SubQuest_Iyan.quest1.8" = "罗宾,请代为去看父亲.";
+
+/* function quest2() */
+"Chapter1_SubQuest_Iyan.quest2.1" = "嗯,罗宾.有人告诉我他\r\n喜欢我...";
+"Chapter1_SubQuest_Iyan.quest2.2" = "他叫阿勒斯,住在附近的\r\n小村子里.我老觉得他很\r\n酷,他说要去森林找玫瑰\r\n花给我...";
+"Chapter1_SubQuest_Iyan.quest2.3" = "他说会去森林找玫瑰花给\r\n我,以证明他永久的爱情\r\n.听上去都不像真的,是\r\n吧?呵呵.";
+"Chapter1_SubQuest_Iyan.quest2.4" = "我的白马王子呢?";
+"Chapter1_SubQuest_Iyan.quest2.5" = "伊安的白马王子";
+"Chapter1_SubQuest_Iyan.quest2.6" = "我的梦中情人,要像我父\r\n亲一样浪漫.王子...";
+"Chapter1_SubQuest_Iyan.quest2.7" = "再次感谢你让我团圆,我\r\n一直很好奇家庭是啥样.";
+"Chapter1_SubQuest_Iyan.quest2.8" = "我父亲说过,他是如何向\r\n我母亲求婚的.很久前,\r\n在一顿晚餐后.他冒险去\r\n森林,只为了送她玫瑰花\r\n.我父亲太浪漫了.";
+"Chapter1_SubQuest_Iyan.quest2.9" = "只有那些勇敢坚毅的人才\r\n能进入森林.啊...我\r\n心中的爱人应该和我父亲\r\n一样浪漫勇敢.";
+
+/* function subQuest26() */
+"Chapter1_SubQuest_Iyan.subQuest26.1" = "谢谢你,罗宾.我可以把\r\n它当礼物,送给世界上最\r\n可爱的女孩!";
+"Chapter1_SubQuest_Iyan.subQuest26.2" = "请消灭30个绿蘑菇!";
+"Chapter1_SubQuest_Iyan.subQuest26.3" = "害怕绿蘑菇";
+"Chapter1_SubQuest_Iyan.subQuest26.4" = "我害怕绿蘑菇,消灭30\r\n个绿蘑菇,这样我就可以\r\n到村子外面逛逛了.";
+"Chapter1_SubQuest_Iyan.subQuest26.5" = "村子西边的蘑菇怪已经恶\r\n心我好些天了!";
+"Chapter1_SubQuest_Iyan.subQuest26.6" = "太痛苦了!我要经常走这\r\n条路.嘿,罗宾.能帮我\r\n除掉30个绿蘑菇么?";
+
+/* function setQuestList() */
+"Chapter1_SubQuest_Iyan.setQuestList.1" = "怀念父亲";
+"Chapter1_SubQuest_Iyan.setQuestList.2" = "伊安的白马王子";
+"Chapter1_SubQuest_Iyan.setQuestList.3" = "害怕绿蘑菇";
+"Chapter1_SubQuest_Iyan.setQuestList.4" = "现在的任务";
+
+/* function dialog() */
+"Chapter1_SubQuest_Iyan.dialog.1" = "我怀念跟我父亲一起渡过\r\n的日子.";
+"Chapter1_SubQuest_Iyan.dialog.2" = "谢谢,罗宾,你帮我找回\r\n了父亲.";
+"Chapter1_SubQuest_Iyan.dialog.3" = "我怀念跟我父亲一起渡过\r\n的日子.";
+
+
+/* Chapter1_SubQuest_JM ***************************************************/
+
+/* function reward() */
+"Chapter1_SubQuest_JM.reward.1" = "那位女士要放松一下,她\r\n压力太大了.";
+"Chapter1_SubQuest_JM.reward.2" = "亲爱的,谢谢!";
+"Chapter1_SubQuest_JM.reward.3" = "这是我的感谢.";
+"Chapter1_SubQuest_JM.reward.4" = "太谢谢你了.";
+
+/* function step2() */
+"Chapter1_SubQuest_JM.step2.1" = "这让我喉咙舒服多了,要\r\n对嗓子好一些,是不?";
+"Chapter1_SubQuest_JM.step2.2" = "去射手村东部的森林,搞\r\n定30头野猪.";
+"Chapter1_SubQuest_JM.step2.3" = "怎么办?能帮我找25条\r\n章鱼脚吗?";
+
+/* function subQuest4() */
+"Chapter1_SubQuest_JM.subQuest4.1" = "为什么明女士要为难你?\r\n知道了,我可是专业的.";
+
+/* function subQuest5() */
+"Chapter1_SubQuest_JM.subQuest5.1" = "你都搞定了?";
+"Chapter1_SubQuest_JM.subQuest5.2" = "拿到绿液球了?我的喉咙\r\n真难受啊.";
+"Chapter1_SubQuest_JM.subQuest5.3" = "吉姆的音乐2";
+"Chapter1_SubQuest_JM.subQuest5.4" = "我的嗓子要毁了,我马上\r\n需要15个绿液球.";
+"Chapter1_SubQuest_JM.subQuest5.5" = "你可以在废弃都市外找到\r\n绿液球,要15个.";
+
+/* function subQuest30() */
+"Chapter1_SubQuest_JM.subQuest30.1" = "为父亲报仇";
+"Chapter1_SubQuest_JM.subQuest30.2" = "野猪让我父亲摔倒,我得\r\n复仇.消灭30头野猪.";
+"Chapter1_SubQuest_JM.subQuest30.3" = "真倒霉.我父亲在村东的\r\n山里散步时,被猪粪滑倒\r\n了,还从山上滚了下来.";
+"Chapter1_SubQuest_JM.subQuest30.4" = "得给这些野猪一点厉害.";
+"Chapter1_SubQuest_JM.subQuest30.5" = "谢谢.听说这些野猪罪有\r\n应得了,我真高兴.";
+"Chapter1_SubQuest_JM.subQuest30.6" = "消灭30头野猪.";
+
+/* function subQuest31() */
+"Chapter1_SubQuest_JM.subQuest31.1" = "为父亲报仇2";
+"Chapter1_SubQuest_JM.subQuest31.2" = "帮我找25条章鱼脚,这\r\n是治疗我父亲脚的药物.";
+"Chapter1_SubQuest_JM.subQuest31.3" = "唉,伙计,我父亲还没恢\r\n复,真糟糕.夏天到了得\r\n有人去收玉米.";
+"Chapter1_SubQuest_JM.subQuest31.4" = "我想自己收玉米,但我对\r\n农活实在不擅长,即使有\r\n牛帮忙也不行.";
+"Chapter1_SubQuest_JM.subQuest31.5" = "听说章鱼脚可以帮人们快\r\n点恢复.";
+"Chapter1_SubQuest_JM.subQuest31.6" = "抱歉麻烦你了啊";
+"Chapter1_SubQuest_JM.subQuest31.7" = "请帮我找25条章鱼脚.";
+
+/* function setQuestList() */
+"Chapter1_SubQuest_JM.setQuestList.1" = "吉姆的音乐1";
+"Chapter1_SubQuest_JM.setQuestList.2" = "吉姆的音乐2";
+"Chapter1_SubQuest_JM.setQuestList.3" = "为父亲报仇";
+"Chapter1_SubQuest_JM.setQuestList.4" = "为父亲报仇2";
+"Chapter1_SubQuest_JM.setQuestList.5" = "现在的任务";
+
+/* function dialog() */
+"Chapter1_SubQuest_JM.dialog.1" = "现在不要跟我说话.";
+
+
+/* Chapter1_SubQuest_Pia ***************************************************/
+
+/* function reward() */
+"Chapter1_SubQuest_Pia.reward.1" = "我的心意.";
+
+/* function step2() */
+"Chapter1_SubQuest_Pia.step2.1" = "能帮我在村庄附近的木妖\r\n上拿5根树枝吗?";
+
+/* function subQuest2() */
+"Chapter1_SubQuest_Pia.subQuest2.1" = "皮亚的戏服";
+"Chapter1_SubQuest_Pia.subQuest2.2" = "我要5根树枝,做一件树\r\n的戏服.请帮帮我!";
+"Chapter1_SubQuest_Pia.subQuest2.3" = "告诉你一个秘密!我将在\r\n酸橙树节上扮演一只熊!";
+"Chapter1_SubQuest_Pia.subQuest2.4" = "可惜熊只能出场两秒种!";
+"Chapter1_SubQuest_Pia.subQuest2.5" = "别告诉其它人,我决定改\r\n演那颗树!";
+"Chapter1_SubQuest_Pia.subQuest2.6" = "所以我要一件树的戏服.";
+"Chapter1_SubQuest_Pia.subQuest2.7" = "你会帮我的吧.";
+"Chapter1_SubQuest_Pia.subQuest2.8" = "你终于回来了!我差点以\r\n为我的计划要失败了呢.";
+"Chapter1_SubQuest_Pia.subQuest2.9" = "想想吧!这颗树将是剧场\r\n里的明星!大家肯定会很\r\n惊讶...你会来吗?";
+"Chapter1_SubQuest_Pia.subQuest2.10" = "能帮我在村庄附近的木妖\r\n上拿5根树枝吗?";
+
+/* function dialog() */
+"Chapter1_SubQuest_Pia.dialog.1" = "我讨厌今年我扮演的角\r\n色!谁愿意演一只大笨熊\r\n?反正我不想.";
+
+
+/* ManufactureItem_Chapter1 ***************************************************/
+
+/* function manuFacturingCallBack() */
+"ManufactureItem_Chapter1.manuFacturingCallBack.1" = "试试.";
+
+/* function startManufacturing() */
+"ManufactureItem_Chapter1.startManufacturing.1" = "完成了.";
+"ManufactureItem_Chapter1.startManufacturing.2" = "材料凑齐了再来.";
+
+/* function ItemHead() */
+"ManufactureItem_Chapter1.ItemHead.1" = "制作";
+"ManufactureItem_Chapter1.ItemHead.2" = "制作";
+"ManufactureItem_Chapter1.ItemHead.3" = "开始制作吧.";
+
+/* function ItemListHead() */
+"ManufactureItem_Chapter1.ItemListHead.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter1.ItemListHead.2" = "红色宽帽(Lv.20)";
+"ManufactureItem_Chapter1.ItemListHead.3" = "提贝之帽(Lv.25)";
+
+/* function ItemBody() */
+"ManufactureItem_Chapter1.ItemBody.1" = "制作";
+"ManufactureItem_Chapter1.ItemBody.2" = "制作";
+"ManufactureItem_Chapter1.ItemBody.3" = "开始制作吧.";
+
+/* function ItemListBody() */
+"ManufactureItem_Chapter1.ItemListBody.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter1.ItemListBody.2" = "红色炮(Lv.20)";
+"ManufactureItem_Chapter1.ItemListBody.3" = "黑色潜行(Lv.25)";
+
+/* function ItemDagger() */
+"ManufactureItem_Chapter1.ItemDagger.1" = "制作";
+"ManufactureItem_Chapter1.ItemDagger.2" = "制作";
+"ManufactureItem_Chapter1.ItemDagger.3" = "开始制作吧.";
+
+/* function ItemListDagger() */
+"ManufactureItem_Chapter1.ItemListDagger.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter1.ItemListDagger.2" = "飞影刃(Lv.21)";
+"ManufactureItem_Chapter1.ItemListDagger.3" = "水晶刃(Lv.27)";
+
+/* function ItemGlove() */
+"ManufactureItem_Chapter1.ItemGlove.1" = "制作";
+"ManufactureItem_Chapter1.ItemGlove.2" = "制作";
+"ManufactureItem_Chapter1.ItemGlove.3" = "开始制作吧.";
+
+/* function ItemListGlove() */
+"ManufactureItem_Chapter1.ItemListGlove.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter1.ItemListGlove.2" = "狼牙(Lv.21)";
+"ManufactureItem_Chapter1.ItemListGlove.3" = "护腕(Lv.27)";
+
+/* function ItemFoot() */
+"ManufactureItem_Chapter1.ItemFoot.1" = "制作";
+"ManufactureItem_Chapter1.ItemFoot.2" = "制作";
+"ManufactureItem_Chapter1.ItemFoot.3" = "开始制作吧.";
+
+/* function ItemListFoot() */
+"ManufactureItem_Chapter1.ItemListFoot.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter1.ItemListFoot.2" = "漆皮鞋(Lv.20)";
+"ManufactureItem_Chapter1.ItemListFoot.3" = "追击鞋(Lv.25)";
+
+/* function ItemEar() */
+"ManufactureItem_Chapter1.ItemEar.1" = "制作";
+"ManufactureItem_Chapter1.ItemEar.2" = "制作";
+"ManufactureItem_Chapter1.ItemEar.3" = "开始制作吧.";
+
+/* function ItemListEar() */
+"ManufactureItem_Chapter1.ItemListEar.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter1.ItemListEar.2" = "负重耳环(Lv.20)";
+"ManufactureItem_Chapter1.ItemListEar.3" = "十字耳环(Lv.25)";
+
+/* function ItemSortList() */
+"ManufactureItem_Chapter1.ItemSortList.1" = "帽子";
+"ManufactureItem_Chapter1.ItemSortList.2" = "衣服";
+"ManufactureItem_Chapter1.ItemSortList.3" = "短剑";
+"ManufactureItem_Chapter1.ItemSortList.4" = "拳套";
+"ManufactureItem_Chapter1.ItemSortList.5" = "鞋子";
+"ManufactureItem_Chapter1.ItemSortList.6" = "饰品";
+"ManufactureItem_Chapter1.ItemSortList.7" = "制作物品";
+
+
+/* portal212 ***************************************************/
+
+
+/* portal301 ***************************************************/
+
+
+/* Tutorial_Map ***************************************************/
+
+/* function mainCallBack() */
+"Tutorial_Map.mainCallBack.1" = "现在请和我谈话.";
+
+/* function tutorialQuest1() */
+"Tutorial_Map.tutorialQuest1.1" = "和NPC对话";
+"Tutorial_Map.tutorialQuest1.2" = "按向上方向键开始对话.";
+"Tutorial_Map.tutorialQuest1.3" = "罗宾!你去哪了?别整天\r\n胡作非为的.";
+"Tutorial_Map.tutorialQuest1.4" = "哈!我就知道!你老是闹\r\n嚷着要当冒险岛最厉害的\r\n飞侠.";
+"Tutorial_Map.tutorialQuest1.5" = "有些基本的事情你得知道\r\n:首先是外交.好比现在\r\n大家都忙着准备过节呢.";
+"Tutorial_Map.tutorialQuest1.6" = "但你也可以跟他们交谈.\r\n先和我试,要很友好.";
+
+
+/* Tutorial_McAthur ***************************************************/
+
+/* function mainCallBack() */
+"Tutorial_McAthur.mainCallBack.1" = "这是个互帮互利的世界.";
+"Tutorial_McAthur.mainCallBack.2" = "尽量帮助他人,NPC头\r\n上出现灯泡就是需要你的\r\n帮助.";
+"Tutorial_McAthur.mainCallBack.3" = "灯泡若变成书的图标,表\r\n明任务已经完成,去收取\r\n报酬吧!";
+"Tutorial_McAthur.mainCallBack.4" = "接下来,你要学习如何高\r\n效率行动,这可是飞侠的\r\n拿手绝活.";
+"Tutorial_McAthur.mainCallBack.5" = "按左右方向配合跳跃可以\r\n斜跳.";
+"Tutorial_McAthur.mainCallBack.6" = "尝试跳到我这儿.";
+
+/* function tutorialQuest1_5() */
+"Tutorial_McAthur.tutorialQuest1_5.1" = "如何完成任务";
+"Tutorial_McAthur.tutorialQuest1_5.2" = "学习如何完成任务";
+"Tutorial_McAthur.tutorialQuest1_5.3" = "还行.以后可以先吃口香\r\n糖...总而言之,跟你\r\n遇见的每个人交谈.";
+
+/* function tutorialQuest2() */
+"Tutorial_McAthur.tutorialQuest2.1" = "如何跳跃";
+"Tutorial_McAthur.tutorialQuest2.2" = "学习如何跳跃.";
+"Tutorial_McAthur.tutorialQuest2.3" = "你了解没,罗宾?你在听\r\n吧?";
+
+
+/* Tutorial_McAthur2 ***************************************************/
+
+/* function mainCallBack() */
+"Tutorial_McAthur2.mainCallBack.1" = "接下来,爬梯子和绳子.";
+"Tutorial_McAthur2.mainCallBack.2" = "站在梯子或绳子的下方,\r\n跳起一直按着上方向键.\r\n明白了?试试看吧.";
+
+/* function tutorialQuest3() */
+"Tutorial_McAthur2.tutorialQuest3.1" = "如何爬梯子和绳子";
+"Tutorial_McAthur2.tutorialQuest3.2" = "学习爬梯子和绳子.";
+"Tutorial_McAthur2.tutorialQuest3.3" = "还行,看我多快?将来你\r\n也会做到的...";
+
+
+/* Tutorial_McAthur3 ***************************************************/
+
+/* function mainCallBack() */
+"Tutorial_McAthur3.mainCallBack.1" = "接下来,站在入口处,按\r\n上方向键到达别的场所.";
+"Tutorial_McAthur3.mainCallBack.2" = "我先走了,到右边的那个\r\n入口,快跟上.";
+"Tutorial_McAthur3.mainCallBack.3" = "教你可真累.现在去你左\r\n边的入口,找射手村的长\r\n老斯坦.";
+
+/* function tutorialQuest3() */
+"Tutorial_McAthur3.tutorialQuest3.1" = "如何通过入口";
+"Tutorial_McAthur3.tutorialQuest3.2" = "学习如何通过入口.";
+"Tutorial_McAthur3.tutorialQuest3.3" = "很好,你的悟性不错.";
+
+/* function tutorialQuest4() */
+"Tutorial_McAthur3.tutorialQuest4.1" = "呐泥嗦咧";
+"Tutorial_McAthur3.tutorialQuest4.2" = "去找射手村的长老斯坦,\r\n看看他能教你什么.";
+"Tutorial_McAthur3.tutorialQuest4.3" = "你现在向飞侠之路迈出一\r\n小步啦,自豪吧,罗宾.";
+"Tutorial_McAthur3.tutorialQuest4.4" = "去攻击那只蜗牛吧.";
+"Tutorial_McAthur3.tutorialQuest4.5" = "教你可真累.现在去你左\r\n边的入口,找射手村的长\r\n老斯坦.";
+
+
+/* Tutorial_McAthur4 ***************************************************/
+
+/* function mainCallBack() */
+"Tutorial_McAthur4.mainCallBack.1" = "村外有很多危险的怪物.\r\n装备武器后就能作战了.";
+"Tutorial_McAthur4.mainCallBack.2" = "去除掉那只蜗牛再回来.";
+
+/* function tutorialQuest4() */
+"Tutorial_McAthur4.tutorialQuest4.1" = "如何攻击怪物";
+"Tutorial_McAthur4.tutorialQuest4.2" = "学习如何攻击怪物.";
+"Tutorial_McAthur4.tutorialQuest4.3" = "很好.我们学点高级别的\r\n事情吧,罗宾?";
+ 
+
+/* Tutorial_Portal ***************************************************/
+
+
+/* Tutorial_Portal2 ***************************************************/
+
+
+/* Tutorial_Portal3 ***************************************************/
+
+
+
+
+/* 
+   ScriptChapter2.strings (Korean Version)
+   MapleThief
+
+   Created by Hyunchul Kim on 1/28/10.
+   Copyright 2010 NEXON Mobile Corporation. All rights reserved.
+ */
+
+
+
+/*
+ * Script - Chapter2
+ * String Definition: "FileName.MethodName.Sequence" = "Localized String";
+ */
+
+
+/* Chapter2_Boss_Yeti ***************************************************/
+
+/* function BossMsg() */
+"Chapter2_Boss_Yeti.BossMsg.1" = "啊啊啊!";
+"Chapter2_Boss_Yeti.BossMsg.2" = "呀呀呀!";
+"Chapter2_Boss_Yeti.BossMsg.3" = "不不不!";
+
+
+/* Chapter2_Mid_Boss_WareWolf(3) ***************************************************/
+
+/* function BossMsg() */
+"Chapter2_Mid_Boss_WareWolf.BossMsg.1" = "一位勇者来到了.";
+"Chapter2_Mid_Boss_WareWolf.BossMsg.2" = "如果你还想看到明天的太\r\n阳,就赶快滚!";
+"Chapter2_Mid_Boss_WareWolf.BossMsg.3" = "我怎么会被你这个弱者打\r\n败?简直不可思议.";
+
+
+/* Chapter2_MonsterCarnival_Spiegelman ***************************************************/
+
+/* function MoveToMCMap() */
+"Chapter2_MonsterCarnival_Spiegelman.MoveToMCMap.1" = "开始怪物嘉年华吧.";
+"Chapter2_MonsterCarnival_Spiegelman.MoveToMCMap.2" = "你需要怪物嘉年华的B票";
+"Chapter2_MonsterCarnival_Spiegelman.MoveToMCMap.3" = "如果想要参加就去买张嘉\r\n年华的B票.";
+
+/* function MCInfo() */
+"Chapter2_MonsterCarnival_Spiegelman.MCInfo.1" = "你是第一次参加怪物嘉年\r\n华吧.你还需要再受磨练\r\n,怪物嘉年华的游戏是冒\r\n险者之间的竞争.";
+"Chapter2_MonsterCarnival_Spiegelman.MCInfo.2" = "如果让大家选用真实的武\r\n器的话,结果就可能太残\r\n酷啦.冒险岛可是个非暴\r\n力的世界哦.";
+"Chapter2_MonsterCarnival_Spiegelman.MCInfo.3" = "怪物嘉年华,就是要尽可\r\n能多的击败怪物.";
+"Chapter2_MonsterCarnival_Spiegelman.MCInfo.4" = "击败怪物后,你就可以得\r\n到相应的勋章.迟早有一\r\n天,你会得到所有冒险者\r\n的尊敬.";
+"Chapter2_MonsterCarnival_Spiegelman.MCInfo.5" = "怎么样?难道你没感觉到\r\n心跳加速?";
+
+/* function MCGameInfo() */
+"Chapter2_MonsterCarnival_Spiegelman.MCGameInfo.1" = "怪物嘉年华有一条规则:\r\n必须在3分钟内尽可能多\r\n的击败怪物.";
+"Chapter2_MonsterCarnival_Spiegelman.MCGameInfo.2" = "击败越多怪物,得到的狂\r\n欢CP点数也越多,这将\r\n影响到你的排名.";
+"Chapter2_MonsterCarnival_Spiegelman.MCGameInfo.3" = "这是一个选出最优秀冒险\r\n者的游戏.有兴趣吗?要\r\n不要试一下?";
+
+/* function MCRankInfo() */
+"Chapter2_MonsterCarnival_Spiegelman.MCRankInfo.1" = "有了足够的CP点数可以\r\n去注册等级";
+"Chapter2_MonsterCarnival_Spiegelman.MCRankInfo.2" = "提醒一下!注册登记是要\r\n花流量的呦.";
+
+/* function infoMenu() */
+"Chapter2_MonsterCarnival_Spiegelman.infoMenu.1" = "怪物嘉年华是什么?";
+"Chapter2_MonsterCarnival_Spiegelman.infoMenu.2" = "详情";
+"Chapter2_MonsterCarnival_Spiegelman.infoMenu.3" = "关于注册排名";
+"Chapter2_MonsterCarnival_Spiegelman.infoMenu.4" = "内容很长,请仔细阅读.";
+
+/* function enterMobCarnival() */
+"Chapter2_MonsterCarnival_Spiegelman.enterMobCarnival.1" = "去怪物嘉年华";
+"Chapter2_MonsterCarnival_Spiegelman.enterMobCarnival.2" = "怪物嘉年华是什么?";
+"Chapter2_MonsterCarnival_Spiegelman.enterMobCarnival.3" = "哈哈.我是休彼得曼,狂\r\n欢马戏团的老板.是我举\r\n办了第一届嘉年华并邀请\r\n像你一样的冒险者们.";
+"Chapter2_MonsterCarnival_Spiegelman.enterMobCarnival.4" = "我很乐意向你介绍嘉年华\r\n,如果你还不了解.";
+
+
+/* function levelDownLimit() */
+"Chapter2_MonsterCarnival_Spiegelman.levelDownLimit.1" = "欢迎来到怪物嘉年华,噢\r\n!你的排名太高啦.";
+"Chapter2_MonsterCarnival_Spiegelman.levelDownLimit.2" = "打怪对你来说太无趣了.\r\n试试看挑战高级的怪物.";
+
+
+/* function levelUpLimit() */
+"Chapter2_MonsterCarnival_Spiegelman.levelUpLimit.1" = "你的等级还不能参加,只\r\n有31到50级的才行.";
+"Chapter2_MonsterCarnival_Spiegelman.levelUpLimit.2" = "这儿对你来说等于自杀.\r\n去升级以后再来...";
+
+
+/* Chapter2_Portal_MiniGame ***************************************************/
+
+
+/* Chapter2_Portal_To_Elnas ***************************************************/
+
+
+/* Chapter2_Portal_WareWolf(2) ***************************************************/
+
+
+/* Chapter2_Portal_WareWolfOut ***************************************************/
+
+
+/* Chapter2_Portal_Yeti(2) ***************************************************/
+
+
+/* Chapter2_portal972 ***************************************************/
+
+
+/* Chapter2_Quest_Alchester ***************************************************/
+
+/* function mainCallBack() */
+"Chapter2_Quest_Alchester.mainCallBack.1" = "你打败过可怕的狼人吗?";
+"Chapter2_Quest_Alchester.mainCallBack.2" = "啊,没事...";
+"Chapter2_Quest_Alchester.mainCallBack.3" = "我有个要求:全球变暖让\r\n冰雪溶化,被囚禁的怪物\r\n被释放了...";
+"Chapter2_Quest_Alchester.mainCallBack.4" = "其中,有一种最凶残的怪\r\n物,叫野狼.几天前,它\r\n们袭击了一位药农.";
+"Chapter2_Quest_Alchester.mainCallBack.5" = "(药农很快会变成狼人)";
+"Chapter2_Quest_Alchester.mainCallBack.6" = "我相信,从邪恶之源的能\r\n量,让野狼们更加狂暴了\r\n.去消灭25匹野狼.";
+
+"Chapter2_Quest_Alchester.mainCallBack.7" = "在你对付野狼的时候,有\r\n位村民又被袭击了,是一\r\n个巨大的白雪人.";
+"Chapter2_Quest_Alchester.mainCallBack.8" = "你是说那个传说中的怪物?!";
+"Chapter2_Quest_Alchester.mainCallBack.9" = "白雪人一直和村民相安无\r\n事,不知道现在怎么了.";
+"Chapter2_Quest_Alchester.mainCallBack.10" = "斯卡多猎人知道白雪人的\r\n事情,问问看他吧...";
+
+"Chapter2_Quest_Alchester.mainCallBack.11" = "被白雪人攻击过的村民,\r\n变得越来越虚弱.";
+"Chapter2_Quest_Alchester.mainCallBack.12" = "真糟糕!";
+"Chapter2_Quest_Alchester.mainCallBack.13" = "是的,我需要你的帮助.\r\n雪域村民吃狼尾好久啦.";
+"Chapter2_Quest_Alchester.mainCallBack.14" = "这些尾巴很有营养.请帮\r\n我带30条野狼之尾来.";
+"Chapter2_Quest_Alchester.mainCallBack.15" = "这是很难的,请你帮忙.";
+
+"Chapter2_Quest_Alchester.mainCallBack.16" = "试图让白雪人安静下来的\r\n人们,都被攻击了,现在\r\n他们的情况很不好.";
+"Chapter2_Quest_Alchester.mainCallBack.17" = "我不能袖手旁观!";
+"Chapter2_Quest_Alchester.mainCallBack.18" = "但我们已经没有勇敢的战\r\n士,可以制服白雪人了!";
+"Chapter2_Quest_Alchester.mainCallBack.19" = "什么?我看起来像是个软\r\n骨头吗?我一直都在对付\r\n它们!";
+"Chapter2_Quest_Alchester.mainCallBack.20" = "你能制服它们?呃,好吧\r\n,你可以去试试...";
+"Chapter2_Quest_Alchester.mainCallBack.21" = "从峡谷出去,到雪人谷.";
+
+"Chapter2_Quest_Alchester.mainCallBack.22" = "我还有一种不好的预感.";
+"Chapter2_Quest_Alchester.mainCallBack.23" = "你也感到了,罗宾?最坏\r\n的就是魔王会卷土重来.";
+"Chapter2_Quest_Alchester.mainCallBack.24" = "矿区藏着一个BOSS?";
+"Chapter2_Quest_Alchester.mainCallBack.25" = "是的.只有到废矿区里打\r\n败它才行.但那儿太热了\r\n,没人能进得去.";
+"Chapter2_Quest_Alchester.mainCallBack.26" = "去玛加提亚见基努莫斯的\r\n会长,我的老朋友.也许\r\n他会有办法.";
+"Chapter2_Quest_Alchester.mainCallBack.27" = "玛加提亚?在哪?";
+"Chapter2_Quest_Alchester.mainCallBack.28" = "玛加提亚是由炼金师组成\r\n的村庄.穿过大陆就找到\r\n了,去问码头的海盗.";
+
+/* function mainQuest7() */
+"Chapter2_Quest_Alchester.mainQuest7.1" = "全球变暖对雪域的影响";
+"Chapter2_Quest_Alchester.mainQuest7.2" = "怪物被释放了.去消灭最\r\n凶残的野狼25匹.";
+"Chapter2_Quest_Alchester.mainQuest7.3" = "我听说,有一股从邪恶之\r\n源传来的能量,咋回事?";
+"Chapter2_Quest_Alchester.mainQuest7.4" = "我担心魔界的大门就快要\r\n打开了...";
+
+/* function mainQuest71() */
+"Chapter2_Quest_Alchester.mainQuest71.1" = "白雪人的袭击";
+"Chapter2_Quest_Alchester.mainQuest71.2" = "斯卡多知道白雪人的情况\r\n,问问看如何打败它们.";
+"Chapter2_Quest_Alchester.mainQuest71.3" = "谢谢,现在人们可以放松\r\n一些了.";
+"Chapter2_Quest_Alchester.mainQuest71.4" = "很高兴能帮上忙!不过,\r\n你好像有烦恼,怎么了?";
+"Chapter2_Quest_Alchester.mainQuest71.5" = "去消灭25匹野狼.";
+
+/* function mainQuest72() */
+"Chapter2_Quest_Alchester.mainQuest72.1" = "缺少配料";
+"Chapter2_Quest_Alchester.mainQuest72.2" = "被白雪人攻击过的村民,\r\n变得越来越虚弱.请帮我\r\n带30条野狼之尾来.";
+"Chapter2_Quest_Alchester.mainQuest72.3" = "希望白雪人可以消停了.";
+"Chapter2_Quest_Alchester.mainQuest72.4" = "我还是不太清楚.斯卡多\r\n说,冰雪女王应该知道更\r\n多的详情.";
+"Chapter2_Quest_Alchester.mainQuest72.5" = "斯卡多猎人知道白雪人的\r\n事情,也许他能告诉你点\r\n什么.";
+
+/* function mainQuest8() */
+"Chapter2_Quest_Alchester.mainQuest8.1" = "打败白雪人";
+"Chapter2_Quest_Alchester.mainQuest8.2" = "峡谷有处通道可以到达雪\r\n人谷.快去那里.";
+"Chapter2_Quest_Alchester.mainQuest8.3" = "谢谢!村民们又恢复了,\r\n他们都想当面感谢你!";
+"Chapter2_Quest_Alchester.mainQuest8.4" = "在你面前的,可是冒险岛\r\n未来最厉害的飞侠,不用\r\n谢,这是我的工作!";
+"Chapter2_Quest_Alchester.mainQuest8.5" = "请带30条野狼之尾来.";
+
+/* function mainQuest9() */
+"Chapter2_Quest_Alchester.mainQuest9.1" = "救助";
+"Chapter2_Quest_Alchester.mainQuest9.2" = "去玛加提亚见基努莫斯的\r\n会长.海盗会带你去的.";
+"Chapter2_Quest_Alchester.mainQuest9.3" = "跟白雪人作战,一定很不\r\n容易吧?我都不敢想,谢\r\n谢你.";
+"Chapter2_Quest_Alchester.mainQuest9.4" = "请阻止愤怒的白雪人!";
+
+/* function dialog() */
+"Chapter2_Quest_Alchester.dialog.1" = "有一股不详的力量飘荡在\r\n村子里.";
+
+/* function setQuestList() */
+"Chapter2_Quest_Alchester.setQuestList.1" = "全球变暖对雪域的影响";
+"Chapter2_Quest_Alchester.setQuestList.2" = "打败白雪人";
+"Chapter2_Quest_Alchester.setQuestList.3" = "白雪人的袭击";
+"Chapter2_Quest_Alchester.setQuestList.4" = "必需品";
+"Chapter2_Quest_Alchester.setQuestList.5" = "救助";
+"Chapter2_Quest_Alchester.setQuestList.6" = "现在的任务";
+
+
+/* Chapter2_Quest_Barn ***************************************************/
+
+/* function reward() */
+"Chapter2_Quest_Barn.reward.1" = "去雪山的时候要当心,路\r\n很滑.";
+"Chapter2_Quest_Barn.reward.2" = "很不容易啊.";
+"Chapter2_Quest_Barn.reward.3" = "我还有其它事请你帮助,\r\n以后再来找我.";
+"Chapter2_Quest_Barn.reward.4" = "去跟哈拉克可说话.";
+"Chapter2_Quest_Barn.reward.5" = "很好,我一肚子牢骚!";
+
+/* function step2() */
+"Chapter2_Quest_Barn.step2.1" = "那里我不敢调查,有生命\r\n危险.";
+"Chapter2_Quest_Barn.step2.2" = "请带给我30块精灵的星\r\n星碎片.";
+"Chapter2_Quest_Barn.step2.3" = "请带给我30块精灵的太\r\n阳碎片?";
+"Chapter2_Quest_Barn.step2.4" = "我会给你报酬的.";
+
+/* function subQuest5() */
+"Chapter2_Quest_Barn.subQuest5.1" = "炼金师的要求";
+"Chapter2_Quest_Barn.subQuest5.2" = "消灭20颗石球,这样就\r\n能去看看通道是否安全.";
+"Chapter2_Quest_Barn.subQuest5.3" = "你为何要来这么危险的地\r\n方?如果你想从这去雪域\r\n,趁早死心吧.";
+"Chapter2_Quest_Barn.subQuest5.4" = "虽然这是通往雪域唯一的\r\n路,但已经封闭了,邪恶\r\n能量已经影响到雪域.";
+"Chapter2_Quest_Barn.subQuest5.5" = "我必须去雪域,但说实话\r\n,我有点害怕.我得去看\r\n看通道有没有问题.";
+"Chapter2_Quest_Barn.subQuest5.6" = "当我去查看通道的时候,\r\n你能帮我清除怪物吗?";
+"Chapter2_Quest_Barn.subQuest5.7" = "搞定20颗冰火石球.";
+"Chapter2_Quest_Barn.subQuest5.8" = "请收下我的感谢.";
+"Chapter2_Quest_Barn.subQuest5.9" = "消灭20颗石球,这样就\r\n能去看看通道是否安全.";
+
+
+/* function subQuest10() */
+"Chapter2_Quest_Barn.subQuest10.1" = "炼金师的帮助";
+"Chapter2_Quest_Barn.subQuest10.2" = "请带给我30块精灵的星\r\n星碎片,这样我可以做一\r\n个盛满阳光的碗.";
+"Chapter2_Quest_Barn.subQuest10.3" = "阳光可以创造日耀.不过\r\n村子太大了,不容易弄.";
+"Chapter2_Quest_Barn.subQuest10.4" = "首先要做一个可以盛阳光\r\n的碗.";
+"Chapter2_Quest_Barn.subQuest10.5" = "做碗的主要材料就是星星\r\n碎片.";
+"Chapter2_Quest_Barn.subQuest10.6" = "噢!你带来了!我马上就\r\n能做出碗来.";
+"Chapter2_Quest_Barn.subQuest10.7" = "请带给我30块精灵的碎\r\n片,这样我可以做一个碗\r\n,盛满阳光.";
+
+
+/* function subQuest13() */
+"Chapter2_Quest_Barn.subQuest13.1" = "炼金师的帮助2";
+"Chapter2_Quest_Barn.subQuest13.2" = "阳光不足.请带给我30\r\n块精灵的太阳碎片.";
+"Chapter2_Quest_Barn.subQuest13.3" = "碗就快做好了.我需要足\r\n够的阳光才能创造日耀.";
+"Chapter2_Quest_Barn.subQuest13.4" = "但阳光不足!是很闪烁,\r\n但还不够哦!";
+"Chapter2_Quest_Barn.subQuest13.5" = "可以用精灵的太阳碎片,\r\n这是固化的阳光.";
+"Chapter2_Quest_Barn.subQuest13.6" = "你知道在哪吧?";
+"Chapter2_Quest_Barn.subQuest13.7" = "太好了!现在我可以创造\r\n日耀了,在你的帮助下,\r\n一切都很顺利.";
+"Chapter2_Quest_Barn.subQuest13.8" = "哈拉克柯想告诉你,他非\r\n常感谢你的帮助.";
+"Chapter2_Quest_Barn.subQuest13.9" = "阳光不足.请带给我30\r\n块精灵的太阳碎片.";
+
+
+/* function subQuest25() */
+"Chapter2_Quest_Barn.subQuest25.1" = "饥饿的巴兰";
+"Chapter2_Quest_Barn.subQuest25.2" = "我快饿死了,如果你带给\r\n我30条小帝企鹅的鱼,\r\n我会好好感谢你的.";
+"Chapter2_Quest_Barn.subQuest25.3" = "我很孤独...还很饿!\r\n我禁不住的在想那些新鲜\r\n多汁的鱼儿,就在塔里.";
+"Chapter2_Quest_Barn.subQuest25.4" = "你都带来了?";
+"Chapter2_Quest_Barn.subQuest25.5" = "我快饿死了,如果你带给\r\n我30条小帝企鹅的鱼,\r\n我会好好感谢你的.";
+
+
+/* function dialog() */
+"Chapter2_Quest_Barn.dialog.1" = "我不想再无所事事啦.";
+
+
+/* function setQuestList() */
+"Chapter2_Quest_Barn.setQuestList.1" = "炼金师的请求";
+"Chapter2_Quest_Barn.setQuestList.2" = "炼金师的帮助";
+"Chapter2_Quest_Barn.setQuestList.3" = "炼金师的帮助2";
+"Chapter2_Quest_Barn.setQuestList.4" = "饥饿的巴兰";
+"Chapter2_Quest_Barn.setQuestList.5" = "现在的任务";
+
+
+/* Chapter2_Quest_Darklord(2) ***************************************************/
+
+/* function classUpCallBack() */
+"Chapter2_Quest_Darklord.classUpCallBack.1" = "如果发现无法再提高了,\r\n就来找我!";
+
+/* function startClassUp() */
+"Chapter2_Quest_Darklord.startClassUp.1" = "你应该知道,每次升级后\r\n都可以得到技能点数.有\r\n疑问请查看帮助菜单.";
+
+/* function startClassUp2() */
+"Chapter2_Quest_Darklord.startClassUp2.1" = "你已经成为一名真正的飞\r\n侠,但前面还有很长的路\r\n要走.";
+
+/* function classUp2CallBack() */
+"Chapter2_Quest_Darklord.classUp2CallBack.1" = "转职";
+"Chapter2_Quest_Darklord.classUp2CallBack.2" = "转职";
+"Chapter2_Quest_Darklord.classUp2CallBack.3" = "转职为刺客";
+"Chapter2_Quest_Darklord.classUp2CallBack.4" = "转职为侠客";
+
+/* function assasinInfo() */
+"Chapter2_Quest_Darklord.assasinInfo.1" = "刺客使用飞镖作为主要武\r\n器,善于远程攻击.";
+"Chapter2_Quest_Darklord.assasinInfo.2" = "刺客的主要技能是多重飞\r\n镖和无影人.多重飞镖能\r\n一次性伤害多个怪物.";
+"Chapter2_Quest_Darklord.assasinInfo.3" = "无影人三次转职后才能获\r\n得,能复制你的动作,从\r\n而提升攻击力.";
+
+/* function thiefInfo() */
+"Chapter2_Quest_Darklord.thiefInfo.1" = "侠客也是飞侠的一种,但\r\n他们使用短刀,有强大的\r\n近身格斗技能.";
+"Chapter2_Quest_Darklord.thiefInfo.2" = "侠客的主技能是回旋斩和\r\n一击双出.回旋斩是快速\r\n攻击敌人6次.";
+"Chapter2_Quest_Darklord.thiefInfo.3" = "双出只有在第三次转职后\r\n才能使用.可以短时间内\r\n攻击敌人两次,并且提升\r\n攻击力.";
+
+/* function classUp2() */
+"Chapter2_Quest_Darklord.classUp2.1" = "嗯,你看起来比我上次见\r\n你时更强了.";
+"Chapter2_Quest_Darklord.classUp2.2" = "我可以再次提升你的职业\r\n技能.选择发展方向,进\r\n行第二次转职.";
+"Chapter2_Quest_Darklord.classUp2.3" = "决定就不能再反悔,所以\r\n一定要明智的选择!";
+"Chapter2_Quest_Darklord.classUp2.4" = "二次转职";
+"Chapter2_Quest_Darklord.classUp2.5" = "二次转职";
+"Chapter2_Quest_Darklord.classUp2.6" = "关于刺客…";
+"Chapter2_Quest_Darklord.classUp2.7" = "关于侠客…";
+"Chapter2_Quest_Darklord.classUp2.8" = "转职为刺客";
+"Chapter2_Quest_Darklord.classUp2.9" = "转职为侠客";
+
+/* function classUp3CallBack() */
+"Chapter2_Quest_Darklord.classUp3CallBack.1" = "第三次转职后,你还有很\r\n长的路要走,保重.";
+
+/* function startClassUp3() */
+"Chapter2_Quest_Darklord.startClassUp3.1" = "你做得很好,罗宾,这是\r\n你应得的.";
+
+/* function classUp3() */
+"Chapter2_Quest_Darklord.classUp3.1" = "可以进行第三次转职了.";
+"Chapter2_Quest_Darklord.classUp3.2" = "我终将成为真正的飞侠.";
+"Chapter2_Quest_Darklord.classUp3.3" = "转职";
+"Chapter2_Quest_Darklord.classUp3.4" = "转职";
+
+/* function dialog() */
+"Chapter2_Quest_Darklord.dialog.1" = "当你准备好成为冒险岛最\r\n厉害的飞侠,就来找我.";
+
+
+/* Chapter2_Quest_Erickson ***************************************************/
+
+/* function reward() */
+"Chapter2_Quest_Erickson.reward.1" = "我可爱的小猫咪想跟你说\r\n谢谢.";
+"Chapter2_Quest_Erickson.reward.2" = "谁敢打我的小猫咪!";
+
+/* function step2() */
+"Chapter2_Quest_Erickson.step2.1" = "在去双色庭院通道的路上\r\n,找到上等兵瑞恩.";
+"Chapter2_Quest_Erickson.step2.2" = "请你帮我找25个玩具熊\r\n猫的棉花团好吗?我的小\r\n猫咪需要它们.";
+"Chapter2_Quest_Erickson.step2.3" = "帮我去惩罚一下50只粉\r\n玩具熊好吗?";
+
+/* function subQuest0() */
+"Chapter2_Quest_Erickson.subQuest0.1" = "遇见上等兵瑞恩";
+"Chapter2_Quest_Erickson.subQuest0.2" = "如果你想找生命之木,先\r\n去找到上等兵瑞恩.";
+"Chapter2_Quest_Erickson.subQuest0.3" = "你要生命之木?那地方太\r\n危险啦,到处都是狼人!";
+"Chapter2_Quest_Erickson.subQuest0.4" = "曾经,有一个药农在雪域\r\n附近寻找生命之木的时候\r\n,被野狼袭击了,然后,\r\n他也变成狼人了...";
+"Chapter2_Quest_Erickson.subQuest0.5" = "现在,他不得不整天躲在\r\n阴暗处,没有任何朋友,\r\n他怕自己失控伤害别人.";
+"Chapter2_Quest_Erickson.subQuest0.6" = "现在,你还打算去吗?你\r\n是不见棺材不落泪.";
+
+/* function subQuest4() */
+"Chapter2_Quest_Erickson.subQuest4.1" = "小猫的家";
+"Chapter2_Quest_Erickson.subQuest4.2" = "我想给小猫咪做一个温暖\r\n的窝.请你帮我找25片\r\n玩具熊猫的棉花团.";
+"Chapter2_Quest_Erickson.subQuest4.3" = "我的小猫是不是很可爱?\r\n我想做一个纯棉花的窝.";
+"Chapter2_Quest_Erickson.subQuest4.4" = "谢谢!";
+"Chapter2_Quest_Erickson.subQuest4.5" = "请找25片棉花团.";
+
+/* function subQuest19() */
+"Chapter2_Quest_Erickson.subQuest19.1" = "受惊吓的猫咪";
+"Chapter2_Quest_Erickson.subQuest19.2" = "我可爱的猫咪旁边围满了\r\n粉玩具熊,消灭50只.";
+"Chapter2_Quest_Erickson.subQuest19.3" = "罗宾!帮帮忙!!";
+"Chapter2_Quest_Erickson.subQuest19.4" = "我带着小猫咪,在逛红色\r\n庭院的时候,被粉玩具熊\r\n围住了.小猫咪都吓坏了\r\n!都不敢从我头上下来.";
+"Chapter2_Quest_Erickson.subQuest19.5" = "谢谢!这些粉玩具熊罪有\r\n应得.";
+"Chapter2_Quest_Erickson.subQuest19.6" = "请你帮我去惩罚一下50\r\n只粉玩具熊好吗?";
+
+/* function manuFacturingCallBack() */
+"Chapter2_Quest_Erickson.manuFacturingCallBack.1" = "需要矿物和宝石时再来.";
+
+/* function startManufacturing() */
+"Chapter2_Quest_Erickson.startManufacturing.1" = "如果有更多的矿物和宝石\r\n,可以弄更好的东西来.";
+"Chapter2_Quest_Erickson.startManufacturing.2" = "看来你还不想制作物品,\r\n等你有兴趣的时候再来.";
+
+/* function ItemExchange() */
+"Chapter2_Quest_Erickson.ItemExchange.1" = "交易";
+"Chapter2_Quest_Erickson.ItemExchange.2" = "交易";
+"Chapter2_Quest_Erickson.ItemExchange.3" = "那..我们?";
+
+/* function exchange() */
+"Chapter2_Quest_Erickson.exchange.1" = "50黄色丝带";
+"Chapter2_Quest_Erickson.exchange.2" = "50精灵碎片";
+"Chapter2_Quest_Erickson.exchange.3" = "50野狼之尾";
+"Chapter2_Quest_Erickson.exchange.4" = "50企鹅的嘴";
+"Chapter2_Quest_Erickson.exchange.5" = "我有这个地区出产的矿物\r\n和宝石,有兴趣吗?交易\r\n很简单,换我需要的.";
+"Chapter2_Quest_Erickson.exchange.6" = "然后我用矿物跟你交换.";
+"Chapter2_Quest_Erickson.exchange.7" = "先选择愿意交易的物品.";
+
+/* function dialog() */
+"Chapter2_Quest_Erickson.dialog.1" = "你不觉得我头上的小猫咪\r\n很可爱吗?";
+
+/* function setQuestList() */
+"Chapter2_Quest_Erickson.setQuestList.1" = "遇见上等兵瑞恩";
+"Chapter2_Quest_Erickson.setQuestList.2" = "猫咪的家";
+"Chapter2_Quest_Erickson.setQuestList.3" = "受惊吓的猫咪";
+"Chapter2_Quest_Erickson.setQuestList.4" = "交易";
+"Chapter2_Quest_Erickson.setQuestList.5" = "现在的任务";
+
+
+/* Chapter2_Quest_Fairy ***************************************************/
+
+/* function mainCallBack() */
+"Chapter2_Quest_Fairy.mainCallBack.1" = "是的,我可以做药.不过\r\n我需要生命之木的果实.";
+"Chapter2_Quest_Fairy.mainCallBack.2" = "或者我可以用另外的配方\r\n?不行,我只知道一个.";
+"Chapter2_Quest_Fairy.mainCallBack.3" = "有一个古老的神秘配方,\r\n用蓝独角狮尾以及其它一\r\n些东西配制,可以治疗黑\r\n魔法的伤害.\r\n";
+"Chapter2_Quest_Fairy.mainCallBack.4" = "我需要蓝独角狮尾,帮我\r\n找40条好吗?";
+"Chapter2_Quest_Fairy.mainCallBack.5" = "好的,现在还有个最困难\r\n的问题...";
+"Chapter2_Quest_Fairy.mainCallBack.6" = "什么?告诉我!快!";
+"Chapter2_Quest_Fairy.mainCallBack.7" = "别紧张,孩子,你太激动\r\n了.你还要去找一株生命\r\n之木.艾利逊可以帮你.";
+"Chapter2_Quest_Fairy.mainCallBack.8" = "噢!哈拉克说有事找你,\r\n回去的路上去找他吧.";
+
+/* function mainQuest2() */
+"Chapter2_Quest_Fairy.mainQuest2.1" = "收集药物配料";
+"Chapter2_Quest_Fairy.mainQuest2.2" = "要治疗黑魔法的伤害,我\r\n需要40条蓝独角狮尾.";
+"Chapter2_Quest_Fairy.mainQuest2.3" = "(哇,太可爱了!)";
+"Chapter2_Quest_Fairy.mainQuest2.4" = "你一定是罗宾吧,人们都\r\n在传颂你的事迹呢.民呐\r\n嗓在帮你收集药物配料.";
+
+/* function mainQuest3() */
+"Chapter2_Quest_Fairy.mainQuest3.1" = "收集药物配料2";
+"Chapter2_Quest_Fairy.mainQuest3.2" = "要找生命之木.没有艾利\r\n逊可不行.";
+"Chapter2_Quest_Fairy.mainQuest3.3" = "太好了!";
+"Chapter2_Quest_Fairy.mainQuest3.4" = "我要40条蓝独角狮尾.";
+
+/* function mainQuest4() */
+"Chapter2_Quest_Fairy.mainQuest4.1" = "拿到药物";
+"Chapter2_Quest_Fairy.mainQuest4.2" = "我把药给哈拉克柯了,去\r\n找他.";
+"Chapter2_Quest_Fairy.mainQuest4.3" = "啊,你找到了药方里最难\r\n的一味药.现在,把它们\r\n混合在一起...";
+"Chapter2_Quest_Fairy.mainQuest4.4" = "(嗖!嗖!砰!)";
+"Chapter2_Quest_Fairy.mainQuest4.5" = "瞧!药物做好了.";
+"Chapter2_Quest_Fairy.mainQuest4.6" = "现在可以带给你师傅了,\r\n祝你幸运,孩子.";
+"Chapter2_Quest_Fairy.mainQuest4.7" = "请在艾利逊的帮助下,带\r\n回生命之木.";
+
+/* function dialog() */
+"Chapter2_Quest_Fairy.dialog.1" = "我是这里唯一的仙女,真\r\n无聊透顶啊.";
+
+/* function setQuestList() */
+"Chapter2_Quest_Fairy.setQuestList.1" = "收集药物配料";
+"Chapter2_Quest_Fairy.setQuestList.2" = "收集药物配料2";
+"Chapter2_Quest_Fairy.setQuestList.3" = "拿到药物";
+"Chapter2_Quest_Fairy.setQuestList.4" = "现在的任务";
+
+
+/* Chapter2_Quest_Heracle ***************************************************/
+
+/* function reward() */
+"Chapter2_Quest_Heracle.reward.1" = "我知道这礼物很微薄,不\r\n过还请收下.";
+"Chapter2_Quest_Heracle.reward.2" = "冰封雪域一定出事了.";
+"Chapter2_Quest_Heracle.reward.3" = "这可以治疗患者,但我们\r\n不确定,精灵们会不会再\r\n次袭击村庄.";
+"Chapter2_Quest_Heracle.reward.4" = "要一直保持警惕.";
+
+/* function mainCallBack() */
+"Chapter2_Quest_Heracle.mainCallBack.1" = "我会想办法去帮他的.不\r\n过,你能帮我做件事吗?";
+"Chapter2_Quest_Heracle.mainCallBack.2" = "没问题!告诉我什么事.";
+"Chapter2_Quest_Heracle.mainCallBack.3" = "村庄附近的怪物越来越狂\r\n暴了,人们都不敢外出.";
+"Chapter2_Quest_Heracle.mainCallBack.4" = "在去彩色庭院的路上,幼\r\n红独角狮是最大的威胁.\r\n帮我解决20只好吗?";
+"Chapter2_Quest_Heracle.mainCallBack.5" = "没问题!我可是个飞侠!\r\n责无旁贷!不过,请你专\r\n心做药就好,有进展吗?";
+"Chapter2_Quest_Heracle.mainCallBack.6" = "有个仙女大概知道药物的\r\n配方,你去问她.";
+"Chapter2_Quest_Heracle.mainCallBack.7" = "是的,海盗已经回金银岛\r\n了,你应该出发了...";
+
+/* function mainQuest0() */
+"Chapter2_Quest_Heracle.mainQuest0.1" = "与怪物作战";
+"Chapter2_Quest_Heracle.mainQuest0.2" = "村庄附近的怪物越来越狂\r\n暴了,解决20只幼红独\r\n角狮.";
+"Chapter2_Quest_Heracle.mainQuest0.3" = "帮帮忙!我的师傅受伤了\r\n!拜托,哈拉克,他们说\r\n只有你知道怎么办!";
+"Chapter2_Quest_Heracle.mainQuest0.4" = "真抱歉,你师傅受伤了,\r\n但强力药不是那么容易做\r\n的...";
+"Chapter2_Quest_Heracle.mainQuest0.5" = "找到仙女";
+"Chapter2_Quest_Heracle.mainQuest0.6" = "去找仙女";
+"Chapter2_Quest_Heracle.mainQuest0.7" = "代表天空之城的所有人感\r\n谢你!!";
+"Chapter2_Quest_Heracle.mainQuest0.8" = "请消灭20只幼红独角狮\r\n,我会专心做药的.";
+
+/* function mainQuest3() */
+"Chapter2_Quest_Heracle.mainQuest3.1" = "去金银岛的旅途";
+"Chapter2_Quest_Heracle.mainQuest3.2" = "海盗把药送给你师傅了,\r\n快去勇士部落看看情况怎\r\n么样了.";
+"Chapter2_Quest_Heracle.mainQuest3.3" = "你打败了狼人?哇,太棒\r\n了,谢谢你!";
+"Chapter2_Quest_Heracle.mainQuest3.4" = "不,应该谢谢你.因为只\r\n有你知道如何治疗我师傅\r\n,非常感谢.";
+"Chapter2_Quest_Heracle.mainQuest3.5" = "祝你师傅身体健康.";
+
+/* function step2() */
+"Chapter2_Quest_Heracle.step2.1" = "听说蓝色庭院里出现了怪\r\n物.";
+"Chapter2_Quest_Heracle.step2.2" = "快去.";
+"Chapter2_Quest_Heracle.step2.3" = "带回20个刺蘑菇盖.";
+"Chapter2_Quest_Heracle.step2.4" = "任务很艰巨,请分别消\r\n灭20个日月星光精灵.";
+
+/* function subQuest3() */
+"Chapter2_Quest_Heracle.subQuest3.1" = "与怪物作战2";
+"Chapter2_Quest_Heracle.subQuest3.2" = "这些独角狮威害着村民,\r\n请搞定30只黄和蓝幼独\r\n角狮.";
+"Chapter2_Quest_Heracle.subQuest3.3" = "因为你之前的作为,独角\r\n狮正计划报复呢,他们联\r\n合了其它怪物一起来!";
+"Chapter2_Quest_Heracle.subQuest3.4" = "请杀死30只幼蓝独角狮\r\n和幼黄独角狮.";
+"Chapter2_Quest_Heracle.subQuest3.5" = "谢谢,我们的村庄重获安\r\n宁了.";
+"Chapter2_Quest_Heracle.subQuest3.6" = "请杀死30只幼蓝独角狮\r\n和幼黄独角狮.";
+
+/* function subQuest9() */
+"Chapter2_Quest_Heracle.subQuest9.1" = "通天塔的危机";
+"Chapter2_Quest_Heracle.subQuest9.2" = "一定出事了.村庄在下沉\r\n,请去见通天塔的巴兰.";
+"Chapter2_Quest_Heracle.subQuest9.3" = "天!整个村庄都在下沉!";
+"Chapter2_Quest_Heracle.subQuest9.4" = "通天塔能飘浮在半空中是\r\n因为双色魔法构筑的.";
+"Chapter2_Quest_Heracle.subQuest9.5" = "整个村庄都在下沉!";
+"Chapter2_Quest_Heracle.subQuest9.6" = "经过仔细调查,我找到了\r\n源头.都怪那些黑烟.哎\r\n呀!这下可麻烦了!";
+"Chapter2_Quest_Heracle.subQuest9.7" = "我们只能为村庄做一个大\r\n防护罩,但我忘了方法.";
+"Chapter2_Quest_Heracle.subQuest9.8" = "我想通天塔塔的巴兰应该\r\n知道.";
+"Chapter2_Quest_Heracle.subQuest9.9" = "去见通天塔炼金师巴兰.";
+"Chapter2_Quest_Heracle.subQuest9.10" = "村庄得救了,谢谢你,我\r\n怎么感谢你才好呢?";
+"Chapter2_Quest_Heracle.subQuest9.11" = "但从雪域飘来的黑烟,还\r\n是偶尔会影响到我.";
+
+/* function subQuest26() */
+"Chapter2_Quest_Heracle.subQuest26.1" = "精灵的叛乱1";
+"Chapter2_Quest_Heracle.subQuest26.2" = "请分别带回20个花蘑菇\r\n盖和绿蘑菇盖和刺蘑菇盖\r\n,用于入药.";
+"Chapter2_Quest_Heracle.subQuest26.3" = "自从你杀了狼人,精灵们\r\n就开始攻击村民.";
+"Chapter2_Quest_Heracle.subQuest26.4" = "已经有两名村民在袭击中\r\n受重伤.";
+"Chapter2_Quest_Heracle.subQuest26.5" = "听说金银岛的蘑菇盖很有\r\n营养,是很好的药物.";
+"Chapter2_Quest_Heracle.subQuest26.6" = "麻烦你带回20个花蘑菇\r\n盖和绿蘑菇盖.";
+"Chapter2_Quest_Heracle.subQuest26.7" = "谢谢,你帮了我大忙.";
+"Chapter2_Quest_Heracle.subQuest26.8" = "分别带回20个花蘑菇盖\r\n和绿蘑菇盖和刺蘑菇盖.";
+
+/* function subQuest27() */
+"Chapter2_Quest_Heracle.subQuest27.1" = "精灵的叛乱2";
+"Chapter2_Quest_Heracle.subQuest27.2" = "精灵们已经被邪恶之源所\r\n污染,请分别消灭20个\r\n日月星光精灵.";
+"Chapter2_Quest_Heracle.subQuest27.3" = "我终于知道为什么精灵们\r\n要攻击村民了.";
+"Chapter2_Quest_Heracle.subQuest27.4" = "自从被从雪域传来的邪恶\r\n之源力量所污染,狼人就\r\n一直用生命之木来保持花\r\n园的洁净";
+"Chapter2_Quest_Heracle.subQuest27.5" = "但是,现在狼人已经失去\r\n力量了,被污染的精灵们\r\n又开始作乱了..";
+"Chapter2_Quest_Heracle.subQuest27.6" = "谢谢,我们的村庄重获安\r\n宁了.";
+"Chapter2_Quest_Heracle.subQuest27.7" = "精灵们已经被邪恶之源所\r\n污染,请分别消灭20个\r\n日月星光精灵.";
+
+/* function dialog() */
+"Chapter2_Quest_Heracle.dialog.1" = "噢!天空之城里有一股邪\r\n恶的力量在飘荡.";
+
+/* function setQuestList() */
+"Chapter2_Quest_Heracle.setQuestList.1" = "与怪物作战";
+"Chapter2_Quest_Heracle.setQuestList.2" = "去金银岛的旅途";
+"Chapter2_Quest_Heracle.setQuestList.3" = "与怪物作战2";
+"Chapter2_Quest_Heracle.setQuestList.4" = "通天塔村的危机";
+"Chapter2_Quest_Heracle.setQuestList.5" = "精灵的叛乱1";
+"Chapter2_Quest_Heracle.setQuestList.6" = "精灵的叛乱2";
+"Chapter2_Quest_Heracle.setQuestList.7" = "现在的任务";
+
+
+/* Chapter2_Quest_Humanoid ***************************************************/
+
+/* function reward() */
+"Chapter2_Quest_Humanoid.reward.1" = "我知道如何成为人啦.";
+"Chapter2_Quest_Humanoid.reward.2" = "不过到哪找生命之木呢?";
+"Chapter2_Quest_Humanoid.reward.3" = "噢!我差点忘了设计图,\r\n给你.";
+
+/* function step2() */
+"Chapter2_Quest_Humanoid.step2.1" = "实际上我想要1000块\r\n,不好意思要这么多.";
+"Chapter2_Quest_Humanoid.step2.2" = "所以请弄30块精灵的月\r\n亮碎片.";
+"Chapter2_Quest_Humanoid.step2.3" = "尊老爱幼是人类的传统,\r\n对吧?";
+
+/* function subQuest7() */
+"Chapter2_Quest_Humanoid.subQuest7.1" = "我想做人类3.";
+"Chapter2_Quest_Humanoid.subQuest7.2" = "听说,如果燃烧狼尾并吸\r\n入烟子,就能变成人类.\r\n请带30条狼尾来.";
+"Chapter2_Quest_Humanoid.subQuest7.3" = "罗宾,请帮帮我.听说,\r\n如果燃烧狼尾并吸入烟子\r\n,就能变成人类了.好像\r\n很有道理.";
+"Chapter2_Quest_Humanoid.subQuest7.4" = "能帮我收集30条野狼的\r\n尾巴吗?";
+"Chapter2_Quest_Humanoid.subQuest7.5" = "我曾希望你能带1000\r\n条尾巴来呢,不过这些也\r\n够了,谢谢.";
+"Chapter2_Quest_Humanoid.subQuest7.6" = "给我30条野狼的尾巴.";
+
+/* function subQuest18() */
+"Chapter2_Quest_Humanoid.subQuest18.1" = "我想做人类2";
+"Chapter2_Quest_Humanoid.subQuest18.2" = "请弄30块精灵的月亮碎\r\n片,开运就能变成人类.";
+"Chapter2_Quest_Humanoid.subQuest18.3" = "据奥希瑞的传说,月亮碎\r\n片可以开运.";
+"Chapter2_Quest_Humanoid.subQuest18.4" = "如果是真的,我就可以得\r\n到好运气,能变成人了.";
+"Chapter2_Quest_Humanoid.subQuest18.5" = "谢谢,我也感觉自己更像\r\n人类了,估计是那些碎片\r\n起作用了.";
+"Chapter2_Quest_Humanoid.subQuest18.6" = "如果你有什么需要帮助的\r\n,请告诉我,我很乐意帮\r\n忙,这样我们就成为朋友\r\n了,不是吗?";
+"Chapter2_Quest_Humanoid.subQuest18.7" = "哦不,我需要生命之木的\r\n果实,但我已经把最后的\r\n送给我玛加提亚的朋友.";
+"Chapter2_Quest_Humanoid.subQuest18.8" = "请帮我收集30个精灵的\r\n月亮碎片来祈祷好运.";
+
+/* function subQuest23() */
+"Chapter2_Quest_Humanoid.subQuest23.1" = "和人造人的交易";
+"Chapter2_Quest_Humanoid.subQuest23.2" = "要想借我的设计图,给我\r\n30个玩具熊猫先.";
+"Chapter2_Quest_Humanoid.subQuest23.3" = "你要我身体的设计图?当\r\n然,我有一张,但我不打\r\n算给别人看.";
+"Chapter2_Quest_Humanoid.subQuest23.4" = "这可是机密,考虑到你以\r\n前帮过我,就借你看吧.";
+"Chapter2_Quest_Humanoid.subQuest23.5" = "但我要报酬的.给我30\r\n个玩具熊猫,我想捐给孤\r\n儿院.";
+"Chapter2_Quest_Humanoid.subQuest23.6" = "孩子们会喜欢这些的.";
+"Chapter2_Quest_Humanoid.subQuest23.7" = "孩子们...是惹人怜爱\r\n的.我这么说对吧?";
+"Chapter2_Quest_Humanoid.subQuest23.8" = "要想借我的设计图,给我\r\n30个玩具熊猫先.";
+
+/* function dialog() */
+"Chapter2_Quest_Humanoid.dialog.1" = "我想做人类,请帮帮我.";
+
+/* function setQuestList() */
+"Chapter2_Quest_Humanoid.setQuestList.1" = "我想做人类";
+"Chapter2_Quest_Humanoid.setQuestList.2" = "同人造人交易";
+"Chapter2_Quest_Humanoid.setQuestList.3" = "我想做人类";
+"Chapter2_Quest_Humanoid.setQuestList.4" = "现在的任务";
+
+
+/* Chapter2_Quest_Humanoid0_Victoria ***************************************************/
+
+
+/* Chapter2_Quest_Jade ***************************************************/
+
+/* function reward() */
+"Chapter2_Quest_Jade.reward.1" = "谢谢,这是我的一点心意\r\n,请收下吧.";
+"Chapter2_Quest_Jade.reward.2" = "我要把这件毛衣织完,送\r\n给阿尔卡斯特.";
+"Chapter2_Quest_Jade.reward.3" = "礼物虽小,请收下我的心\r\n意.";
+
+/* function step2() */
+"Chapter2_Quest_Jade.step2.1" = "谢谢";
+"Chapter2_Quest_Jade.step2.2" = "能给我30个羊毛球吗?\r\n谢谢.";
+"Chapter2_Quest_Jade.step2.3" = "噢!冰雪十字路口可通往\r\n冰封雪域.要当心啊!";
+
+/* function subQuest31() */
+"Chapter2_Quest_Jade.subQuest31.1" = "杰德在等人";
+"Chapter2_Quest_Jade.subQuest31.2" = "请你把这个交给我哥哥上\r\n等兵瑞恩,好吗?";
+"Chapter2_Quest_Jade.subQuest31.3" = "太冷了!为什么我哥哥还\r\n没来?请你把这个交给我\r\n哥哥上等兵瑞恩好吗?";
+"Chapter2_Quest_Jade.subQuest31.4" = "我哥哥还好吗?你没受伤\r\n吧?我听说天空之城也很\r\n危险了.";
+"Chapter2_Quest_Jade.subQuest31.5" = "请你把这个交给我哥哥上\r\n等兵瑞恩,好吗?";
+
+/* function subQuest32() */
+"Chapter2_Quest_Jade.subQuest32.1" = "正在织一件温暖的毛衣";
+"Chapter2_Quest_Jade.subQuest32.2" = "听说羊毛是最好的保暖料\r\n子,给我30个羊毛球.";
+"Chapter2_Quest_Jade.subQuest32.3" = "我一直想为阿尔卡斯特织\r\n一件暖和的毛衣,感谢他\r\n为保卫村庄做出的贡献.";
+"Chapter2_Quest_Jade.subQuest32.4" = "雪域这里的人常说,羊毛\r\n是最保暖的料子.";
+"Chapter2_Quest_Jade.subQuest32.5" = "谢谢!";
+"Chapter2_Quest_Jade.subQuest32.6" = "请给我30个羊毛球.";
+
+/* function subQuest38() */
+"Chapter2_Quest_Jade.subQuest38.1" = "矿工正等待着救援";
+"Chapter2_Quest_Jade.subQuest38.2" = "有人在雪山里失踪了,十\r\n字路口可以通往雪山.";
+"Chapter2_Quest_Jade.subQuest38.3" = "罗宾,出事了:因为太热\r\n,有个矿工受不了去雪山\r\n寻找新矿,就此失踪.";
+"Chapter2_Quest_Jade.subQuest38.4" = "我想他一定出事了.请帮\r\n我找找他.";
+"Chapter2_Quest_Jade.subQuest38.5" = "爬雪山可不是件容易的事\r\n.谢谢你";
+"Chapter2_Quest_Jade.subQuest38.6" = "我想他一定出事了.请帮\r\n我找找他.";
+
+/* function dialog() */
+"Chapter2_Quest_Jade.dialog.1" = "啊!太冷了!你走路要当\r\n心,因为到处都是雪!";
+
+/* function setQuestList() */
+"Chapter2_Quest_Jade.setQuestList.1" = "杰德在等人";
+"Chapter2_Quest_Jade.setQuestList.2" = "正织着毛衣呢";
+"Chapter2_Quest_Jade.setQuestList.3" = "矿工等待救援";
+"Chapter2_Quest_Jade.setQuestList.4" = "现在的任务";
+
+
+/* Chapter2_Quest_Map_Perion ***************************************************/
+
+/* function mainQuest6() */
+"Chapter2_Quest_Map_Perion.mainQuest6.1" = "冰封雪域有危险";
+"Chapter2_Quest_Map_Perion.mainQuest6.2" = "我感觉到,邪恶之力喷涌\r\n而出,盘踞在雪山里.马\r\n上去见阿尔卡斯特.";
+
+
+/* Chapter2_Quest_McAthur ***************************************************/
+
+/* function dialog() */
+"Chapter2_Quest_McAthur.dialog.1" = "邪恶之力正在聚集,很快\r\n金银岛也要有危险了.";
+
+
+/* Chapter2_Quest_Miner ***************************************************/
+
+/* function step2() */
+"Chapter2_Quest_Miner.step2.1" = "我会记得你无私的帮助.";
+
+/* function subQuest39() */
+"Chapter2_Quest_Miner.subQuest39.1" = "矿工等待着救援2";
+"Chapter2_Quest_Miner.subQuest39.2" = "你千方百计才找到我的?\r\n太感谢了.";
+"Chapter2_Quest_Miner.subQuest39.3" = "救命!爬山时摔断了腿.";
+"Chapter2_Quest_Miner.subQuest39.4" = "你千方百计才找到我的?\r\n太感谢了.";
+"Chapter2_Quest_Miner.subQuest39.5" = "如果没有你,我早没命了\r\n,你救了我.";
+"Chapter2_Quest_Miner.subQuest39.6" = "我永远都不会忘记.";
+
+/* function dialog() */
+"Chapter2_Quest_Miner.dialog.1" = "唉!又得去找个新矿了.";
+
+
+/* Chapter2_Quest_Pirate_Orbis ***************************************************/
+
+/* function toVictoriaIsland() */
+"Chapter2_Quest_Pirate_Orbis.toVictoriaIsland.1" = "现在出发去射手村!";
+
+/* function toMagatiaCallBack() */
+"Chapter2_Quest_Pirate_Orbis.toMagatiaCallBack.1" = "出发去玛加提亚!";
+
+/* function toMagatia() */
+"Chapter2_Quest_Pirate_Orbis.toMagatia.1" = "我看到阿尔卡斯特叫你出\r\n发了.我们就去玛加提亚\r\n吧,炼金师之乡.";
+"Chapter2_Quest_Pirate_Orbis.toMagatia.2" = "还有!如果你打算去新大\r\n陆冒险,之前接的所有任\r\n务都会消失.";
+"Chapter2_Quest_Pirate_Orbis.toMagatia.3" = "现在选择吧,你准备好去\r\n新大陆冒险了吗?";
+
+/* function dialog() */
+"Chapter2_Quest_Pirate_Orbis.dialog.1" = "我是冒险岛著名的海盗.";
+
+/* function setQuestList() */
+"Chapter2_Quest_Pirate_Orbis.setQuestList.1" = "射手村";
+"Chapter2_Quest_Pirate_Orbis.setQuestList.2" = "玛加提亚";
+"Chapter2_Quest_Pirate_Orbis.setQuestList.3" = "我可以把你带到冒险岛世\r\n界里的任意地方.";
+
+
+/* Chapter2_Quest_Pirate_Victoria ***************************************************/
+
+/* function toOrbis() */
+"Chapter2_Quest_Pirate_Victoria.toOrbis.1" = "现在出发去天空之城!";
+
+/* function dialog() */
+"Chapter2_Quest_Pirate_Victoria.dialog.1" = "我是冒险岛著名的海盗.";
+
+
+/* Chapter2_Quest_Scadru ***************************************************/
+
+/* function reward() */
+"Chapter2_Quest_Scadru.reward.1" = "啊,总算完成了,拿着这\r\n个吧,你应得的.";
+"Chapter2_Quest_Scadru.reward.2" = "我好像总接受你的帮助.";
+"Chapter2_Quest_Scadru.reward.3" = "待会儿我一定要出去打猎\r\n,拿着这个,是你的.";
+"Chapter2_Quest_Scadru.reward.4" = "具体的事情我还不清楚呢\r\n,你直接去问女王好吗?";
+
+/* function step2() */
+"Chapter2_Quest_Scadru.step2.1" = "带25个来,这样我可以\r\n为你做一个.";
+"Chapter2_Quest_Scadru.step2.2" = "请带25个帝企鹅的嘴来\r\n,这样就可以修理了.";
+"Chapter2_Quest_Scadru.step2.3" = "你会帮我带30个黑帝企\r\n鹅的嘴吗?";
+"Chapter2_Quest_Scadru.step2.4" = "(白雪人的角是很珍贵的\r\n东西,掉落率很低.这孩\r\n子真能拿来吗?)";
+
+/* function subQuest6() */
+"Chapter2_Quest_Scadru.subQuest6.1" = "我要做长靴";
+"Chapter2_Quest_Scadru.subQuest6.2" = "我要做一双不会滑落的靴\r\n子,但我的材料不够了.\r\n请帮我找25块白雪人的\r\n皮毛.";
+"Chapter2_Quest_Scadru.subQuest6.3" = "我要做一双不会滑落的靴\r\n子,但最近出去打猎收集\r\n材料太危险了.";
+"Chapter2_Quest_Scadru.subQuest6.4" = "你能帮我吗?我会也做给\r\n你一双的.小白雪人的皮\r\n毛不太滑,材料很好.";
+"Chapter2_Quest_Scadru.subQuest6.5" = "好极了!开工了,我得这\r\n么编那么扯...";
+"Chapter2_Quest_Scadru.subQuest6.6" = "弄25块小白雪人的皮.";
+
+/* function subQuest29() */
+"Chapter2_Quest_Scadru.subQuest29.1" = "修理斯卡多的武器";
+"Chapter2_Quest_Scadru.subQuest29.2" = "我的武器太旧了,要修理\r\n啦,但我找不齐材料.请\r\n带25个帝企鹅的嘴来.";
+"Chapter2_Quest_Scadru.subQuest29.3" = "唉,我只能明天出去打猎\r\n了,因为我的武器太老了.";
+"Chapter2_Quest_Scadru.subQuest29.4" = "我要修理武器,但怎么才\r\n能拿到修理材料呢?";
+"Chapter2_Quest_Scadru.subQuest29.5" = "非常感谢.";
+"Chapter2_Quest_Scadru.subQuest29.6" = "请带25个帝企鹅的嘴来\r\n,这样就可以修理了.";
+
+/* function subQuest30() */
+"Chapter2_Quest_Scadru.subQuest30.1" = "修理斯卡多的武器2";
+"Chapter2_Quest_Scadru.subQuest30.2" = "听说用企鹅嘴做的网罩很\r\n坚固,可以用来抓怪物.\r\n帮我带30个来.";
+"Chapter2_Quest_Scadru.subQuest30.3" = "现在我可以出去打猎了,\r\n谢谢你.好久没打猎了,\r\n真激动啊.";
+"Chapter2_Quest_Scadru.subQuest30.4" = "嗨...我还有件事.";
+"Chapter2_Quest_Scadru.subQuest30.5" = "我听说用黑帝企鹅的嘴做\r\n的网罩,可以捆住怪物.";
+"Chapter2_Quest_Scadru.subQuest30.6" = "噢!实在是太感谢了.";
+"Chapter2_Quest_Scadru.subQuest30.7" = "你会帮我带30个黑帝企\r\n鹅的嘴来吗?";
+
+/* function subQuest35() */
+"Chapter2_Quest_Scadru.subQuest35.1" = "白雪人的角";
+"Chapter2_Quest_Scadru.subQuest35.2" = "我需要白雪人的角,研究\r\n他们下一步的动向.请给\r\n我拿3个小白雪人的角.";
+"Chapter2_Quest_Scadru.subQuest35.3" = "白雪人们在攻击村民?我\r\n还以为是谣言呢...";
+"Chapter2_Quest_Scadru.subQuest35.4" = "传说通过白雪人的角,可\r\n以洞察白雪人的未来.";
+"Chapter2_Quest_Scadru.subQuest35.5" = "白雪人切掉自己的角,当\r\n做成人礼的一部分.一年\r\n后就能长出新角.";
+"Chapter2_Quest_Scadru.subQuest35.6" = "我最近还看过一个年轻的\r\n白雪人切掉自己的角.";
+"Chapter2_Quest_Scadru.subQuest35.7" = "请找3个小白雪人的角.";
+"Chapter2_Quest_Scadru.subQuest35.8" = "啊!太好了!你真的拿来\r\n了!你一定非常...";
+"Chapter2_Quest_Scadru.subQuest35.9" = "从这些角上看,它们已经\r\n狂躁到完全失去理智了.";
+"Chapter2_Quest_Scadru.subQuest35.10" = "瞧,这些角已经磨损掉了\r\n,我猜这是因为白雪人们\r\n互相打架造成的.";
+"Chapter2_Quest_Scadru.subQuest35.11" = "白雪人们如此暴躁,肯定\r\n有什么原因.记得冰雪女\r\n王提过,它们的神圣雕像\r\n好像碎掉了...";
+"Chapter2_Quest_Scadru.subQuest35.12" = "请找3个小白雪人的角.";
+
+/* function dialog() */
+"Chapter2_Quest_Scadru.dialog.1" = "实在是太过分了!最近都\r\n没什么猎物了.";
+
+/* function setQuestList() */
+"Chapter2_Quest_Scadru.setQuestList.1" = "我要长靴";
+"Chapter2_Quest_Scadru.setQuestList.2" = "修理斯卡多的武器1";
+"Chapter2_Quest_Scadru.setQuestList.3" = "修理斯卡多的武器2";
+"Chapter2_Quest_Scadru.setQuestList.4" = "白雪人的角";
+"Chapter2_Quest_Scadru.setQuestList.5" = "现在的任务";
+
+
+/* Chapter2_Quest_SnowQueen ***************************************************/
+
+/* function reward() */
+"Chapter2_Quest_SnowQueen.reward.1" = "废矿区的资源快要挖掘完\r\n了,你最好不要去.";
+"Chapter2_Quest_SnowQueen.reward.2" = "我想做些绷带治疗村民.";
+"Chapter2_Quest_SnowQueen.reward.3" = "现在可以使白雪人冷静下\r\n来了";
+
+/* function step2() */
+"Chapter2_Quest_SnowQueen.step2.1" = "小心.";
+"Chapter2_Quest_SnowQueen.step2.2" = "弄30块小黑雪人的皮.";
+"Chapter2_Quest_SnowQueen.step2.3" = "我需要足够的材料,请给\r\n我30块小黑雪人皮.";
+
+/* function subQuest5() */
+"Chapter2_Quest_SnowQueen.subQuest5.1" = "废矿区探险";
+"Chapter2_Quest_SnowQueen.subQuest5.2" = "请从废矿区那里,给我带\r\n回一颗僵尸的牙齿.";
+"Chapter2_Quest_SnowQueen.subQuest5.3" = "听说全球变暖是因为黑暗\r\n能量.我还听到废矿区里\r\n传来的诡异哭泣声.\r\n";
+"Chapter2_Quest_SnowQueen.subQuest5.4" = "我猜哭泣声,是那些死难\r\n的矿工从身体发出的.";
+"Chapter2_Quest_SnowQueen.subQuest5.5" = "如果这个传言是真的话,\r\n迟早僵尸们会来攻击村民\r\n的.如果真有僵尸的话,\r\n我想要一颗牙齿.";
+"Chapter2_Quest_SnowQueen.subQuest5.6" = "请给我一颗僵尸的牙齿.";
+"Chapter2_Quest_SnowQueen.subQuest5.7" = "在废矿区里,由于酷热的\r\n高温,你的HP会下降非\r\n常快,要小心.";
+"Chapter2_Quest_SnowQueen.subQuest5.8" = "牙齿不容易腐烂,我可以\r\n认出这确实是矿工的.";
+"Chapter2_Quest_SnowQueen.subQuest5.9" = "瞧瞧这颗牙,我可以确信\r\n尸体变成僵尸,都是因为\r\n恶魔领主的黑暗能量.";
+"Chapter2_Quest_SnowQueen.subQuest5.10" = "你要当心的是,废矿区现\r\n在非常热,难以靠近.";
+"Chapter2_Quest_SnowQueen.subQuest5.11" = "你最好不要去,如果你坚\r\n持要去,得穿上特制的装\r\n备,才不会被热浪所伤.";
+"Chapter2_Quest_SnowQueen.subQuest5.12" = "装备保护你免于被热死.";
+"Chapter2_Quest_SnowQueen.subQuest5.13" = "请给我一颗僵尸的牙齿.";
+
+/* function subQuest34() */
+"Chapter2_Quest_SnowQueen.subQuest34.1" = "冰雪女王的要求";
+"Chapter2_Quest_SnowQueen.subQuest34.2" = "我需要坚固的皮来做绷带\r\n.弄30块小黑雪人皮.";
+"Chapter2_Quest_SnowQueen.subQuest34.3" = "白雪人越来越狂躁,受伤\r\n的村民也越来越多.我要\r\n去治疗他们.";
+"Chapter2_Quest_SnowQueen.subQuest34.4" = "大多数伤者是因为受白雪\r\n人攻击,摔断了骨头.我\r\n需要一些坚固的皮来做绷\r\n带进行治疗.";
+"Chapter2_Quest_SnowQueen.subQuest34.5" = "是的!我可以用小黑雪人\r\n的皮来做绷带.";
+"Chapter2_Quest_SnowQueen.subQuest34.6" = "你带回小黑雪人皮了.";
+"Chapter2_Quest_SnowQueen.subQuest34.7" = "弄30块小黑雪人的皮.";
+
+/* function subQuest36() */
+"Chapter2_Quest_SnowQueen.subQuest36.1" = "雪人谷";
+"Chapter2_Quest_SnowQueen.subQuest36.2" = "我需要30条小帝企鹅的\r\n鱼,这是最好的办法,可\r\n以使白雪人远离村民.";
+"Chapter2_Quest_SnowQueen.subQuest36.3" = "白雪人们愤怒的原因是,\r\n雕像碎了,而它们视雕像\r\n为守护神.";
+"Chapter2_Quest_SnowQueen.subQuest36.4" = "废矿区下的地热引起了整\r\n个雪山的变暖,这也是雕\r\n像倒塌的原因.";
+"Chapter2_Quest_SnowQueen.subQuest36.5" = "白雪人们越来越愤怒,开\r\n始攻击村民.";
+"Chapter2_Quest_SnowQueen.subQuest36.6" = "我们要找一些它们最喜欢\r\n的小鱼儿来安抚.";
+"Chapter2_Quest_SnowQueen.subQuest36.7" = "起码暂时是有用的.";
+"Chapter2_Quest_SnowQueen.subQuest36.8" = "谢谢,这些鱼足够多了.";
+"Chapter2_Quest_SnowQueen.subQuest36.9" = "我要30条小鱼,这是让\r\n白雪人消停的最好办法.";
+
+/* function dialog() */
+"Chapter2_Quest_SnowQueen.dialog.1" = "天呐!村庄和平的象征,\r\n雪,它正在融化!";
+
+/* function setQuestList() */
+"Chapter2_Quest_SnowQueen.setQuestList.1" = "废矿区的开发";
+"Chapter2_Quest_SnowQueen.setQuestList.2" = "冰雪女王的要求";
+"Chapter2_Quest_SnowQueen.setQuestList.3" = "雪人谷";
+"Chapter2_Quest_SnowQueen.setQuestList.4" = "现在的任务";
+
+
+/* Chapter2_Quest_Wilson ***************************************************/
+
+/* function reward() */
+"Chapter2_Quest_Wilson.reward.1" = "你就是艾利逊叫来的吧.";
+"Chapter2_Quest_Wilson.reward.2" = "你可真是名副其实.";
+"Chapter2_Quest_Wilson.reward.3" = "给你报酬!";
+"Chapter2_Quest_Wilson.reward.4" = "给你,一点小心意.";
+"Chapter2_Quest_Wilson.reward.5" = "你已经很像个飞侠了.从\r\n你的眼睛里就能看出来.";
+"Chapter2_Quest_Wilson.reward.6" = "给你报酬!";
+"Chapter2_Quest_Wilson.reward.7" = "现在,上路吧,孩子.";
+
+/* function step2() */
+"Chapter2_Quest_Wilson.step2.1" = "路上小心,孩子.";
+"Chapter2_Quest_Wilson.step2.2" = "当然你会有相应报酬的.";
+"Chapter2_Quest_Wilson.step2.3" = "请拿来30颗冰石球.";
+"Chapter2_Quest_Wilson.step2.4" = "如果你能把这个设计图送\r\n到人造人的手中,我会好\r\n好感谢你的.";
+"Chapter2_Quest_Wilson.step2.5" = "请拿来30颗火石球.";
+"Chapter2_Quest_Wilson.step2.6" = "罗宾?一定要活着回来,\r\n我命令你!";
+
+/* function subQuest0() */
+"Chapter2_Quest_Wilson.subQuest0.1" = "姓名?立正!";
+
+/* function subQuest1() */
+"Chapter2_Quest_Wilson.subQuest1.1" = "上等兵瑞恩忠告";
+"Chapter2_Quest_Wilson.subQuest1.2" = "去黑色庭院,解决50只\r\n黑色飞狮.他们聚集在花\r\n园入口的遗迹处.";
+"Chapter2_Quest_Wilson.subQuest1.3" = "你冒着生命危险,跑到狼\r\n人的领地去,仅是为了生\r\n命之木?没人能从那里活\r\n着回来!";
+"Chapter2_Quest_Wilson.subQuest1.4" = "但如果艾利逊说这很重要\r\n,我会告诉你位置的.";
+"Chapter2_Quest_Wilson.subQuest1.5" = "首先,你要穿过黑色庭院\r\n,那里聚集了大批的黑色\r\n飞狮.";
+"Chapter2_Quest_Wilson.subQuest1.6" = "如果你想穿过庭院,就得\r\n解决50只,其余的就会\r\n吓跑了.";
+"Chapter2_Quest_Wilson.subQuest1.7" = "任务完成了?干得好!";
+"Chapter2_Quest_Wilson.subQuest1.8" = "如果你想穿过庭院,就得\r\n解决50只,其余的就会\r\n吓跑了.";
+
+/* function subQuest37() */
+"Chapter2_Quest_Wilson.subQuest37.1" = "击败狼人";
+"Chapter2_Quest_Wilson.subQuest37.2" = "请消灭光狼人.";
+"Chapter2_Quest_Wilson.subQuest37.3" = "休息一会,战士.等到精\r\n力充沛了,明天再来吧.";
+"Chapter2_Quest_Wilson.subQuest37.4" = "不?我的军队会以你为榜\r\n样!好的!我会帮你的!";
+"Chapter2_Quest_Wilson.subQuest37.5" = "吸引狼人的注意力,我会\r\n去找生命之木的.";
+"Chapter2_Quest_Wilson.subQuest37.6" = "一定要吸引他们,我可把\r\n我的安全都交给你了.";
+"Chapter2_Quest_Wilson.subQuest37.7" = "做得好!你杀了很多狼人\r\n吧?我也找到生命之木了\r\n,给你.";
+"Chapter2_Quest_Wilson.subQuest37.8" = "很荣幸为你效劳,罗宾,\r\n向你致敬!";
+"Chapter2_Quest_Wilson.subQuest37.9" = "马上把生命之木交给仙女\r\n,趁它还有效的时候.";
+"Chapter2_Quest_Wilson.subQuest37.10" = "吸引狼人的注意力,我会\r\n去找生命之木的.";
+
+/* function subQuest22() */
+"Chapter2_Quest_Wilson.subQuest22.1" = "研制机器人武器.";
+"Chapter2_Quest_Wilson.subQuest22.2" = "我们村庄的安全,就指望\r\n这个高科技的机器人了.\r\n人造人那得到的设计图!";
+"Chapter2_Quest_Wilson.subQuest22.3" = "坏消息,特大坏消息.我\r\n原来估计,在神秘岛攻入\r\n邪恶之源前,不会太久.";
+"Chapter2_Quest_Wilson.subQuest22.4" = "我们无法阻止它.先生,\r\n我们办不到,除非我们有\r\n最先进的机器人,把敌人\r\n都杀光!但现在机器人还\r\n只是构想!";
+"Chapter2_Quest_Wilson.subQuest22.5" = "为神秘岛军研发机器人武\r\n器,好吧,只能这样了!";
+"Chapter2_Quest_Wilson.subQuest22.6" = "现在不要太激动.重点是\r\n:我需要一个新机器人的\r\n设计图.";
+"Chapter2_Quest_Wilson.subQuest22.7" = "也许你能帮我弄来?机器\r\n人也被称为类人动物.";
+"Chapter2_Quest_Wilson.subQuest22.8" = "听说类人动物通常都愿意\r\n变成人类的.";
+"Chapter2_Quest_Wilson.subQuest22.9" = "我就知道你行的,真希望\r\n跟你在一个队里.如果你\r\n想当战士的话,一定要告\r\n诉我!";
+"Chapter2_Quest_Wilson.subQuest22.10" = "我很怀疑.";
+"Chapter2_Quest_Wilson.subQuest22.11" = "我们村庄的安全,就指望\r\n这个高科技的机器人了.\r\n人造人那得到的设计图!";
+
+/* function subQuest11() */
+"Chapter2_Quest_Wilson.subQuest11.1" = "代号WTF";
+"Chapter2_Quest_Wilson.subQuest11.2" = "我正在做超级机器人,需\r\n要石球30颗.";
+"Chapter2_Quest_Wilson.subQuest11.3" = "你的能力,足以让你在神\r\n秘岛军队里谋得军衔了.";
+"Chapter2_Quest_Wilson.subQuest11.4" = "你已经知道目前的计划了\r\n,我们正在研制一种超级\r\n机器人武器.";
+"Chapter2_Quest_Wilson.subQuest11.5" = "计划名为:代号WTF";
+"Chapter2_Quest_Wilson.subQuest11.6" = "下个任务是找点牢固的材\r\n料,做机器人的身体.";
+"Chapter2_Quest_Wilson.subQuest11.7" = "石球就很好!";
+"Chapter2_Quest_Wilson.subQuest11.8" = "要是能收集30颗就好了";
+"Chapter2_Quest_Wilson.subQuest11.9" = "已经回来了?!神秘岛绝\r\n对会珍惜你这个人才的.";
+"Chapter2_Quest_Wilson.subQuest11.10" = "一切进展顺利.";
+"Chapter2_Quest_Wilson.subQuest11.11" = "请拿30颗石球来.";
+
+/* function sub12Helper() */
+"Chapter2_Quest_Wilson.sub12Helper.1" = "哎呀,你早忘记了,即使\r\n我可以做得更好.";
+"Chapter2_Quest_Wilson.sub12Helper.2" = "研制超级武器";
+"Chapter2_Quest_Wilson.sub12Helper.3" = "请拿来30颗冰石球,要\r\n用于机器人的冰霜一击.";
+"Chapter2_Quest_Wilson.sub12Helper.4" = "你还记得,很好.现在这\r\n个是任务.";
+"Chapter2_Quest_Wilson.sub12Helper.5" = "现在要做机器人的手臂,\r\n我打算做出一种新的攻击\r\n技能,叫冰霜一击!";
+"Chapter2_Quest_Wilson.sub12Helper.6" = "这将是世界是最先进的武\r\n器!会射出大阵的冰霜.\r\n持续百分之八十的时间!";
+"Chapter2_Quest_Wilson.sub12Helper.7" = "但还有个问题:我需要冰\r\n石球.";
+"Chapter2_Quest_Wilson.sub12Helper.8" = "这就是你的任务.";
+
+/* function subQuest12() */
+"Chapter2_Quest_Wilson.subQuest12.1" = "你来了,我还需要你的帮\r\n助.";
+"Chapter2_Quest_Wilson.subQuest12.2" = "神秘岛军队正在做的项目\r\n,叫什么来着?";
+"Chapter2_Quest_Wilson.subQuest12.3" = "代号501";
+"Chapter2_Quest_Wilson.subQuest12.4" = "代号569";
+"Chapter2_Quest_Wilson.subQuest12.5" = "代号WTF";
+"Chapter2_Quest_Wilson.subQuest12.6" = "我相信你,有了你,一切\r\n都那么顺利.";
+"Chapter2_Quest_Wilson.subQuest12.7" = "听说神秘岛的军队注意到\r\n你了.";
+"Chapter2_Quest_Wilson.subQuest12.8" = "要是我们合作的话,一定\r\n能搞出不少好东西.";
+"Chapter2_Quest_Wilson.subQuest12.9" = "我需要30颗石球.";
+
+/* function subQuest28() */
+"Chapter2_Quest_Wilson.subQuest28.1" = "研发超级武器2";
+"Chapter2_Quest_Wilson.subQuest28.2" = "我需要30颗火石球,用\r\n在机器人上.";
+"Chapter2_Quest_Wilson.subQuest28.3" = "我已经成功的给机器人加\r\n上冰霜一击的技能,但你\r\n对敌的时候,总不能只用\r\n一种技能吧.";
+"Chapter2_Quest_Wilson.subQuest28.4" = "现在我在做火焰之舞.该\r\n技能可以让机器人伤害附\r\n近的多个敌人.";
+"Chapter2_Quest_Wilson.subQuest28.5" = "我需要火石球.";
+"Chapter2_Quest_Wilson.subQuest28.6" = "你能找来给我吗?看在神\r\n秘岛的份上!";
+"Chapter2_Quest_Wilson.subQuest28.7" = "我确信,你是效率之王!";
+"Chapter2_Quest_Wilson.subQuest28.8" = "你没作弊吧?无论如何,\r\n代号WTF任务完成得很好.";
+"Chapter2_Quest_Wilson.subQuest28.9" = "我需要30颗火石球.";
+
+/* function subQuest33() */
+"Chapter2_Quest_Wilson.subQuest33.1" = "洁德在等人2";
+"Chapter2_Quest_Wilson.subQuest33.2" = "请告诉我妹妹,我很好.";
+"Chapter2_Quest_Wilson.subQuest33.3" = "真高兴又见到你了!妹妹\r\n有没有让你带信过来啊?";
+"Chapter2_Quest_Wilson.subQuest33.4" = "谢谢你帮我送信,请告诉\r\n她我很好.";
+
+/* function dialog() */
+"Chapter2_Quest_Wilson.dialog.1" = "我太无聊了.";
+
+/* function setQuestList() */
+"Chapter2_Quest_Wilson.setQuestList.1" = "遇见上等兵瑞恩";
+"Chapter2_Quest_Wilson.setQuestList.2" = "上等兵瑞恩的忠告";
+"Chapter2_Quest_Wilson.setQuestList.3" = "研制机器人武器";
+"Chapter2_Quest_Wilson.setQuestList.4" = "代号WTF";
+"Chapter2_Quest_Wilson.setQuestList.5" = "研制超级武器";
+"Chapter2_Quest_Wilson.setQuestList.6" = "研制超级武器2";
+"Chapter2_Quest_Wilson.setQuestList.7" = "杰德在等人2";
+"Chapter2_Quest_Wilson.setQuestList.8" = "击败狼人";
+"Chapter2_Quest_Wilson.setQuestList.9" = "现在的任务";
+
+
+/* Chapter2_SubQuest_Elma ***************************************************/
+
+/* function reward() */
+"Chapter2_SubQuest_Elma.reward.1" = "请收下我的心意.";
+"Chapter2_SubQuest_Elma.reward.2" = "非常感谢.";
+
+/* function step2() */
+"Chapter2_SubQuest_Elma.step2.1" = "你可以给我40条红独角\r\n狮尾吗?";
+"Chapter2_SubQuest_Elma.step2.2" = "麻烦你帮我找30条红独\r\n角狮尾和10瓶矿泉水.";
+
+/* function subQuest20() */
+"Chapter2_SubQuest_Elma.subQuest20.1" = "艾玛的要求";
+"Chapter2_SubQuest_Elma.subQuest20.2" = "我把继母的扫帚弄坏了,\r\n我得把它修好,但没有材\r\n料.请帮我找40条红独\r\n角狮尾.";
+"Chapter2_SubQuest_Elma.subQuest20.3" = "如果你有空的话,能帮我\r\n个忙吗?我在做家务时把\r\n我继母的扫帚弄坏了.";
+"Chapter2_SubQuest_Elma.subQuest20.4" = "她不会善罢甘休的,她一\r\n向很严厉.我得赶快把它\r\n修好,听说红独角狮尾做\r\n扫帚不错...";
+"Chapter2_SubQuest_Elma.subQuest20.5" = "谢谢,这样继母不会再把\r\n我赶出家门了!";
+"Chapter2_SubQuest_Elma.subQuest20.6" = "我需要40条红独角狮尾\r\n来修扫帚.";
+
+/* function subQuest21() */
+"Chapter2_SubQuest_Elma.subQuest21.1" = "艾玛的要求2";
+"Chapter2_SubQuest_Elma.subQuest21.2" = "继母病重,我得弄一些营\r\n养的食物给她,但我没有\r\n食材了.给我30条黄独\r\n角狮尾和10瓶矿泉水.";
+"Chapter2_SubQuest_Elma.subQuest21.3" = "我还想请你帮个忙.我继\r\n母自从去金银岛回来后,\r\n就病得很重.";
+"Chapter2_SubQuest_Elma.subQuest21.4" = "我得弄一些营养的食物给\r\n她,但我没有食材了.";
+"Chapter2_SubQuest_Elma.subQuest21.5" = "听说黄独角狮尾很有棒,\r\n但我这样一个弱女子,怎\r\n么能拿到呢.";
+"Chapter2_SubQuest_Elma.subQuest21.6" = "正好你来了.";
+"Chapter2_SubQuest_Elma.subQuest21.7" = "非常感谢,帮我找了这么\r\n多有营养的食材,希望可\r\n以帮到我继母.";
+"Chapter2_SubQuest_Elma.subQuest21.8" = "请帮我找30条黄独角狮\r\n尾和10瓶矿泉水.";
+
+/* function dialog() */
+"Chapter2_SubQuest_Elma.dialog.1" = "唉,家务总也做不完啊.";
+
+/* function setQuestList() */
+"Chapter2_SubQuest_Elma.setQuestList.1" = "艾玛的要求";
+"Chapter2_SubQuest_Elma.setQuestList.2" = "艾玛的要求2";
+"Chapter2_SubQuest_Elma.setQuestList.3" = "现在的任务";
+
+
+/* Chapter2_SubQuest_Guard ***************************************************/
+
+/* function dialog2() */
+"Chapter2_SubQuest_Guard.dialog2.1" = "小心,不要进入危险的蚂\r\n蚁洞.";
+
+
+/* Chapter2_SubQuest_Smith ***************************************************/
+
+/* function manuFacturingCallBack() */
+"Chapter2_SubQuest_Smith.manuFacturingCallBack.1" = "去试试看.";
+
+/* function startManufacturing() */
+"Chapter2_SubQuest_Smith.startManufacturing.1" = "给你,好了.";
+"Chapter2_SubQuest_Smith.startManufacturing.2" = "你准备的材料不够,请准\r\n备好了再来.";
+
+/* function ItemHead() */
+"Chapter2_SubQuest_Smith.ItemHead.1" = "制作";
+"Chapter2_SubQuest_Smith.ItemHead.2" = "制作";
+"Chapter2_SubQuest_Smith.ItemHead.3" = "现在我们来做点物品.";
+
+/* function ItemListHead() */
+"Chapter2_SubQuest_Smith.ItemListHead.1" = "要做什么物品呢?";
+"Chapter2_SubQuest_Smith.ItemListHead.2" = "黑提贝帽(Lv.25)";
+"Chapter2_SubQuest_Smith.ItemListHead.3" = "红防风帽(Lv.35)";
+"Chapter2_SubQuest_Smith.ItemListHead.4" = "棕奏鸣帽(Lv.45)";
+
+/* function ItemBody() */
+"Chapter2_SubQuest_Smith.ItemBody.1" = "制作";
+"Chapter2_SubQuest_Smith.ItemBody.2" = "制作";
+"Chapter2_SubQuest_Smith.ItemBody.3" = "现在我们来做点物品.";
+
+/* function ItemListBody() */
+"Chapter2_SubQuest_Smith.ItemListBody.1" = "要做什么物品呢?";
+"Chapter2_SubQuest_Smith.ItemListBody.2" = "黑色布鞋(Lv.25)";
+"Chapter2_SubQuest_Smith.ItemListBody.3" = "红暗影裤(Lv.35)";
+"Chapter2_SubQuest_Smith.ItemListBody.4" = "棕色华裤(Lv.45)";
+
+/* function ItemDagger() */
+"Chapter2_SubQuest_Smith.ItemDagger.1" = "制作";
+"Chapter2_SubQuest_Smith.ItemDagger.2" = "制作";
+"Chapter2_SubQuest_Smith.ItemDagger.3" = "现在我们来做点物品.";
+
+/* function ItemListDagger() */
+"Chapter2_SubQuest_Smith.ItemListDagger.1" = "要做什么物品呢?";
+"Chapter2_SubQuest_Smith.ItemListDagger.2" = "飞影刃(Lv.25)";
+"Chapter2_SubQuest_Smith.ItemListDagger.3" = "暗影刃(Lv.35)";
+"Chapter2_SubQuest_Smith.ItemListDagger.4" = "破碎刃(Lv.45)";
+
+/* function ItemGlove() */
+"Chapter2_SubQuest_Smith.ItemGlove.1" = "制作";
+"Chapter2_SubQuest_Smith.ItemGlove.2" = "制作";
+"Chapter2_SubQuest_Smith.ItemGlove.3" = "现在我们来做点物品.";
+
+/* function ItemListGlove() */
+"Chapter2_SubQuest_Smith.ItemListGlove.1" = "要做什么物品呢?";
+"Chapter2_SubQuest_Smith.ItemListGlove.2" = "狼牙(Lv.25)";
+"Chapter2_SubQuest_Smith.ItemListGlove.3" = "手甲(Lv.35)";
+"Chapter2_SubQuest_Smith.ItemListGlove.4" = "黑闪电甲(Lv.45)";
+
+/* function ItemFoot() */
+"Chapter2_SubQuest_Smith.ItemFoot.1" = "制作";
+"Chapter2_SubQuest_Smith.ItemFoot.2" = "制作";
+"Chapter2_SubQuest_Smith.ItemFoot.3" = "现在我们来做点物品.";
+
+/* function ItemListFoot() */
+"Chapter2_SubQuest_Smith.ItemListFoot.1" = "要做什么物品呢?";
+"Chapter2_SubQuest_Smith.ItemListFoot.2" = "追击鞋(Lv.25)";
+"Chapter2_SubQuest_Smith.ItemListFoot.3" = "雪鞋(Lv.35)";
+"Chapter2_SubQuest_Smith.ItemListFoot.4" = "流星鞋(Lv.45)";
+
+/* function ItemEar() */
+"Chapter2_SubQuest_Smith.ItemEar.1" = "制作";
+"Chapter2_SubQuest_Smith.ItemEar.2" = "制作";
+"Chapter2_SubQuest_Smith.ItemEar.3" = "现在我们来做点物品.";
+
+/* function ItemListEar() */
+"Chapter2_SubQuest_Smith.ItemListEar.1" = "要做什么物品呢?";
+"Chapter2_SubQuest_Smith.ItemListEar.2" = "闪电耳环(Lv.25)";
+"Chapter2_SubQuest_Smith.ItemListEar.3" = "蓝月亮(Lv.35)";
+"Chapter2_SubQuest_Smith.ItemListEar.4" = "十字耳环(Lv.45)";
+
+/* function ItemSortList() */
+"Chapter2_SubQuest_Smith.ItemSortList.1" = "头盔";
+"Chapter2_SubQuest_Smith.ItemSortList.2" = "护甲";
+"Chapter2_SubQuest_Smith.ItemSortList.3" = "短剑";
+"Chapter2_SubQuest_Smith.ItemSortList.4" = "手镯";
+"Chapter2_SubQuest_Smith.ItemSortList.5" = "鞋子";
+"Chapter2_SubQuest_Smith.ItemSortList.6" = "耳环";
+"Chapter2_SubQuest_Smith.ItemSortList.7" = "制作物品";
+
+
+/* ManufactureItem_Chapter2 ***************************************************/
+
+/* function manuFacturingCallBack() */
+"ManufactureItem_Chapter2.manuFacturingCallBack.1" = "试试";
+
+/* function startManufacturing() */
+"ManufactureItem_Chapter2.startManufacturing.1" = "完成了.";
+"ManufactureItem_Chapter2.startManufacturing.2" = "材料凑齐了再来.";
+
+/* function ItemHead() */
+"ManufactureItem_Chapter2.ItemHead.1" = "制作";
+"ManufactureItem_Chapter2.ItemHead.2" = "制作";
+"ManufactureItem_Chapter2.ItemHead.3" = "制作物品.";
+
+/* function ItemListHead() */
+"ManufactureItem_Chapter2.ItemListHead.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter2.ItemListHead.2" = "提贝之帽(Lv.25)";
+"ManufactureItem_Chapter2.ItemListHead.3" = "黑假面帽(Lv.30)";
+"ManufactureItem_Chapter2.ItemListHead.4" = "红防风帽(Lv.35)";
+"ManufactureItem_Chapter2.ItemListHead.5" = "蓝海盗巾(Lv.40)";
+"ManufactureItem_Chapter2.ItemListHead.6" = "棕奏鸣帽(Lv.50)";
+
+/* function ItemBody() */
+"ManufactureItem_Chapter2.ItemBody.1" = "制作";
+"ManufactureItem_Chapter2.ItemBody.2" = "制作";
+"ManufactureItem_Chapter2.ItemBody.3" = "制作物品.";
+
+/* function ItemListBody() */
+"ManufactureItem_Chapter2.ItemListBody.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter2.ItemListBody.2" = "黑色潜行(Lv.25)";
+"ManufactureItem_Chapter2.ItemListBody.3" = "暗银潜行(Lv.30)";
+"ManufactureItem_Chapter2.ItemListBody.4" = "暗影之裤(Lv.35)";
+"ManufactureItem_Chapter2.ItemListBody.5" = "沧海之影(Lv.40)";
+"ManufactureItem_Chapter2.ItemListBody.6" = "棕色华裤(Lv.50)";
+
+/* function ItemDagger() */
+"ManufactureItem_Chapter2.ItemDagger.1" = "制作";
+"ManufactureItem_Chapter2.ItemDagger.2" = "制作";
+"ManufactureItem_Chapter2.ItemDagger.3" = "制作物品.";
+
+/* function ItemListDagger() */
+"ManufactureItem_Chapter2.ItemListDagger.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter2.ItemListDagger.2" = "水晶刃(Lv.27)";
+"ManufactureItem_Chapter2.ItemListDagger.3" = "暗影刃(Lv.34)";
+"ManufactureItem_Chapter2.ItemListDagger.4" = "龙刃(Lv.42)";
+"ManufactureItem_Chapter2.ItemListDagger.5" = "破碎刃(Lv.50)";
+
+/* function ItemGlove() */
+"ManufactureItem_Chapter2.ItemGlove.1" = "制作";
+"ManufactureItem_Chapter2.ItemGlove.2" = "制作";
+"ManufactureItem_Chapter2.ItemGlove.3" = "制作物品.";
+
+/* function ItemListGlove() */
+"ManufactureItem_Chapter2.ItemListGlove.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter2.ItemListGlove.2" = "护腕(Lv.27)";
+"ManufactureItem_Chapter2.ItemListGlove.3" = "手甲(Lv.34)";
+"ManufactureItem_Chapter2.ItemListGlove.4" = "战神拳套(Lv.42)";
+"ManufactureItem_Chapter2.ItemListGlove.5" = "黑闪电甲(Lv.50)";
+
+/* function ItemFoot() */
+"ManufactureItem_Chapter2.ItemFoot.1" = "制作";
+"ManufactureItem_Chapter2.ItemFoot.2" = "制作";
+"ManufactureItem_Chapter2.ItemFoot.3" = "制作物品.";
+
+/* function ItemListFoot() */
+"ManufactureItem_Chapter2.ItemListFoot.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter2.ItemListFoot.2" = "追击鞋(Lv.25)";
+"ManufactureItem_Chapter2.ItemListFoot.3" = "杨柳鞋(Lv.35)";
+"ManufactureItem_Chapter2.ItemListFoot.4" = "流星鞋(Lv.40)";
+"ManufactureItem_Chapter2.ItemListFoot.5" = "雷电鞋(Lv.50)";
+
+/* function ItemEar() */
+"ManufactureItem_Chapter2.ItemEar.1" = "制作";
+"ManufactureItem_Chapter2.ItemEar.2" = "制作";
+"ManufactureItem_Chapter2.ItemEar.3" = "制作物品.";
+
+/* function ItemListEar() */
+"ManufactureItem_Chapter2.ItemListEar.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter2.ItemListEar.2" = "十字耳环(Lv.25)";
+"ManufactureItem_Chapter2.ItemListEar.3" = "闪电耳环(Lv.30)";
+"ManufactureItem_Chapter2.ItemListEar.4" = "蓝宝石环(Lv.36)";
+"ManufactureItem_Chapter2.ItemListEar.5" = "蓝月亮(Lv.42)";
+"ManufactureItem_Chapter2.ItemListEar.6" = "红心耳环(Lv.48)";
+"ManufactureItem_Chapter2.ItemListEar.7" = "十字耳环(Lv.55)";
+
+/* function ItemSortList() */
+"ManufactureItem_Chapter2.ItemSortList.1" = "帽子";
+"ManufactureItem_Chapter2.ItemSortList.2" = "衣服";
+"ManufactureItem_Chapter2.ItemSortList.3" = "短剑";
+"ManufactureItem_Chapter2.ItemSortList.4" = "手镯";
+"ManufactureItem_Chapter2.ItemSortList.5" = "鞋";
+"ManufactureItem_Chapter2.ItemSortList.6" = "耳环";
+"ManufactureItem_Chapter2.ItemSortList.7" = "制作物品";
+
+
+
+
+/* 
+   ScriptChapter3.strings (Korean Version)
+   MapleThief
+
+   Created by Hyunchul Kim on 1/28/10.
+   Copyright 2010 NEXON Mobile Corporation. All rights reserved.
+ */
+
+
+
+/*
+ * Script - Chapter3
+ * String Definition: "FileName.MethodName.Sequence" = "Localized String";
+ */
+
+
+/* BackChapter3_Boss_Balog ***************************************************/
+
+/* function BossMsg() */
+"BackChapter3_Boss_Balog.BossMsg.1" = "你是谁?一个人类怎么敢\r\n来这种地方!";
+"BackChapter3_Boss_Balog.BossMsg.2" = "我没有任何的仁慈.你将\r\n看不到明天的太阳.";
+
+
+/* BackChapter3_Quest_Humanoid ***************************************************/
+
+/* function reward() */
+"BackChapter3_Quest_Humanoid.reward.1" = "我要向基努莫斯会长祈求宽\r\n恕.罗宾,你能帮我么?";
+"BackChapter3_Quest_Humanoid.reward.2" = "我要制作一个特殊仪器.";
+"BackChapter3_Quest_Humanoid.reward.3" = "我希望你能研究成功.";
+
+/* function step2() */
+"BackChapter3_Quest_Humanoid.step2.1" = "制作仪器需要红色变异螺\r\n母零件.能帮我搞到么?";
+"BackChapter3_Quest_Humanoid.step2.2" = "去废弃都市见史密斯.";
+
+/* function subQuest4() */
+"BackChapter3_Quest_Humanoid.subQuest4.1" = "我要成为人类4";
+"BackChapter3_Quest_Humanoid.subQuest4.2" = "我要向基努莫斯会长寻求\r\n宽恕.罗宾,能帮我么?";
+"BackChapter3_Quest_Humanoid.subQuest4.3" = "我...我被骗了.";
+"BackChapter3_Quest_Humanoid.subQuest4.4" = "变态哈蒙说我会变成人类\r\n,如果我给他基努莫斯制\r\n作的生命药水以及生长在\r\n神秘岛的生命之木.";
+"BackChapter3_Quest_Humanoid.subQuest4.5" = "但是他现在放我鸽子了.\r\n我觉得他已经跑路了.";
+"BackChapter3_Quest_Humanoid.subQuest4.6" = "奥卡诺会长可能现在不会\r\n带走我,因为我已经和基\r\n努莫斯会长联合了!";
+"BackChapter3_Quest_Humanoid.subQuest4.7" = "不用说了,我不知道生命\r\n药水和生命之木这么有价\r\n值,我该怎么做?!";
+
+/* function subQuest10() */
+"BackChapter3_Quest_Humanoid.subQuest10.1" = "人类的心2";
+"BackChapter3_Quest_Humanoid.subQuest10.2" = "我需要特殊的仪器来把这\r\n个心运走.你能带来30\r\n个红色变异螺母零件来帮\r\n我完成它么?";
+"BackChapter3_Quest_Humanoid.subQuest10.3" = "你说基努莫斯会长研究如\r\n何死者复生?";
+"BackChapter3_Quest_Humanoid.subQuest10.4" = "(如果他的实验成功了那\r\n么我就有机会变成人了)";
+"BackChapter3_Quest_Humanoid.subQuest10.5" = "你说你需要我的心?我很\r\n乐意给你.但需要有特殊\r\n的仪器来存储它.";
+"BackChapter3_Quest_Humanoid.subQuest10.6" = "你已经带回红色变异螺母\r\n零件.";
+"BackChapter3_Quest_Humanoid.subQuest10.7" = "我制作特殊仪器需要30\r\n个红色变异螺母零件,你\r\n能弄来么?";
+
+/* function subQuest11() */
+"BackChapter3_Quest_Humanoid.subQuest11.1" = "制作特殊仪器";
+"BackChapter3_Quest_Humanoid.subQuest11.2" = "我听说史密斯知道如何制\r\n作仪器.找他寻求帮助.";
+"BackChapter3_Quest_Humanoid.subQuest11.3" = "在玛加提亚没有人知道如\r\n何制作特殊仪器.";
+"BackChapter3_Quest_Humanoid.subQuest11.4" = "我听说史密斯知道如何制\r\n作特殊仪器.";
+"BackChapter3_Quest_Humanoid.subQuest11.5" = "拿着这个.我要把你给我\r\n的碎片混合在一起.";
+"BackChapter3_Quest_Humanoid.subQuest11.6" = "给,这是我唯一的心脏.";
+"BackChapter3_Quest_Humanoid.subQuest11.7" = "我要制作一个特殊仪器.\r\n去废弃都市拜访史密斯.";
+
+/* function dialog() */
+"BackChapter3_Quest_Humanoid.dialog.1" = "我要变成人类!";
+
+/* function setQuestList() */
+"BackChapter3_Quest_Humanoid.setQuestList.1" = "我要成为人类4";
+"BackChapter3_Quest_Humanoid.setQuestList.2" = "人类的心2";
+"BackChapter3_Quest_Humanoid.setQuestList.3" = "制作特殊仪器";
+"BackChapter3_Quest_Humanoid.setQuestList.4" = "当前任务";
+
+
+/* Chapter3_Boss_Balog ***************************************************/
+
+/* function BossMsg() */
+"Chapter3_Boss_Balog.BossMsg.1" = "你是谁?一个人类怎么敢\r\n来这里!";
+"Chapter3_Boss_Balog.BossMsg.2" = "我绝对不会宽恕,你看不\r\n到明天的太阳了.";
+"Chapter3_Boss_Balog.BossMsg.3" = "啊!你这个弱小的人类怎\r\n么能打败我?";
+
+
+/* Chapter3_Dialog_Heracle ***************************************************/
+
+/* function dialog() */
+"Chapter3_Dialog_Heracle.dialog.1" = "村民们对你感激不尽.";
+"Chapter3_Dialog_Heracle.dialog.2" = "不!一定是有邪恶力量来\r\n到了天空之城.";
+
+
+/* Chapter3_Dialog_Manji ***************************************************/
+
+/* function dialog() */
+"Chapter3_Dialog_Manji.dialog.1" = "村庄是那么的安静,但是\r\n很无聊.";
+"Chapter3_Dialog_Manji.dialog.2" = "我从心底里感到不舒服.";
+
+
+/* Chapter3_Dialog_McAthur ***************************************************/
+
+/* function dialog() */
+"Chapter3_Dialog_McAthur.dialog.1" = "恶魔领主消失了,不代表\r\n邪恶之力也随之消失,永\r\n远不要停止磨练.";
+"Chapter3_Dialog_McAthur.dialog.2" = "我从心底里感到不舒服.";
+
+
+/* Chapter3_Dialog_Sabi ***************************************************/
+
+/* function dialog() */
+"Chapter3_Dialog_Sabi.dialog.1" = "现在你的拇指上应该已经\r\n结满了老茧.";
+"Chapter3_Dialog_Sabi.dialog.2" = "我都能感受到黑暗能量.";
+
+
+/* Chapter3_Dialog_Stan ***************************************************/
+
+/* function dialog() */
+"Chapter3_Dialog_Stan.dialog.1" = "村庄终于安全了,很感谢\r\n,村民脸上又有了笑容.";
+"Chapter3_Dialog_Stan.dialog.2" = "感觉有啥不对劲.";
+
+
+/* Chapter3_Homun_Portal ***************************************************/
+
+
+/* Chapter3_MagatiaMiniGame_Portal ***************************************************/
+
+
+/* Chapter3_MidBoss_Homun ***************************************************/
+
+/* function BossMsg() */
+"Chapter3_MidBoss_Homun.BossMsg.1" = "......";
+"Chapter3_MidBoss_Homun.BossMsg.2" = "...";
+"Chapter3_MidBoss_Homun.BossMsg.3" = "不,不可能...";
+
+
+/* Chapter3_MonsterCarnival_Spiegelman ***************************************************/
+
+/* function MoveToMCMap() */
+"Chapter3_MonsterCarnival_Spiegelman.MoveToMCMap.1" = "立即开始怪物嘉年华吧.";
+"Chapter3_MonsterCarnival_Spiegelman.MoveToMCMap.2" = "你需要怪物嘉年华的C票";
+"Chapter3_MonsterCarnival_Spiegelman.MoveToMCMap.3" = "如果想要参加就去买张嘉\r\n年华的C票.";
+
+/* function MCInfo() */
+"Chapter3_MonsterCarnival_Spiegelman.MCInfo.1" = "你是第一次参加怪物嘉年\r\n华吧.你还需要再受磨练\r\n,怪物嘉年华的游戏是冒\r\n险者之间的竞争.";
+"Chapter3_MonsterCarnival_Spiegelman.MCInfo.2" = "如果让大家选用真实的武\r\n器的话,结果就可能太残\r\n酷啦.冒险岛可是个非暴\r\n力的世界哦.";
+"Chapter3_MonsterCarnival_Spiegelman.MCInfo.3" = "怪物嘉年华,就是要尽可\r\n能多的击败怪物.";
+"Chapter3_MonsterCarnival_Spiegelman.MCInfo.4" = "击败怪物后,你就可以得\r\n到相应的勋章.迟早有一\r\n天,你会得到所有冒险者\r\n的尊敬.";
+"Chapter3_MonsterCarnival_Spiegelman.MCInfo.5" = "怎么样?难道你没感觉到\r\n心跳加速?";
+
+/* function MCGameInfo() */
+"Chapter3_MonsterCarnival_Spiegelman.MCGameInfo.1" = "怪物嘉年华有一条规则:\r\n必须在3分钟内尽可能多\r\n的击败怪物.";
+"Chapter3_MonsterCarnival_Spiegelman.MCGameInfo.2" = "击败越多怪物,得到的狂\r\n欢CP点数也越多,这将\r\n影响到你的排名.";
+"Chapter3_MonsterCarnival_Spiegelman.MCGameInfo.3" = "这是一个选出最优秀冒险\r\n者的游戏.有兴趣吗?要\r\n不要试一下?";
+
+/* function MCRankInfo() */
+"Chapter3_MonsterCarnival_Spiegelman.MCRankInfo.1" = "返回菜单注册个人排名.";
+"Chapter3_MonsterCarnival_Spiegelman.MCRankInfo.2" = "提醒一下!注册登记是要\r\n花流量的呦.";
+
+/* function infoMenu() */
+"Chapter3_MonsterCarnival_Spiegelman.infoMenu.1" = "怪物嘉年华是什么?";
+"Chapter3_MonsterCarnival_Spiegelman.infoMenu.2" = "详情";
+"Chapter3_MonsterCarnival_Spiegelman.infoMenu.3" = "关于注册排名";
+"Chapter3_MonsterCarnival_Spiegelman.infoMenu.4" = "内容很长,请仔细阅读.";
+
+/* function enterMobCarnival() */
+"Chapter3_MonsterCarnival_Spiegelman.enterMobCarnival.1" = "去怪物嘉年华";
+"Chapter3_MonsterCarnival_Spiegelman.enterMobCarnival.2" = "怪物嘉年华是什么?";
+"Chapter3_MonsterCarnival_Spiegelman.enterMobCarnival.3" = "哈哈.我是休彼得曼,狂\r\n欢马戏团的老板.是我举\r\n办了第一届嘉年华并邀请\r\n像你一样的冒险者们.";
+"Chapter3_MonsterCarnival_Spiegelman.enterMobCarnival.4" = "我很乐意向你介绍嘉年华\r\n,如果你还不了解.";
+
+/* function levelDownLimit() */
+"Chapter3_MonsterCarnival_Spiegelman.levelDownLimit.1" = "欢迎来到怪物嘉年华,噢\r\n!你的排名太高啦.";
+"Chapter3_MonsterCarnival_Spiegelman.levelDownLimit.2" = "打怪对你来说太无趣了.\r\n试试看挑战高级的怪物.";
+
+/* function levelUpLimit() */
+"Chapter3_MonsterCarnival_Spiegelman.levelUpLimit.1" = "你的等级还不能参加,只\r\n有51级以上的才行.";
+"Chapter3_MonsterCarnival_Spiegelman.levelUpLimit.2" = "这儿对你来说等于自杀.\r\n去升级以后再来...";
+
+
+/* Chapter3_portal603 ***************************************************/
+
+
+/* Chapter3_Quest_Alchadno_Chief ***************************************************/
+
+/* function mainCallBack() */
+"Chapter3_Quest_Alchadno_Chief.mainCallBack.1" = "基努莫斯会长说,如果给\r\n你这些合金,你就会打造\r\n出坚固防火的护甲.";
+"Chapter3_Quest_Alchadno_Chief.mainCallBack.2" = "是的,我需要一些材料.";
+"Chapter3_Quest_Alchadno_Chief.mainCallBack.3" = "我要30个烧杯和25个\r\n水灵.快去,我可没时间\r\n等你.";
+"Chapter3_Quest_Alchadno_Chief.mainCallBack.4" = "哇!这个护甲好酷.";
+"Chapter3_Quest_Alchadno_Chief.mainCallBack.5" = "阿尔卡斯特是不是在等你\r\n?拿着这个,去找他吧.";
+
+/* function mainQuest5() */
+"Chapter3_Quest_Alchadno_Chief.mainQuest5.1" = "奥卡诺的技术";
+"Chapter3_Quest_Alchadno_Chief.mainQuest5.2" = "我要30个烧杯和25个\r\n水灵.快去,我可没时间\r\n等你.";
+"Chapter3_Quest_Alchadno_Chief.mainQuest5.3" = "这些合金是基努莫斯联盟\r\n搞出来的吗?他们可以随\r\n意送人了?";
+
+/* function mainQuest5End() */
+"Chapter3_Quest_Alchadno_Chief.mainQuest5End.1" = "回去见阿尔卡斯特";
+"Chapter3_Quest_Alchadno_Chief.mainQuest5End.2" = "回去见阿尔卡斯特.";
+"Chapter3_Quest_Alchadno_Chief.mainQuest5End.3" = "终于搞定.我马上开始.\r\n*嘭*乒*就快好了.这\r\n护甲可以抵御任何火焰!";
+"Chapter3_Quest_Alchadno_Chief.mainQuest5End.4" = "我要30个烧杯和25个\r\n水灵.";
+
+/* function reward() */
+"Chapter3_Quest_Alchadno_Chief.reward.1" = "这是送你的.";
+"Chapter3_Quest_Alchadno_Chief.reward.2" = "我早就在笑了";
+"Chapter3_Quest_Alchadno_Chief.reward.3" = "这是送你的!";
+"Chapter3_Quest_Alchadno_Chief.reward.4" = "作为奥卡诺的一份子,以\r\n后我会找你帮忙的.";
+
+/* function step2() */
+"Chapter3_Quest_Alchadno_Chief.step2.1" = "必须不惜一切代价找到它";
+"Chapter3_Quest_Alchadno_Chief.step2.2" = "带回30个红变异螺母零\r\n件,用于强化人造人.";
+"Chapter3_Quest_Alchadno_Chief.step2.3" = "我一定会给你报酬的!";
+"Chapter3_Quest_Alchadno_Chief.step2.4" = "你是外地人吧.你要想打\r\n听点什么,最好先去找张\r\n奥卡诺联盟卡.";
+
+/* function subQuestStart() */
+"Chapter3_Quest_Alchadno_Chief.subQuestStart.1" = "加入奥卡诺联盟";
+"Chapter3_Quest_Alchadno_Chief.subQuestStart.2" = "你要想打听点什么,最好\r\n先去找张奥卡诺联盟卡!";
+"Chapter3_Quest_Alchadno_Chief.subQuestStart.3" = "嘿,不可以走进那里!";
+"Chapter3_Quest_Alchadno_Chief.subQuestStart.4" = "我还不知道你已经有盟卡\r\n,现在你是我们的一员.";
+"Chapter3_Quest_Alchadno_Chief.subQuestStart.5" = "你要想打听点什么,最好\r\n先去找张奥卡诺联盟卡!";
+
+/* function subQuest2() */
+"Chapter3_Quest_Alchadno_Chief.subQuest2.1" = "找到人造人";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.2" = "请找到人造人,他就在玛\r\n加提亚的某处.";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.3" = "我的人造人助理失踪了,\r\n只留下一封信,说他想成\r\n为人类.";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.4" = "你见过我助理?你一定要\r\n帮我!";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.5" = "我一定会报答你的...\r\n请帮我找到这个人造人.";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.6" = "这些基努莫斯的白痴,创\r\n造了怪物出来,现在玛加\r\n提亚已经一片混乱了.";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.7" = "最糟糕的是,那怪物骗了\r\n我的人造人,我绝不会原\r\n谅它.";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.8" = "我的人造人太天真了.我\r\n也在利用他,因为他是个\r\n机器人.";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.9" = "我知道他想变成人类,但\r\n我没意识到这导致了严重\r\n的后果...";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.10" = "谢谢你带我来这里.";
+"Chapter3_Quest_Alchadno_Chief.subQuest2.11" = "你要是找到了人造人,我\r\n一定会好好报答你的.";
+
+/* function subQuest17() */
+"Chapter3_Quest_Alchadno_Chief.subQuest17.1" = "强化的人造人";
+"Chapter3_Quest_Alchadno_Chief.subQuest17.2" = "带回30个红变异螺母零\r\n件,用于强化人造人.";
+"Chapter3_Quest_Alchadno_Chief.subQuest17.3" = "我净忙这个人造人了.";
+"Chapter3_Quest_Alchadno_Chief.subQuest17.4" = "虽然这人造人迫切的想变\r\n成人类,但我没办法.不\r\n过至少可以让他强化.";
+"Chapter3_Quest_Alchadno_Chief.subQuest17.5" = "非常感谢.现在我可以用\r\n这些强化人造人了.";
+"Chapter3_Quest_Alchadno_Chief.subQuest17.6" = "想到人造人的愿望,我都\r\n等不及要看他的笑脸了.";
+"Chapter3_Quest_Alchadno_Chief.subQuest17.7" = "带回30个红变异螺母零\r\n件.";
+
+/* function subQuest18() */
+"Chapter3_Quest_Alchadno_Chief.subQuest18.1" = "失事的实验室";
+"Chapter3_Quest_Alchadno_Chief.subQuest18.2" = "请帮我解决40个洛伊德\r\n,它们毁了我的实验室和\r\n研究设备.";
+"Chapter3_Quest_Alchadno_Chief.subQuest18.3" = "你会帮我吗?洛伊德闯进\r\n我的实验室,毁了一切!";
+"Chapter3_Quest_Alchadno_Chief.subQuest18.4" = "我不能眼睁睁的看着它们\r\n搞破坏!帮我解决40个\r\n洛伊德.";
+"Chapter3_Quest_Alchadno_Chief.subQuest18.5" = "你完成了!这是我给你的\r\n奖励.";
+"Chapter3_Quest_Alchadno_Chief.subQuest18.6" = "帮我解决40个洛伊德.";
+
+/* function dialog() */
+"Chapter3_Quest_Alchadno_Chief.dialog.1" = "炼金术跟工程学结合在一\r\n起,才可以达到巅峰.";
+
+/* function setQuestList() */
+"Chapter3_Quest_Alchadno_Chief.setQuestList.1" = "见奥卡诺会长.";
+"Chapter3_Quest_Alchadno_Chief.setQuestList.2" = "奥卡诺的技术";
+"Chapter3_Quest_Alchadno_Chief.setQuestList.3" = "找到人造人";
+"Chapter3_Quest_Alchadno_Chief.setQuestList.4" = "强化人造人";
+"Chapter3_Quest_Alchadno_Chief.setQuestList.5" = "失事的实验室";
+"Chapter3_Quest_Alchadno_Chief.setQuestList.6" = "现在的任务";
+
+
+/* Chapter3_Quest_Alchester ***************************************************/
+
+/* function mainCallBack() */
+"Chapter3_Quest_Alchester.mainCallBack.1" = "尽你所能吧.恶魔领主正\r\n在聚集能量准备复活,我\r\n们要马上阻止它,快去.";
+"Chapter3_Quest_Alchester.mainCallBack.2" = "村庄又安全了,谢谢你.";
+"Chapter3_Quest_Alchester.mainCallBack.3" = "没什么啦,我可是冒险岛\r\n最著名的飞侠啊.";
+"Chapter3_Quest_Alchester.mainCallBack.4" = "嗨,罗宾,这是你的报酬\r\n,也是最后一笔...";
+"Chapter3_Quest_Alchester.mainCallBack.5" = "你也保重,阿尔卡斯特,\r\n把报酬送给村民吧.";
+"Chapter3_Quest_Alchester.mainCallBack.6" = "有缘再见.";
+
+/* function mainQuest7() */
+"Chapter3_Quest_Alchester.mainQuest7.1" = "打败恶魔领主";
+"Chapter3_Quest_Alchester.mainQuest7.2" = "我感到恶魔领主正在聚集\r\n能量,去打败领主吧.";
+"Chapter3_Quest_Alchester.mainQuest7.3" = "你拿到护甲了!一定很辛\r\n苦吧?抱歉给你这么多压\r\n力,罗宾.";
+"Chapter3_Quest_Alchester.mainQuest7.4" = "没什么,我很乐意帮忙.";
+
+/* function mainQuest72() */
+"Chapter3_Quest_Alchester.mainQuest72.1" = "现在去打败恶魔领主吧.";
+"Chapter3_Quest_Alchester.mainQuest72.2" = "冒险岛世界的和平";
+"Chapter3_Quest_Alchester.mainQuest72.3" = "你已经是冒险岛最好的飞\r\n侠了.如果你想和其他人\r\n组队,先挑战自己吧.";
+"Chapter3_Quest_Alchester.mainQuest72.4" = "什么风把你吹来?村民们\r\n非常感激你.";
+
+/* function reward() */
+"Chapter3_Quest_Alchester.reward.1" = "这要泄露出去,玛加提亚\r\n立刻就会陷入混乱.";
+"Chapter3_Quest_Alchester.reward.2" = "我听过这个谣言.";
+"Chapter3_Quest_Alchester.reward.3" = "谢谢.";
+"Chapter3_Quest_Alchester.reward.4" = "我一定要感谢你的付出,\r\n拿着这个.";
+"Chapter3_Quest_Alchester.reward.5" = "这是给你的最后一笔奖励\r\n啦,拿着吧.";
+
+/* function step2() */
+"Chapter3_Quest_Alchester.step2.1" = "有蓝色的水灵.";
+"Chapter3_Quest_Alchester.step2.2" = "我要做尖矛,防备怪物的\r\n进攻.";
+"Chapter3_Quest_Alchester.step2.3" = "去见斯卡多.";
+"Chapter3_Quest_Alchester.step2.4" = "你要去把它们都杀了.";
+"Chapter3_Quest_Alchester.step2.5" = "这些可以拴住猎犬.";
+
+/* function subQuest7() */
+"Chapter3_Quest_Alchester.subQuest7.1" = "阿尔卡斯特的建议2";
+"Chapter3_Quest_Alchester.subQuest7.2" = "那个怪物藏在基努莫斯的\r\n102实验室的附近,某\r\n个秘密入口处.拿着部分\r\n的人类身体潜能的数据.";
+"Chapter3_Quest_Alchester.subQuest7.3" = "基努莫斯的会长,开始研\r\n究人类身体的潜能啦.";
+"Chapter3_Quest_Alchester.subQuest7.4" = "这类炼金术是违规的.抱\r\n歉,告诉他我无能为力.";
+"Chapter3_Quest_Alchester.subQuest7.5" = "真的?他说会帮我成为下\r\n届的会长?";
+"Chapter3_Quest_Alchester.subQuest7.6" = "(如果研究真的能取得突\r\n破,将比奥卡诺更强.)";
+"Chapter3_Quest_Alchester.subQuest7.7" = "好的,我帮你了.";
+"Chapter3_Quest_Alchester.subQuest7.8" = "蓝水灵带着研究数据.";
+"Chapter3_Quest_Alchester.subQuest7.9" = "那个怪物藏在基努莫斯的\r\n102实验室的附近,某\r\n个秘密入口处.";
+"Chapter3_Quest_Alchester.subQuest7.10" = "你把书带来了吗?很难找\r\n.现在把这本书带给基努\r\n莫斯的会长.";
+"Chapter3_Quest_Alchester.subQuest7.11" = "这只是你我间的事哦.";
+"Chapter3_Quest_Alchester.subQuest7.12" = "那个蓝水灵把研究数据藏\r\n在身体里了.";
+
+/* function subQuest26End() */
+"Chapter3_Quest_Alchester.subQuest26End.1" = "来自地狱火怪的袭击?";
+
+/* function subQuest27() */
+"Chapter3_Quest_Alchester.subQuest27.1" = "地狱火怪的攻击2";
+"Chapter3_Quest_Alchester.subQuest27.2" = "我要做尖矛,防备怪物的\r\n进攻.带30颗小猎犬的\r\n尖牙来.";
+"Chapter3_Quest_Alchester.subQuest27.3" = "有许多计划,不过估计都\r\n不太可行.我有个请求.";
+"Chapter3_Quest_Alchester.subQuest27.4" = "带30颗小猎犬尖牙来.";
+"Chapter3_Quest_Alchester.subQuest27.5" = "我需要这些牙齿来做尖矛\r\n,保护村民和抵抗怪物.";
+"Chapter3_Quest_Alchester.subQuest27.6" = "带30颗小猎犬尖牙来.";
+
+/* function subQuest28() */
+"Chapter3_Quest_Alchester.subQuest28.1" = "地狱火怪的攻击3";
+"Chapter3_Quest_Alchester.subQuest28.2" = "去见斯卡多.";
+"Chapter3_Quest_Alchester.subQuest28.3" = "斯卡多有话对你说.";
+"Chapter3_Quest_Alchester.subQuest28.4" = "去见斯卡多.";
+
+/* function subQuest30() */
+"Chapter3_Quest_Alchester.subQuest30.1" = "地狱火怪的攻击5";
+"Chapter3_Quest_Alchester.subQuest30.2" = "60只猎犬都逃走了,找\r\n到并全部猎杀它们.";
+"Chapter3_Quest_Alchester.subQuest30.3" = "斯卡多试图把地狱火怪引\r\n到悬崖边上,但有些火怪\r\n逃到火牢里去了.";
+"Chapter3_Quest_Alchester.subQuest30.4" = "60只猎犬逃走了.";
+"Chapter3_Quest_Alchester.subQuest30.5" = "消灭99只猎犬.";
+"Chapter3_Quest_Alchester.subQuest30.6" = "谢谢,你挽救了我们村!";
+"Chapter3_Quest_Alchester.subQuest30.7" = "消灭60只猎犬.";
+
+/* function subQuest31() */
+"Chapter3_Quest_Alchester.subQuest31.1" = "地狱火怪的攻击6";
+"Chapter3_Quest_Alchester.subQuest31.2" = "听说火犬的项链很坚固.\r\n弄来60条项链.";
+"Chapter3_Quest_Alchester.subQuest31.3" = "天哪,我都做了些什么!\r\n当你离开去打火怪的时候\r\n,有些小猎犬会从悬崖上\r\n跑下来袭击村民.";
+"Chapter3_Quest_Alchester.subQuest31.4" = "幸好你带了小猎犬牙来,\r\n我做了尖矛,这样我们就\r\n有武器对抗怪物了.";
+"Chapter3_Quest_Alchester.subQuest31.5" = "现在我们还有个问题:怎\r\n么拴住它们.";
+"Chapter3_Quest_Alchester.subQuest31.6" = "听说火犬的项链很坚固.";
+"Chapter3_Quest_Alchester.subQuest31.7" = "拿60条火犬的项链来.";
+"Chapter3_Quest_Alchester.subQuest31.8" = "消灭99只猎犬.";
+"Chapter3_Quest_Alchester.subQuest31.9" = "谢谢,村庄终于安宁了.\r\n这个任务很艰难,不过幸\r\n好你完成了.";
+"Chapter3_Quest_Alchester.subQuest31.10" = "听说火犬的项链很坚固.";
+"Chapter3_Quest_Alchester.subQuest31.11" = "拿60条火焰猎犬的项链\r\n来,这样就可以管教这些\r\n小猎犬了.";
+
+/* function dialog() */
+"Chapter3_Quest_Alchester.dialog.1" = "有一股不祥的力量,潜伏\r\n在这个村子里.";
+"Chapter3_Quest_Alchester.dialog.2" = "做得很好,因为你,我们\r\n的村庄又安全了.";
+
+/* function setQuestList() */
+"Chapter3_Quest_Alchester.setQuestList.1" = "回去见阿尔卡斯特";
+"Chapter3_Quest_Alchester.setQuestList.2" = "打败恶魔领主";
+"Chapter3_Quest_Alchester.setQuestList.3" = "阿尔卡斯特的建议2";
+"Chapter3_Quest_Alchester.setQuestList.4" = "地狱火怪的攻击";
+"Chapter3_Quest_Alchester.setQuestList.5" = "地狱火怪的攻击2";
+"Chapter3_Quest_Alchester.setQuestList.6" = "地狱火怪的攻击3";
+"Chapter3_Quest_Alchester.setQuestList.7" = "地狱火怪的攻击5";
+"Chapter3_Quest_Alchester.setQuestList.8" = "地狱火怪的攻击6";
+"Chapter3_Quest_Alchester.setQuestList.9" = "现在的任务";
+
+
+/* Chapter3_Quest_BrokerHan ***************************************************/
+
+/* function subQuest16Story() */
+"Chapter3_Quest_BrokerHan.subQuest16Story.1" = "这消息值10000金币\r\n,听仔细了:很久前从欧\r\n西瑞来的黑魔法师,在这\r\n里失踪了.";
+"Chapter3_Quest_BrokerHan.subQuest16Story.2" = "于是,炼金师们聚居在此\r\n,建立村庄.他们声称要\r\n追寻终极智慧,找到防御\r\n黑魔法的方法.";
+"Chapter3_Quest_BrokerHan.subQuest16Story.3" = "如今玛加提亚分裂为两部\r\n分,基努莫斯和奥卡诺.";
+"Chapter3_Quest_BrokerHan.subQuest16Story.4" = "基努莫斯由善于魔法和科\r\n学的炼金师组成,奥卡诺\r\n则由工程的炼金师组成.";
+"Chapter3_Quest_BrokerHan.subQuest16Story.5" = "看起来这两派要一直对立\r\n下去了.";
+"Chapter3_Quest_BrokerHan.subQuest16Story.6" = "我有很多内幕消息,有问\r\n题尽管来找我!";
+"Chapter3_Quest_BrokerHan.subQuest16Story.7" = "再说一次:有问题就来找\r\n我!不过只有当我头上出\r\n现感叹号的时候再来.";
+
+/* function reward() */
+"Chapter3_Quest_BrokerHan.reward.1" = "如果在玛加提亚有疑惑,\r\n随时来找我.";
+"Chapter3_Quest_BrokerHan.reward.2" = "如果你要知道事情的真相\r\n,就要去奥卡诺联盟.";
+"Chapter3_Quest_BrokerHan.reward.3" = "穿过这个田野就看到了.";
+"Chapter3_Quest_BrokerHan.reward.4" = "这是奥卡诺联盟卡.";
+"Chapter3_Quest_BrokerHan.reward.5" = "这消息值10000金币\r\n,听仔细了:很久前从欧\r\n西瑞来的黑魔法师,在这\r\n里失踪了.";
+"Chapter3_Quest_BrokerHan.reward.6" = "于是,炼金师们聚居在此\r\n,建立村庄.他们声称要\r\n追寻终极智慧,找到防御\r\n黑魔法的方法.";
+"Chapter3_Quest_BrokerHan.reward.7" = "如今玛加提亚分裂为两部\r\n分,基努莫斯和奥卡诺.";
+"Chapter3_Quest_BrokerHan.reward.8" = "基努莫斯由善于魔法和科\r\n学的炼金师组成,奥卡诺\r\n则由工程的炼金师组成.";
+"Chapter3_Quest_BrokerHan.reward.9" = "看起来这两派要一直对立\r\n下去了.";
+"Chapter3_Quest_BrokerHan.reward.10" = "我有很多内幕消息,有问\r\n题尽管来找我!";
+"Chapter3_Quest_BrokerHan.reward.11" = "再说一次:有问题就来找\r\n我!不过只有当我头上出\r\n现感叹号的时候再来.";
+
+/* function step2() */
+"Chapter3_Quest_BrokerHan.step2.1" = "拿10000金币和10\r\n瓶矿泉水来,我就给你张\r\n联盟卡.";
+"Chapter3_Quest_BrokerHan.step2.2" = "我可以告诉你最真实的玛\r\n加提亚.";
+"Chapter3_Quest_BrokerHan.step2.3" = "不过你要给我10000\r\n金币.";
+"Chapter3_Quest_BrokerHan.step2.4" = "消灭掉40个.";
+"Chapter3_Quest_BrokerHan.step2.5" = "注意:水灵就在基努莫斯\r\n实验室101房间里.";
+
+/* function subQuest0() */
+"Chapter3_Quest_BrokerHan.subQuest0.1" = "联盟卡";
+"Chapter3_Quest_BrokerHan.subQuest0.2" = "拿10000金币和10\r\n瓶矿泉水来,我就给你张\r\n联盟卡.";
+"Chapter3_Quest_BrokerHan.subQuest0.3" = "我知道你迟早要来的,因\r\n为我看到你跟会长谈话,\r\n没有联盟卡可不行.";
+"Chapter3_Quest_BrokerHan.subQuest0.4" = "交易?";
+"Chapter3_Quest_BrokerHan.subQuest0.5" = "你很着急嘛,现在拿联盟\r\n卡是越来越难啦.";
+"Chapter3_Quest_BrokerHan.subQuest0.6" = "这张卡花了我不少时间.";
+"Chapter3_Quest_BrokerHan.subQuest0.7" = "拿10000金币和10\r\n瓶矿泉水来,我就给你张\r\n联盟卡.";
+
+/* function subQuest1() */
+"Chapter3_Quest_BrokerHan.subQuest1.1" = "哲努的秘密";
+"Chapter3_Quest_BrokerHan.subQuest1.2" = "要听玛加提亚最大的秘闻\r\n,需要15000金币.";
+"Chapter3_Quest_BrokerHan.subQuest1.3" = "想不想知道最近地下图书\r\n馆里的大新闻??";
+"Chapter3_Quest_BrokerHan.subQuest1.4" = "这消息可值15000金\r\n币,怎么样?";
+"Chapter3_Quest_BrokerHan.subQuest1.5" = "听说地下图书馆里躲着个\r\n怪物,是基努莫斯实验的\r\n废品.";
+"Chapter3_Quest_BrokerHan.subQuest1.6" = "他们创造了一种新的生命\r\n,叫哈蒙,并不断强化它\r\n,以对抗奥卡诺的机械炼\r\n金术.可惜实验失败了.";
+"Chapter3_Quest_BrokerHan.subQuest1.7" = "他们完全搞砸了,哈蒙并\r\n没什么威力...";
+"Chapter3_Quest_BrokerHan.subQuest1.8" = "但它非常聪明谨慎.会长\r\n也不能制服它.但是没关\r\n系,因为很弱.";
+"Chapter3_Quest_BrokerHan.subQuest1.9" = "然后就发生了很奇怪的事\r\n情:哈蒙的力量突然间就\r\n变强了.";
+"Chapter3_Quest_BrokerHan.subQuest1.10" = "因为这个,附近的怪物越\r\n来越多.";
+"Chapter3_Quest_BrokerHan.subQuest1.11" = "我猜是奥卡诺联盟对怪物\r\n做了什么,它们企图破坏\r\n基努莫斯的实验.";
+"Chapter3_Quest_BrokerHan.subQuest1.12" = "不过这也仅是猜测.";
+"Chapter3_Quest_BrokerHan.subQuest1.13" = "这消息可值15000金\r\n币,怎么样?";
+
+/* function subQuest3() */
+"Chapter3_Quest_BrokerHan.subQuest3.1" = "人造人在哪里";
+"Chapter3_Quest_BrokerHan.subQuest3.2" = "要知道人造人在哪,付我\r\n10000金币.";
+"Chapter3_Quest_BrokerHan.subQuest3.3" = "你是在找那个想变成人类\r\n的人造人?";
+"Chapter3_Quest_BrokerHan.subQuest3.4" = "据情报来源,这个人造人\r\n正在奥卡诺的平原里,期\r\n待有人去找他.";
+"Chapter3_Quest_BrokerHan.subQuest3.5" = "但我不知道具体位置啊.";
+"Chapter3_Quest_BrokerHan.subQuest3.6" = "消息值10000金币.";
+
+/* function subQuest15() */
+"Chapter3_Quest_BrokerHan.subQuest15.1" = "奥卡诺联盟卡";
+"Chapter3_Quest_BrokerHan.subQuest15.2" = "解决40个蓝色变异螺\r\n母,就可以得到联盟卡.";
+"Chapter3_Quest_BrokerHan.subQuest15.3" = "即使有了盟卡,也不代表\r\n在玛加提亚就通行无阻.";
+"Chapter3_Quest_BrokerHan.subQuest15.4" = "如果你帮我个忙,我可以\r\n给你盟卡.我最近被蓝色\r\n变异螺母快逼疯了.";
+"Chapter3_Quest_BrokerHan.subQuest15.5" = "你太棒了!给你这个.";
+"Chapter3_Quest_BrokerHan.subQuest15.6" = "解决40个蓝色变异螺母";
+
+/* function subQuest16() */
+"Chapter3_Quest_BrokerHan.subQuest16.1" = "玛加提亚";
+"Chapter3_Quest_BrokerHan.subQuest16.2" = "想听消息消灭30个水灵\r\n,付10000金币.";
+"Chapter3_Quest_BrokerHan.subQuest16.3" = "你新来的吧,看起来不像\r\n炼金师.大概你还不清楚\r\n此地的规矩.";
+"Chapter3_Quest_BrokerHan.subQuest16.4" = "想听消息消灭30个水灵\r\n,付10000金币.";
+"Chapter3_Quest_BrokerHan.subQuest16.5" = "真快!水灵太烦人了.";
+"Chapter3_Quest_BrokerHan.subQuest16.6" = "这是报酬.";
+"Chapter3_Quest_BrokerHan.subQuest16.7" = "想听消息消灭30个水灵\r\n,付10000金币.";
+
+/* function dialog() */
+"Chapter3_Quest_BrokerHan.dialog.1" = "我叫汉,代理人.如果你\r\n要打听什么事,尽管来.";
+
+/* function manuFacturingCallBack() */
+"Chapter3_Quest_BrokerHan.manuFacturingCallBack.1" = "把东西都给我才能做出好\r\n物品来.";
+
+/* function startManufacturing() */
+"Chapter3_Quest_BrokerHan.startManufacturing.1" = "矿物和宝石都是很昂贵的\r\n东东.";
+"Chapter3_Quest_BrokerHan.startManufacturing.2" = "歌勿嗯!东西不够你就跑\r\n来交易了?!";
+"Chapter3_Quest_BrokerHan.startManufacturing.3" = "醒醒吧!世上没有免费的\r\n午餐!东西齐了再说吧.";
+
+/* function ItemExchange() */
+"Chapter3_Quest_BrokerHan.ItemExchange.1" = "交易";
+"Chapter3_Quest_BrokerHan.ItemExchange.2" = "交易";
+"Chapter3_Quest_BrokerHan.ItemExchange.3" = "看来你还不相信我...\r\n等我们完成一笔交易,你\r\n就会信任我啦.";
+
+/* function exchange() */
+"Chapter3_Quest_BrokerHan.exchange.1" = "如果你要矿石或宝石,你\r\n可算是找对人了.";
+"Chapter3_Quest_BrokerHan.exchange.2" = "知道交易的规则吧?你这\r\n等级都不知道太丢人了.";
+"Chapter3_Quest_BrokerHan.exchange.3" = "选择物品进行交易.";
+"Chapter3_Quest_BrokerHan.exchange.4" = "50个蓝变异螺母零件";
+"Chapter3_Quest_BrokerHan.exchange.5" = "50个插头";
+"Chapter3_Quest_BrokerHan.exchange.6" = "50颗小猎犬的尖牙";
+
+/* function setQuestList() */
+"Chapter3_Quest_BrokerHan.setQuestList.1" = "联盟卡";
+"Chapter3_Quest_BrokerHan.setQuestList.2" = "哲努的秘密";
+"Chapter3_Quest_BrokerHan.setQuestList.3" = "人造人在哪里";
+"Chapter3_Quest_BrokerHan.setQuestList.4" = "奥卡诺联盟卡";
+"Chapter3_Quest_BrokerHan.setQuestList.5" = "玛加提亚";
+"Chapter3_Quest_BrokerHan.setQuestList.6" = "交易";
+"Chapter3_Quest_BrokerHan.setQuestList.7" = "现在的任务";
+
+
+/* Chapter3_Quest_Darklord ***************************************************/
+
+/* function classUpCallBack() */
+"Chapter3_Quest_Darklord.classUpCallBack.1" = "如果发现无法再提高了,\r\n就来找我!";
+
+/* function startClassUp() */
+"Chapter3_Quest_Darklord.startClassUp.1" = "你应该知道,每次升级后\r\n都可以得到技能点数.有\r\n疑问请查看帮助菜单.";
+
+/* function classUp() */
+"Chapter3_Quest_Darklord.classUp.1" = "你已经通过初学者阶段.\r\n恭喜,到10级后,就能\r\n升级为飞侠.";
+"Chapter3_Quest_Darklord.classUp.2" = "现在能使用飞侠技能了.\r\n根据情况不同,该技能可\r\n以提升攻击或加强防御.";
+"Chapter3_Quest_Darklord.classUp.3" = "转职";
+"Chapter3_Quest_Darklord.classUp.4" = "转职";
+
+/* function startClassUp2() */
+"Chapter3_Quest_Darklord.startClassUp2.1" = "你已经成为一名真正的飞\r\n侠,但前面还有很长的路\r\n要走.";
+
+/* function classUp2CallBack() */
+"Chapter3_Quest_Darklord.classUp2CallBack.1" = "转职";
+"Chapter3_Quest_Darklord.classUp2CallBack.2" = "转职";
+"Chapter3_Quest_Darklord.classUp2CallBack.3" = "转职为刺客";
+"Chapter3_Quest_Darklord.classUp2CallBack.4" = "转职为侠客";
+
+/* function assasinInfo() */
+"Chapter3_Quest_Darklord.assasinInfo.1" = "刺客使用飞镖作为主要武\r\n器,善于远程攻击.";
+"Chapter3_Quest_Darklord.assasinInfo.2" = "刺客的主要技能是多重飞\r\n镖和无影人.多重飞镖能\r\n一次性伤害多个怪物.";
+"Chapter3_Quest_Darklord.assasinInfo.3" = "无影人三次转职后才能获\r\n得,能复制你的动作,从\r\n而提升攻击力.";
+
+/* function thiefInfo() */
+"Chapter3_Quest_Darklord.thiefInfo.1" = "侠客也是飞侠的一种,但\r\n他们使用短刀,有强大的\r\n近身格斗技能.";
+"Chapter3_Quest_Darklord.thiefInfo.2" = "侠客的主技能是回旋斩和\r\n一击双出.回旋斩是快速\r\n攻击敌人6次.";
+"Chapter3_Quest_Darklord.thiefInfo.3" = "双出只有在第三次转职后\r\n才能使用.可以短时间内\r\n攻击敌人两次,并且提升\r\n攻击力.";
+
+/* function classUp2() */
+"Chapter3_Quest_Darklord.classUp2.1" = "嗯,你看起来比我上次见\r\n你时更强了.";
+"Chapter3_Quest_Darklord.classUp2.2" = "我可以再次提升你的职业\r\n技能.选择发展方向,进\r\n行第二次转职.";
+"Chapter3_Quest_Darklord.classUp2.3" = "决定就不能再反悔,所以\r\n一定要明智的选择!";
+"Chapter3_Quest_Darklord.classUp2.4" = "二次转职";
+"Chapter3_Quest_Darklord.classUp2.5" = "二次转职";
+"Chapter3_Quest_Darklord.classUp2.6" = "关于刺客…";
+"Chapter3_Quest_Darklord.classUp2.7" = "关于侠客…";
+"Chapter3_Quest_Darklord.classUp2.8" = "转职为刺客";
+"Chapter3_Quest_Darklord.classUp2.9" = "转职为侠客";
+
+/* function classUp3CallBack() */
+"Chapter3_Quest_Darklord.classUp3CallBack.1" = "第三次转职后,你还有很\r\n长的路要走,保重.";
+
+/* function startClassUp3() */
+"Chapter3_Quest_Darklord.startClassUp3.1" = "会让你成为最强的飞侠.";
+
+/* function classUp3() */
+"Chapter3_Quest_Darklord.classUp3.1" = "可以进行第三次转职了.";
+"Chapter3_Quest_Darklord.classUp3.2" = "我终将成为真正的飞侠.";
+"Chapter3_Quest_Darklord.classUp3.3" = "转职";
+"Chapter3_Quest_Darklord.classUp3.4" = "转职";
+
+/* function classUp4CallBack() */
+"Chapter3_Quest_Darklord.classUp4CallBack.1" = "查看你的技能菜单.";
+
+/* function startClassUp4() */
+"Chapter3_Quest_Darklord.startClassUp4.1" = "既然你有了技能书,我会\r\n教你新的技能.这可是冒\r\n险岛终极的奥义啦.";
+
+/* function classUp4() */
+"Chapter3_Quest_Darklord.classUp4.1" = "哇!这本书上记载了冒险\r\n岛终极的奥义.";
+"Chapter3_Quest_Darklord.classUp4.2" = "转职";
+"Chapter3_Quest_Darklord.classUp4.3" = "转职";
+
+/* function dialog() */
+"Chapter3_Quest_Darklord.dialog.1" = "我是达克鲁.";
+
+
+/* Chapter3_Quest_Humanoid(楷免) ***************************************************/
+
+/* function reward() */
+"Chapter3_Quest_Humanoid.reward.1" = "我想去请求基努莫斯会长\r\n的帮助,你能帮我吗?";
+"Chapter3_Quest_Humanoid.reward.2" = "我得制作那个特殊仪器.";
+"Chapter3_Quest_Humanoid.reward.3" = "祝你的研发成功.";
+
+/* function step2() */
+"Chapter3_Quest_Humanoid.step2.1" = "特殊的仪器需要30个蓝\r\n色变异螺母零件,能帮我\r\n弄来吗?";
+"Chapter3_Quest_Humanoid.step2.2" = "去废弃都市找史密斯.";
+
+/* function subQuest4() */
+"Chapter3_Quest_Humanoid.subQuest4.1" = "我想当人4";
+"Chapter3_Quest_Humanoid.subQuest4.2" = "我想去请求基努莫斯会长\r\n的帮助,你能帮我吗?";
+
+/* function subQuest10() */
+"Chapter3_Quest_Humanoid.subQuest10.1" = "人造人的心脏2";
+"Chapter3_Quest_Humanoid.subQuest10.2" = "特殊的仪器需要30个蓝\r\n色变异螺母零件,能帮我\r\n弄来吗?";
+"Chapter3_Quest_Humanoid.subQuest10.3" = "你说基努莫斯的会长正在\r\n研究如何起死回生?";
+"Chapter3_Quest_Humanoid.subQuest10.4" = "(如果这项研究成功,我\r\n就能成为人类了)";
+"Chapter3_Quest_Humanoid.subQuest10.5" = "你要我的心脏?我很愿意\r\n借你用,不过你得找个特\r\n殊的仪器把心脏拿出来.";
+"Chapter3_Quest_Humanoid.subQuest10.6" = "你带回零件了";
+"Chapter3_Quest_Humanoid.subQuest10.7" = "特殊的仪器需要30个蓝\r\n色变异螺母零件,能帮我\r\n弄来吗?";
+
+/* function subQuest11() */
+"Chapter3_Quest_Humanoid.subQuest11.1" = "制作特殊的仪器";
+"Chapter3_Quest_Humanoid.subQuest11.2" = "听说废弃都市的史密斯知\r\n道怎么做特殊的仪器,去\r\n问问他吧.";
+"Chapter3_Quest_Humanoid.subQuest11.3" = "玛加提亚人不知道怎么做\r\n特殊的仪器.";
+"Chapter3_Quest_Humanoid.subQuest11.4" = "听说废弃都市的史密斯知\r\n道怎么做特殊的仪器.";
+"Chapter3_Quest_Humanoid.subQuest11.5" = "拿着吧,我把你给我的零\r\n件都放在一起了.";
+"Chapter3_Quest_Humanoid.subQuest11.6" = "你把特殊仪器带来了,谢\r\n谢.现在我要用它把心脏\r\n拿出来.";
+"Chapter3_Quest_Humanoid.subQuest11.7" = "*转*拉*拿出来了.";
+"Chapter3_Quest_Humanoid.subQuest11.8" = "给,这是我唯一的心脏.";
+"Chapter3_Quest_Humanoid.subQuest11.9" = "我需要一个特殊的仪器,\r\n去问废弃都市的史密斯.";
+
+/* function dialog() */
+"Chapter3_Quest_Humanoid.dialog.1" = "我想当人类!";
+
+/* function setQuestList() */
+"Chapter3_Quest_Humanoid.setQuestList.1" = "人造人的心脏2";
+"Chapter3_Quest_Humanoid.setQuestList.2" = "制作特殊的仪器";
+"Chapter3_Quest_Humanoid.setQuestList.3" = "现在的任务";
+
+
+/* Chapter3_Quest_Map_Perion ***************************************************/
+
+/* function mainQuest8() */
+"Chapter3_Quest_Map_Perion.mainQuest8.1" = "罗宾,我还不知道你已经\r\n成了飞侠啦.";
+"Chapter3_Quest_Map_Perion.mainQuest8.2" = "真为你骄傲.你冒着生命\r\n危险保卫冒险岛的事迹,\r\n感动了每个人.";
+"Chapter3_Quest_Map_Perion.mainQuest8.3" = "我们再过一次枫叶节吧.";
+
+
+/* Chapter3_Quest_Miner ***************************************************/
+
+/* function step2() */
+"Chapter3_Quest_Miner.step2.1" = "我得考虑一下计划,去告\r\n诉阿尔卡斯特.";
+
+/* function subQuest26() */
+"Chapter3_Quest_Miner.subQuest26.1" = "地狱火怪的攻击";
+"Chapter3_Quest_Miner.subQuest26.2" = "去告诉阿尔卡斯特,地狱\r\n火怪就要来攻击村民了.";
+"Chapter3_Quest_Miner.subQuest26.3" = "噢!是有谣言说地狱火怪\r\n就要来攻击村民了,为年\r\n轻的小猎犬报仇.";
+"Chapter3_Quest_Miner.subQuest26.4" = "我再也不能袖手旁观了.";
+"Chapter3_Quest_Miner.subQuest26.5" = "我们要通知阿尔卡斯特,\r\n做好准备.";
+"Chapter3_Quest_Miner.subQuest26.6" = "我们要通知阿尔卡斯特,\r\n做好准备.";
+
+/* function dialog() */
+"Chapter3_Quest_Miner.dialog.1" = "唉!我又要去找新矿了.";
+
+/* function setQuestList() */
+"Chapter3_Quest_Miner.setQuestList.1" = "地狱火怪的攻击";
+"Chapter3_Quest_Miner.setQuestList.2" = "现在的任务";
+
+
+/* Chapter3_Quest_Pirate_Magatia ***************************************************/
+
+/* function toOrbis() */
+"Chapter3_Quest_Pirate_Magatia.toOrbis.1" = "现在去天空之城!";
+
+/* function dialog() */
+"Chapter3_Quest_Pirate_Magatia.dialog.1" = "我是冒险岛著名的海盗.";
+
+/* function setQuestList() */
+"Chapter3_Quest_Pirate_Magatia.setQuestList.1" = "去天空之城.";
+"Chapter3_Quest_Pirate_Magatia.setQuestList.2" = "现在的任务";
+
+
+/* Chapter3_Quest_Pirate_Orbis ***************************************************/
+
+/* function toVictoriaIsland() */
+"Chapter3_Quest_Pirate_Orbis.toVictoriaIsland.1" = "现在...去射手村!";
+
+/* function toMagatia() */
+"Chapter3_Quest_Pirate_Orbis.toMagatia.1" = "我将带你去玛加提亚!";
+
+/* function dialog() */
+"Chapter3_Quest_Pirate_Orbis.dialog.1" = "我是冒险岛著名的海盗.";
+
+/* function setQuestList() */
+"Chapter3_Quest_Pirate_Orbis.setQuestList.1" = "射手村";
+"Chapter3_Quest_Pirate_Orbis.setQuestList.2" = "玛加提亚";
+"Chapter3_Quest_Pirate_Orbis.setQuestList.3" = "我可以把你带到冒险岛世\r\n界里的任意地方.";
+
+/* Chapter3_Quest_Remem ***************************************************/
+
+/* function start() */
+"Chapter3_Quest_Remem.start.1" = "这是幸运符.";
+
+/* function subQuest() */
+"Chapter3_Quest_Remem.subQuest.1" = "我以前见过.";
+"Chapter3_Quest_Remem.subQuest.2" = "...";
+"Chapter3_Quest_Remem.subQuest.3" = "我记不得怎么会在这儿.";
+"Chapter3_Quest_Remem.subQuest.4" = "你就是基努莫斯会长叫来\r\n的人吧,你很执着.";
+"Chapter3_Quest_Remem.subQuest.5" = "我原打算把这个幸运符给\r\n会长的,可我忘了.给你\r\n吧.";
+"Chapter3_Quest_Remem.subQuest.6" = "迷信的艾彻密人2";
+"Chapter3_Quest_Remem.subQuest.7" = "迷信的艾彻密人2";
+
+/* function dialog() */
+"Chapter3_Quest_Remem.dialog.1" = "你一定很厉害吧.";
+
+
+/* Chapter3_Quest_Sabishurama ***************************************************/
+
+
+/* Chapter3_Quest_Skadru ***************************************************/
+
+/* function reward() */
+"Chapter3_Quest_Skadru.reward.1" = "这是我说过的奖励.";
+"Chapter3_Quest_Skadru.reward.2" = "实际上,我们没人是地狱\r\n火怪的对手.";
+"Chapter3_Quest_Skadru.reward.3" = "我会带着猎犬的骨头,引\r\n走地狱火怪.";
+
+/* function step2() */
+"Chapter3_Quest_Skadru.step2.1" = "带给我30颗僵尸的金齿\r\n,我会给你报酬的.";
+"Chapter3_Quest_Skadru.step2.2" = "给我60块猎犬的骨头.";
+
+/* function subQuest20() */
+"Chapter3_Quest_Skadru.subQuest20.1" = "斯卡多爱上了金子";
+"Chapter3_Quest_Skadru.subQuest20.2" = "带给我30颗僵尸的金齿\r\n,我会给你报酬的.";
+"Chapter3_Quest_Skadru.subQuest20.3" = "听说矿工僵尸的牙是金子\r\n做的.";
+"Chapter3_Quest_Skadru.subQuest20.4" = "众所周知,金子是昂贵的\r\n东东.";
+"Chapter3_Quest_Skadru.subQuest20.5" = "啊,真是金子做的.谢谢\r\n,废矿区一定很危险吧.";
+"Chapter3_Quest_Skadru.subQuest20.6" = "不过你应付得了.";
+"Chapter3_Quest_Skadru.subQuest20.7" = "带回30颗僵尸的金齿.";
+
+/* function subQuest28End() */
+"Chapter3_Quest_Skadru.subQuest28End.1" = "我跟你说件事:阿尔卡斯\r\n特说我们可以用武装保卫\r\n村庄,但…";
+
+/* function subQuest29() */
+"Chapter3_Quest_Skadru.subQuest29.1" = "地狱火怪的攻击4";
+"Chapter3_Quest_Skadru.subQuest29.2" = "我会用猎犬的骨头,把怪\r\n物引到悬崖下面.带给我\r\n60块猎犬的骨头.";
+"Chapter3_Quest_Skadru.subQuest29.3" = "我另外有个想法:我把它\r\n们引到悬崖下面,但怎么\r\n做呢?";
+"Chapter3_Quest_Skadru.subQuest29.4" = "我知道了!听说地狱火怪\r\n很喜欢猎犬的骨头.";
+"Chapter3_Quest_Skadru.subQuest29.5" = "我可以用这个引诱它们.";
+"Chapter3_Quest_Skadru.subQuest29.6" = "请帮我个忙.";
+"Chapter3_Quest_Skadru.subQuest29.7" = "我就在这里等你了.我原\r\n本准备亲自去找火怪的.";
+"Chapter3_Quest_Skadru.subQuest29.8" = "我真的太感谢了.";
+"Chapter3_Quest_Skadru.subQuest29.9" = "给我60块猎犬的骨头.";
+
+/* function dialog() */
+"Chapter3_Quest_Skadru.dialog.1" = "太过分了,最近都不能打\r\n猎了.";
+
+/* function setQuestList() */
+"Chapter3_Quest_Skadru.setQuestList.1" = "斯卡多爱上了金子";
+"Chapter3_Quest_Skadru.setQuestList.2" = "地狱火怪的攻击3";
+"Chapter3_Quest_Skadru.setQuestList.3" = "地狱火怪的攻击4";
+"Chapter3_Quest_Skadru.setQuestList.4" = "现在的任务";
+
+
+/* Chapter3_Quest_Smith ***************************************************/
+
+/* function reward() */
+"Chapter3_Quest_Smith.reward.1" = "好了!拿着,你的特殊仪\r\n器完成了!";
+
+/* function step2() */
+"Chapter3_Quest_Smith.step2.1" = "天下没有免费的午餐!我\r\n只收你10000金币.";
+
+/* function subQuest12() */
+"Chapter3_Quest_Smith.subQuest12.1" = "制作特殊的仪器2";
+"Chapter3_Quest_Smith.subQuest12.2" = "只收你10000金币.";
+"Chapter3_Quest_Smith.subQuest12.3" = "你以前帮过我过的.";
+"Chapter3_Quest_Smith.subQuest12.4" = "你来有事吗?啊,我知道了\r\n,看你带着零件,你是来\r\n找我做特殊仪器的吧.";
+"Chapter3_Quest_Smith.subQuest12.5" = "你帮过我,我当然也会帮\r\n你制作的.";
+"Chapter3_Quest_Smith.subQuest12.6" = "我原来不打算做的呢.";
+"Chapter3_Quest_Smith.subQuest12.7" = "天下没有免费的午餐!我\r\n只收你10000金币.";
+
+/* function manuFacturingCallBack() */
+"Chapter3_Quest_Smith.manuFacturingCallBack.1" = "去试试吧.";
+
+/* function startManufacturing() */
+"Chapter3_Quest_Smith.startManufacturing.1" = "好了.";
+"Chapter3_Quest_Smith.startManufacturing.2" = "你的材料不齐,去找够了\r\n再来.";
+
+/* function ItemHead() */
+"Chapter3_Quest_Smith.ItemHead.1" = "制作";
+"Chapter3_Quest_Smith.ItemHead.2" = "制作";
+"Chapter3_Quest_Smith.ItemHead.3" = "现在做点东西.";
+
+/* function ItemListHead() */
+"Chapter3_Quest_Smith.ItemListHead.1" = "做什么好呢?";
+"Chapter3_Quest_Smith.ItemListHead.2" = "棕奏鸣帽(Lv.45)";
+"Chapter3_Quest_Smith.ItemListHead.3" = "蓝天空帽(Lv.35)";
+"Chapter3_Quest_Smith.ItemListHead.4" = "红扣带帽(Lv.65)";
+
+/* function ItemBody() */
+"Chapter3_Quest_Smith.ItemBody.1" = "制作";
+"Chapter3_Quest_Smith.ItemBody.2" = "制作";
+"Chapter3_Quest_Smith.ItemBody.3" = "现在做点东西.";
+
+/* function ItemListBody() */
+"Chapter3_Quest_Smith.ItemListBody.1" = "做什么好呢?";
+"Chapter3_Quest_Smith.ItemListBody.2" = "棕色华裤(Lv.45)";
+"Chapter3_Quest_Smith.ItemListBody.3" = "蓝玄武裤(Lv.55)";
+"Chapter3_Quest_Smith.ItemListBody.4" = "红纽扣服(Lv.65)";
+
+/* function ItemDagger() */
+"Chapter3_Quest_Smith.ItemDagger.1" = "制作";
+"Chapter3_Quest_Smith.ItemDagger.2" = "制作";
+"Chapter3_Quest_Smith.ItemDagger.3" = "现在做点东西.";
+
+/* function ItemListDagger() */
+"Chapter3_Quest_Smith.ItemListDagger.1" = "做什么好呢?";
+"Chapter3_Quest_Smith.ItemListDagger.2" = "破碎刃(Lv.45)";
+"Chapter3_Quest_Smith.ItemListDagger.3" = "龙刃(Lv.55)";
+"Chapter3_Quest_Smith.ItemListDagger.4" = "月龙鳞裂(Lv.65)";
+
+/* function ItemGlove() */
+"Chapter3_Quest_Smith.ItemGlove.1" = "制作";
+"Chapter3_Quest_Smith.ItemGlove.2" = "制作";
+"Chapter3_Quest_Smith.ItemGlove.3" = "现在做点东西.";
+
+/* function ItemListGlove() */
+"Chapter3_Quest_Smith.ItemListGlove.1" = "做什么好呢?";
+"Chapter3_Quest_Smith.ItemListGlove.2" = "黑闪电甲(Lv.45)";
+"Chapter3_Quest_Smith.ItemListGlove.3" = "虎纹拳套(Lv.55)";
+"Chapter3_Quest_Smith.ItemListGlove.4" = "升龙拳(Lv.65)";
+
+/* function ItemFoot() */
+"Chapter3_Quest_Smith.ItemFoot.1" = "制作";
+"Chapter3_Quest_Smith.ItemFoot.2" = "制作";
+"Chapter3_Quest_Smith.ItemFoot.3" = "现在做点东西.";
+
+/* function ItemListFoot() */
+"Chapter3_Quest_Smith.ItemListFoot.1" = "做什么好呢?";
+"Chapter3_Quest_Smith.ItemListFoot.2" = "雷电鞋(Lv.45)";
+"Chapter3_Quest_Smith.ItemListFoot.3" = "龙皮鞋(Lv.55)";
+"Chapter3_Quest_Smith.ItemListFoot.4" = "纽扣鞋(Lv.65)";
+
+/* function ItemEar() */
+"Chapter3_Quest_Smith.ItemEar.1" = "制作";
+"Chapter3_Quest_Smith.ItemEar.2" = "制作";
+"Chapter3_Quest_Smith.ItemEar.3" = "现在做点东西.";
+
+/* function ItemListEar() */
+"Chapter3_Quest_Smith.ItemListEar.1" = "做什么好呢?";
+"Chapter3_Quest_Smith.ItemListEar.2" = "十字耳环(Lv.45)";
+"Chapter3_Quest_Smith.ItemListEar.3" = "金属心环(Lv.55)";
+"Chapter3_Quest_Smith.ItemListEar.4" = "刀剑耳环(Lv.65)";
+
+/* function ItemSortList() */
+"Chapter3_Quest_Smith.ItemSortList.1" = "头盔";
+"Chapter3_Quest_Smith.ItemSortList.2" = "护甲";
+"Chapter3_Quest_Smith.ItemSortList.3" = "短剑";
+"Chapter3_Quest_Smith.ItemSortList.4" = "拳套";
+"Chapter3_Quest_Smith.ItemSortList.5" = "鞋子";
+"Chapter3_Quest_Smith.ItemSortList.6" = "饰品";
+"Chapter3_Quest_Smith.ItemSortList.7" = "我是个无所不能的铁匠!";
+
+/* function dialog() */
+"Chapter3_Quest_Smith.dialog.1" = "我是个无所不能的铁匠!";
+
+/* function setQuestList() */
+"Chapter3_Quest_Smith.setQuestList.1" = "制作特殊的仪器";
+"Chapter3_Quest_Smith.setQuestList.2" = "制作物品";
+"Chapter3_Quest_Smith.setQuestList.3" = "现在的任务";
+
+
+/* Chapter3_Quest_SnowQueen ***************************************************/
+
+/* function reward() */
+"Chapter3_Quest_SnowQueen.reward.1" = "没有你,冰封雪域就要被\r\n毁灭了.";
+"Chapter3_Quest_SnowQueen.reward.2" = "但我们还不能懈怠,因为\r\n危险还在附近.";
+"Chapter3_Quest_SnowQueen.reward.3" = "小心.";
+
+/* function step2() */
+"Chapter3_Quest_SnowQueen.step2.1" = "除掉30个矿工僵尸.";
+"Chapter3_Quest_SnowQueen.step2.2" = "除掉33个僵尸.";
+"Chapter3_Quest_SnowQueen.step2.3" = "我们必须斩草除根.";
+
+/* function subQuest22() */
+"Chapter3_Quest_SnowQueen.subQuest22.1" = "僵尸的突袭";
+"Chapter3_Quest_SnowQueen.subQuest22.2" = "为保护村民,我们要把这\r\n些僵尸搞定.除掉30个\r\n矿工僵尸.";
+"Chapter3_Quest_SnowQueen.subQuest22.3" = "矿工变的僵尸,以前就曾\r\n经袭击过村民.谁也不能\r\n保证会否卷土重来.";
+"Chapter3_Quest_SnowQueen.subQuest22.4" = "人们拖家带口的要逃离村\r\n庄了,必须除掉僵尸!";
+"Chapter3_Quest_SnowQueen.subQuest22.5" = "谢谢.";
+"Chapter3_Quest_SnowQueen.subQuest22.6" = "除掉30个矿工僵尸.";
+
+/* function subQuest23() */
+"Chapter3_Quest_SnowQueen.subQuest23.1" = "僵尸的突袭2";
+"Chapter3_Quest_SnowQueen.subQuest23.2" = "僵尸的数量还在上升,除\r\n掉33个苦力僵尸.";
+"Chapter3_Quest_SnowQueen.subQuest23.3" = "我注意到苦力僵尸比矿工\r\n僵尸还要更BT啊.";
+"Chapter3_Quest_SnowQueen.subQuest23.4" = "邪恶之源传来的黑暗能量\r\n越来越多,僵尸的数量也\r\n在上升.";
+"Chapter3_Quest_SnowQueen.subQuest23.5" = "在你的帮助下,冰封雪域\r\n又安全了.";
+"Chapter3_Quest_SnowQueen.subQuest23.6" = "除掉33个苦力僵尸.";
+
+/* function subQuest24() */
+"Chapter3_Quest_SnowQueen.subQuest24.1" = "僵尸的突袭3";
+"Chapter3_Quest_SnowQueen.subQuest24.2" = "请带回30个火焰弹和蓝\r\n色火焰弹.";
+"Chapter3_Quest_SnowQueen.subQuest24.3" = "我终于知道为什么这儿有\r\n这么多僵尸了,都是因为\r\n火焰弹.";
+"Chapter3_Quest_SnowQueen.subQuest24.4" = "是从魔界传来的,进入到\r\n矿工身体后就成了僵尸.";
+"Chapter3_Quest_SnowQueen.subQuest24.5" = "请带回30个火焰弹和蓝\r\n色火焰弹.";
+"Chapter3_Quest_SnowQueen.subQuest24.6" = "现在我们就不用担心僵尸\r\n继续蔓延了.";
+"Chapter3_Quest_SnowQueen.subQuest24.7" = "听说地狱火牢里的怪物更\r\n可怕.";
+"Chapter3_Quest_SnowQueen.subQuest24.8" = "请带回30个火焰弹和蓝\r\n色火焰弹.";
+
+/* function dialog() */
+"Chapter3_Quest_SnowQueen.dialog.1" = "村庄安宁的象征,雪,正\r\n在溶化.";
+
+/* function setQuestList() */
+"Chapter3_Quest_SnowQueen.setQuestList.1" = "僵尸的突袭";
+"Chapter3_Quest_SnowQueen.setQuestList.2" = "僵尸的突袭2";
+"Chapter3_Quest_SnowQueen.setQuestList.3" = "僵尸的突袭3";
+"Chapter3_Quest_SnowQueen.setQuestList.4" = "现在的任务";
+
+
+/* Chapter3_Quest_Zenumist_Chief ***************************************************/
+
+/* function mainCallBack() */
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.1" = "你来有什么事吗?";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.2" = "我要去地狱火牢,但那里\r\n太热了,我需要件护甲.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.3" = "我知道有种材料可以耐极\r\n高温.不过,我不可以帮\r\n助联盟以外的人啦,而且\r\n联盟现在也不收新人了.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.4" = "如果你有盟卡的话,我倒\r\n是愿意帮你...";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.5" = "啊,对了!附近有个长得\r\n很囧的家伙,他能帮忙!";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.6" = "呃,我不评论...";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.7" = "很简单的.我想要个耐极\r\n高温的护甲,快点.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.8" = "让我看看,耐温的护甲.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.9" = "我知道有一种材料可以,\r\n但我不打算让别人得知.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.10" = "他们偷了生命药水,你可\r\n以想象的,我再也不想跟\r\n他们共事了.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.11" = "那你不会做护甲了?";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.12" = "我会的,不过你要先去地\r\n下图书馆杀40只哈蒙.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.13" = "哈蒙很有侵略性,他们会\r\n毁了整个图书馆,而这里\r\n的藏书非常重要.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.14" = "地下图书馆曾是冒险岛最\r\n好的图书馆,不过,现在\r\n却被怪物们占据着.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.15" = "这些怪物怎么来的?";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.16" = "就是突然出现的.还在不\r\n断增加.按这个速度,怪\r\n物很快就要占据村庄了.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.17" = "我们要阻止这些怪物!";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.18" = "怪物非常厉害...我们\r\n不是对手.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.19" = "还有,生命药水和生命之\r\n木都被偷了.我想跟那次\r\n意外有关.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.20" = "这里应该有人知道,去问\r\n问别人吧?";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.21" = "是我创造了哈蒙.当然,\r\n我的动机很单纯...";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.22" = "我创造了它,只为了证明\r\n我们的技术要比奥卡诺的\r\n强,但实验失败了...\r\n哈蒙变得很好战.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.23" = "所以我们就把哈蒙锁起来\r\n了,不想伤害到别人.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.24" = "但哈蒙得到了力量,很快\r\n占据了玛加提亚的地下世\r\n界.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.25" = "在人造人的帮助下,哈蒙\r\n偷走了生命药水,复活了\r\n恶魔领主.变得强大了.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.26" = "真相大白了.恶魔领主的\r\n复活,以及哈蒙怎么得到\r\n的力量...";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.27" = "这就是事情的由来...\r\n(在人造人的帮助下,哈\r\n蒙偷走生命药水,复活了\r\n邪恶领主.)";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.28" = "一定要阻止哈蒙.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.29" = "是的.图书馆里有个入口\r\n,可以通到贮藏室,哈蒙\r\n就在那里.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.30" = "找到入口,杀了哈蒙,你\r\n一定要成功...";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.31" = "拿着这个,去找奥卡诺的\r\n会长.我们都认为,你是\r\n我们唯一的希望,打败邪\r\n恶领主,拯救冒险岛.";
+"Chapter3_Quest_Zenumist_Chief.mainCallBack.32" = "现在就全靠你了.";
+
+/* function mainQuest0() */
+"Chapter3_Quest_Zenumist_Chief.mainQuest0.1" = "加入基努莫斯联盟";
+"Chapter3_Quest_Zenumist_Chief.mainQuest0.2" = "有盟卡我才能帮你.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest0.3" = "别在傻逛!你要干嘛?";
+"Chapter3_Quest_Zenumist_Chief.mainQuest0.4" = "我代表阿尔卡斯特来的.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest0.5" = "你是阿尔卡斯特叫来的.";
+
+/* function mainQuest1() */
+"Chapter3_Quest_Zenumist_Chief.mainQuest1.1" = "图书馆毁坏";
+"Chapter3_Quest_Zenumist_Chief.mainQuest1.2" = "我的要求是:去地下图书\r\n馆杀死40只哈蒙...\r\n图书馆就快倒塌了.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest1.3" = "我不会问你怎么拿到盟卡\r\n的,但很高兴你做到了.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest1.4" = "带张盟卡来,不管用什么\r\n手段.";
+
+/* function mainQuest2() */
+"Chapter3_Quest_Zenumist_Chief.mainQuest2.1" = "图书馆毁坏2";
+"Chapter3_Quest_Zenumist_Chief.mainQuest2.2" = "一定有人知道玛加提亚的\r\n秘密,你去找到那个人.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest2.3" = "谢谢,趁你跟哈蒙战斗的\r\n时候,我把藏书都转移到\r\n安全的地方了.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest2.4" = "那些藏书安全了,真让我松\r\n了口气.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest2.5" = "去地下图书馆杀死40只\r\n哈蒙.";
+
+/* function mainQuest3() */
+"Chapter3_Quest_Zenumist_Chief.mainQuest3.1" = "打败哈蒙";
+"Chapter3_Quest_Zenumist_Chief.mainQuest3.2" = "图书馆有个入口,可以通\r\n到贮藏室,哈蒙就在那.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest3.3" = "什么?人造人被哈蒙骗去\r\n偷生命药水了?";
+"Chapter3_Quest_Zenumist_Chief.mainQuest3.4" = "哦不...我预感什么糟\r\n糕的事情要发生了.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest3.5" = "一定有人知道玛加提亚的\r\n秘密,你去找到那个人.";
+
+/* function mainQuest3End() */
+"Chapter3_Quest_Zenumist_Chief.mainQuest3End.1" = "去见奥卡诺会长.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest3End.2" = "去见奥卡诺会长.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest3End.3" = "谢谢,你拯救了玛加提亚\r\n.对你致以无尽的感激.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest3End.4" = "给你,这是可以耐极高温\r\n的材料.";
+"Chapter3_Quest_Zenumist_Chief.mainQuest3End.5" = "打败哈蒙.";
+
+/* function reward() */
+"Chapter3_Quest_Zenumist_Chief.reward.1" = "我需要烧杯来做实验,现\r\n在有了,谢谢你.";
+"Chapter3_Quest_Zenumist_Chief.reward.2" = "智慧的阿尔卡斯特在强大\r\n的力量面前也屈服了.";
+"Chapter3_Quest_Zenumist_Chief.reward.3" = "太感谢了.";
+"Chapter3_Quest_Zenumist_Chief.reward.4" = "如果需要帮助,我会再来\r\n找你的.";
+"Chapter3_Quest_Zenumist_Chief.reward.5" = "你的恩德,我铭记在心.";
+"Chapter3_Quest_Zenumist_Chief.reward.6" = "谢谢你,现在我可以完成\r\n实验了.";
+
+/* function step2() */
+"Chapter3_Quest_Zenumist_Chief.step2.1" = "请带给我25个烧杯.";
+"Chapter3_Quest_Zenumist_Chief.step2.2" = "为人类身体的潜能研究收\r\n集情报.";
+"Chapter3_Quest_Zenumist_Chief.step2.3" = "请从C-1区带回30个\r\n强化螺母零件.";
+"Chapter3_Quest_Zenumist_Chief.step2.4" = "这就是人造人也有人性的\r\n原因.";
+"Chapter3_Quest_Zenumist_Chief.step2.5" = "带回实验室30个插头.";
+"Chapter3_Quest_Zenumist_Chief.step2.6" = "去找到入口.";
+"Chapter3_Quest_Zenumist_Chief.step2.7" = "拿着这个,找到达克鲁.";
+
+/* function subQuest5() */
+"Chapter3_Quest_Zenumist_Chief.subQuest5.1" = "人类身体的潜能研究";
+"Chapter3_Quest_Zenumist_Chief.subQuest5.2" = "我正在研究人类潜能,能\r\n否带给我25个烧杯?";
+"Chapter3_Quest_Zenumist_Chief.subQuest5.3" = "我需要帮助.实际上我正\r\n在研究禁忌炼金术,人类\r\n身体的潜能.";
+"Chapter3_Quest_Zenumist_Chief.subQuest5.4" = "如果我成功了,就可以起\r\n死回生.当然有报酬.";
+"Chapter3_Quest_Zenumist_Chief.subQuest5.5" = "你带来了.";
+"Chapter3_Quest_Zenumist_Chief.subQuest5.6" = "请带给我25个烧杯.";
+
+/* function subQuest6() */
+"Chapter3_Quest_Zenumist_Chief.subQuest6.1" = "阿尔卡斯特的忠告";
+"Chapter3_Quest_Zenumist_Chief.subQuest6.2" = "去见阿尔卡斯特,问他人\r\n类身体潜能的事情.";
+"Chapter3_Quest_Zenumist_Chief.subQuest6.3" = "新的研究领域总是很难.";
+"Chapter3_Quest_Zenumist_Chief.subQuest6.4" = "传言说副会长正在研究人\r\n类身体的潜能.";
+"Chapter3_Quest_Zenumist_Chief.subQuest6.5" = "问问他相关情况.";
+"Chapter3_Quest_Zenumist_Chief.subQuest6.6" = "如果他推辞,就说我保举\r\n他做下届的会长.";
+"Chapter3_Quest_Zenumist_Chief.subQuest6.7" = "这本书就是关于人类身体\r\n潜能的...";
+"Chapter3_Quest_Zenumist_Chief.subQuest6.8" = "去见阿尔卡斯特,问他人\r\n类身体潜能的事情.";
+
+/* function subQuest8() */
+"Chapter3_Quest_Zenumist_Chief.subQuest8.1" = "全范围研究";
+"Chapter3_Quest_Zenumist_Chief.subQuest8.2" = "请从C-1区带回30个\r\n强化螺母零件.";
+"Chapter3_Quest_Zenumist_Chief.subQuest8.3" = "按照书的要求,我还需要\r\n一些材料.";
+"Chapter3_Quest_Zenumist_Chief.subQuest8.4" = "我就指望你了.";
+"Chapter3_Quest_Zenumist_Chief.subQuest8.5" = "请从C-1区带回30个\r\n强化螺母零件.";
+
+/* function subQuest9() */
+"Chapter3_Quest_Zenumist_Chief.subQuest9.1" = "人造人的心脏";
+"Chapter3_Quest_Zenumist_Chief.subQuest9.2" = "这个研究还有个最重要的\r\n要素,人造人的心脏.";
+"Chapter3_Quest_Zenumist_Chief.subQuest9.3" = "这个研究还有个最重要的\r\n要素,人造人的心脏.";
+"Chapter3_Quest_Zenumist_Chief.subQuest9.4" = "听说,奥卡诺联盟用人类\r\n身体造出了人造人.";
+"Chapter3_Quest_Zenumist_Chief.subQuest9.5" = "谢谢,现在我可以继续实\r\n验了.";
+"Chapter3_Quest_Zenumist_Chief.subQuest9.6" = "请带给我人造人的心脏.";
+
+/* function subQuest13() */
+"Chapter3_Quest_Zenumist_Chief.subQuest13.1" = "尖端研究";
+"Chapter3_Quest_Zenumist_Chief.subQuest13.2" = "我的研究毁了好多插头,\r\n请从诺伊带回30个.";
+"Chapter3_Quest_Zenumist_Chief.subQuest13.3" = "我的实验就快完成了,但\r\n基努莫斯的电压不够.";
+"Chapter3_Quest_Zenumist_Chief.subQuest13.4" = "试过好多插头但都坏了.";
+"Chapter3_Quest_Zenumist_Chief.subQuest13.5" = "谢谢.";
+"Chapter3_Quest_Zenumist_Chief.subQuest13.6" = "从诺伊带回30个插头.";
+
+/* function subQuest14() */
+"Chapter3_Quest_Zenumist_Chief.subQuest14.1" = "迷信的炼金师";
+"Chapter3_Quest_Zenumist_Chief.subQuest14.2" = "把幸运符给那个记得玛加\r\n提亚最高地的人.";
+"Chapter3_Quest_Zenumist_Chief.subQuest14.3" = "我的研究就要完成了,只\r\n是还需要支持...";
+"Chapter3_Quest_Zenumist_Chief.subQuest14.4" = "把幸运符给那个记得玛加\r\n提亚最高地的人.";
+"Chapter3_Quest_Zenumist_Chief.subQuest14.5" = "炼金士会使用幸运符,让\r\n实验成功.";
+"Chapter3_Quest_Zenumist_Chief.subQuest14.6" = "我开启了村庄中央的入口\r\n,去见那个记得的人.";
+"Chapter3_Quest_Zenumist_Chief.subQuest14.7" = "现在,我幸运了吧?";
+"Chapter3_Quest_Zenumist_Chief.subQuest14.8" = "把幸运符给那个记得玛加\r\n提亚最高地的人.";
+
+/* function subQuest25() */
+"Chapter3_Quest_Zenumist_Chief.subQuest25.1" = "终极奥义";
+"Chapter3_Quest_Zenumist_Chief.subQuest25.2" = "这是记载着终极奥义的书\r\n,拿去见达克鲁吧.";
+"Chapter3_Quest_Zenumist_Chief.subQuest25.3" = "我在整理的时候发现了这\r\n本珍贵的书,能教你冒险\r\n岛的终级奥义.";
+"Chapter3_Quest_Zenumist_Chief.subQuest25.4" = "这是给你的礼物...";
+"Chapter3_Quest_Zenumist_Chief.subQuest25.5" = "拿去见达克鲁.";
+
+/* function dialog() */
+"Chapter3_Quest_Zenumist_Chief.dialog.1" = "最近很难见到天才炼金师\r\n了,真遗憾.";
+
+/* function setQuestList() */
+"Chapter3_Quest_Zenumist_Chief.setQuestList.1" = "帮助困境中的人";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.2" = "加入基努莫斯联盟";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.3" = "图书馆毁坏";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.4" = "图书馆毁坏2";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.5" = "打败哈蒙";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.6" = "人类身体的潜能研究";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.7" = "阿尔卡斯特的忠告";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.8" = "全范围研究";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.9" = "人造人的心脏";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.10" = "困难的研究";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.11" = "迷信的炼金师";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.12" = "终极奥义";
+"Chapter3_Quest_Zenumist_Chief.setQuestList.13" = "现在的任务";
+
+
+/* Chapter3_Zakum_Portal ***************************************************/
+
+
+/* ManufactureItem_Chapter3 ***************************************************/
+
+/* function manuFacturingCallBack() */
+"ManufactureItem_Chapter3.manuFacturingCallBack.1" = "试试.";
+
+/* function startManufacturing() */
+"ManufactureItem_Chapter3.startManufacturing.1" = "完成了.";
+"ManufactureItem_Chapter3.startManufacturing.2" = "材料凑齐了再来.";
+
+/* function ItemHead() */
+"ManufactureItem_Chapter3.ItemHead.1" = "制作";
+"ManufactureItem_Chapter3.ItemHead.2" = "制作";
+"ManufactureItem_Chapter3.ItemHead.3" = "制作物品.";
+
+/* function ItemListHead() */
+"ManufactureItem_Chapter3.ItemListHead.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter3.ItemListHead.2" = "棕奏鸣帽(Lv.50)";
+"ManufactureItem_Chapter3.ItemListHead.3" = "青铜忍者(Lv.60)";
+"ManufactureItem_Chapter3.ItemListHead.4" = "天空之帽(Lv.70)";
+"ManufactureItem_Chapter3.ItemListHead.5" = "黑海盗帽(Lv.80)";
+"ManufactureItem_Chapter3.ItemListHead.6" = "红纽扣帽(Lv.90)";
+
+/* function ItemBody() */
+"ManufactureItem_Chapter3.ItemBody.1" = "制作";
+"ManufactureItem_Chapter3.ItemBody.2" = "制作";
+"ManufactureItem_Chapter3.ItemBody.3" = "制作物品.";
+
+/* function ItemListBody() */
+"ManufactureItem_Chapter3.ItemListBody.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter3.ItemListBody.2" = "棕色华裤(Lv.50)";
+"ManufactureItem_Chapter3.ItemListBody.3" = "飞影之服(Lv.60)";
+"ManufactureItem_Chapter3.ItemListBody.4" = "黑隐之服(Lv.80)";
+"ManufactureItem_Chapter3.ItemListBody.5" = "红扣带甲(Lv.90)";
+
+/* function ItemDagger() */
+"ManufactureItem_Chapter3.ItemDagger.1" = "制作";
+"ManufactureItem_Chapter3.ItemDagger.2" = "制作";
+"ManufactureItem_Chapter3.ItemDagger.3" = "制作物品.";
+
+/* function ItemListDagger() */
+"ManufactureItem_Chapter3.ItemListDagger.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter3.ItemListDagger.2" = "破碎刃(Lv.50)";
+"ManufactureItem_Chapter3.ItemListDagger.3" = "凤凰刃(Lv.60)";
+"ManufactureItem_Chapter3.ItemListDagger.4" = "龙刃(Lv.70)";
+"ManufactureItem_Chapter3.ItemListDagger.5" = "阴碎魂刃(Lv.80)";
+"ManufactureItem_Chapter3.ItemListDagger.6" = "月龙鳞裂(Lv.90)";
+
+/* function ItemGlove() */
+"ManufactureItem_Chapter3.ItemGlove.1" = "制作";
+"ManufactureItem_Chapter3.ItemGlove.2" = "制作";
+"ManufactureItem_Chapter3.ItemGlove.3" = "制作物品.";
+
+/* function ItemListGlove() */
+"ManufactureItem_Chapter3.ItemListGlove.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter3.ItemListGlove.2" = "黑闪电甲(Lv.50)";
+"ManufactureItem_Chapter3.ItemListGlove.3" = "龙之拳(Lv.60)";
+"ManufactureItem_Chapter3.ItemListGlove.4" = "虎纹拳套(Lv.70)";
+"ManufactureItem_Chapter3.ItemListGlove.5" = "逆龙咆哮(Lv.80)";
+"ManufactureItem_Chapter3.ItemListGlove.6" = "升龙拳(Lv.90)";
+
+/* function ItemFoot() */
+"ManufactureItem_Chapter3.ItemFoot.1" = "制作";
+"ManufactureItem_Chapter3.ItemFoot.2" = "制作";
+"ManufactureItem_Chapter3.ItemFoot.3" = "制作物品.";
+
+/* function ItemListFoot() */
+"ManufactureItem_Chapter3.ItemListFoot.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter3.ItemListFoot.2" = "雷电鞋(Lv.50)";
+"ManufactureItem_Chapter3.ItemListFoot.3" = "无痕之鞋(Lv.60)";
+"ManufactureItem_Chapter3.ItemListFoot.4" = "龙皮鞋(Lv.70)";
+"ManufactureItem_Chapter3.ItemListFoot.5" = "海盗鞋(Lv.80)";
+"ManufactureItem_Chapter3.ItemListFoot.6" = "扣带靴(Lv.90)";
+
+/* function ItemEar() */
+"ManufactureItem_Chapter3.ItemEar.1" = "制作";
+"ManufactureItem_Chapter3.ItemEar.2" = "制作";
+"ManufactureItem_Chapter3.ItemEar.3" = "制作物品.";
+
+/* function ItemListEar() */
+"ManufactureItem_Chapter3.ItemListEar.1" = "我要制作什么呢?";
+"ManufactureItem_Chapter3.ItemListEar.2" = "十字耳环(Lv.55)";
+"ManufactureItem_Chapter3.ItemListEar.3" = "金坠耳环(Lv.62)";
+"ManufactureItem_Chapter3.ItemListEar.4" = "金属心耳环(Lv.69)";
+"ManufactureItem_Chapter3.ItemListEar.5" = "玫瑰耳环(Lv.77)";
+"ManufactureItem_Chapter3.ItemListEar.6" = "刀剑耳环(Lv.85)";
+
+/* function ItemSortList() */
+"ManufactureItem_Chapter3.ItemSortList.1" = "帽子";
+"ManufactureItem_Chapter3.ItemSortList.2" = "衣服";
+"ManufactureItem_Chapter3.ItemSortList.3" = "短剑";
+"ManufactureItem_Chapter3.ItemSortList.4" = "手镯";
+"ManufactureItem_Chapter3.ItemSortList.5" = "鞋";
+"ManufactureItem_Chapter3.ItemSortList.6" = "耳环";
+"ManufactureItem_Chapter3.ItemSortList.7" = "制作物品";
+
+
+
+/* 
+   ScriptCommon.strings (Korean Version)
+   MapleThief
+
+   Created by Hyunchul Kim on 1/28/10.
+   Copyright 2010 NEXON Mobile Corporation. All rights reserved.
+ */
+
+
+
+/*
+ * Script - Common
+ * String Definition: "FileName.MethodName.Sequence" = "Localized String";
+ */
+
+
+/* Chapter23_Guard ***************************************************/
+
+
+/* Common_Dialog_AlchadnoChief ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_AlchadnoChief.dialog.1" = "当炼金术和机械结合的时\r\n候才能达到极致.";
+
+
+/* Common_Dialog_Alchester ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Alchester.dialog.1" = "有股未知的能量飘荡在村\r\n子里的某处.";
+
+
+/* Common_Dialog_Alex ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Alex.dialog.1" = "她是我的唯一!我想她.";
+
+
+/* Common_Dialog_Barun ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Barun.dialog.1" = "我不想再无所事事啦.";
+
+
+/* Common_Dialog_BrokerHan ***************************************************/
+
+/* function manuFacturingCallBack() */
+"Common_Dialog_BrokerHan.manuFacturingCallBack.1" = "把东西都给我才能做出好\r\n物品来.";
+
+/* function startManufacturing() */
+"Common_Dialog_BrokerHan.startManufacturing.1" = "矿石都是昂贵的东东.";
+"Common_Dialog_BrokerHan.startManufacturing.2" = "歌勿嗯!东西不够你就跑\r\n来交易了?!";
+"Common_Dialog_BrokerHan.startManufacturing.3" = "醒醒吧!世上没有免费的\r\n午餐!东西齐了再说吧.";
+
+/* function ItemExchange() */
+"Common_Dialog_BrokerHan.ItemExchange.1" = "交易";
+"Common_Dialog_BrokerHan.ItemExchange.2" = "交易";
+"Common_Dialog_BrokerHan.ItemExchange.3" = "好像你还不太信任我,交\r\n易过后你就会信的.";
+
+/* function exchange() */
+"Common_Dialog_BrokerHan.exchange.1" = "你要找矿物或宝石的话,\r\n可算是找对了.有兴趣?";
+"Common_Dialog_BrokerHan.exchange.2" = "知道交易的规则吧?你这\r\n等级都不知道太丢人了.";
+"Common_Dialog_BrokerHan.exchange.3" = "选择物品进行交易.";
+"Common_Dialog_BrokerHan.exchange.4" = "50个蓝变异螺母零件";
+"Common_Dialog_BrokerHan.exchange.5" = "50个插头";
+"Common_Dialog_BrokerHan.exchange.6" = "50颗小猎犬的牙";
+
+
+/* Common_Dialog_Bruce ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Bruce.dialog.1" = "我是布鲁斯,一名高级调\r\n查员.";
+
+
+/* Common_Dialog_DarkLord ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_DarkLord.dialog.1" = "如果你打算成为冒险岛最\r\n厉害的飞侠,就来见我.";
+
+
+/* Common_Dialog_Elma ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Elma.dialog.1" = "唉,家务事没完没了.";
+
+
+/* Common_Dialog_Ericsson ***************************************************/
+
+/* function manuFacturingCallBack() */
+"Common_Dialog_Ericsson.manuFacturingCallBack.1" = "需要矿物和宝石时再来.";
+
+/* function startManufacturing() */
+"Common_Dialog_Ericsson.startManufacturing.1" = "如果有更多的矿石,我能\r\n做出更好的东西来.";
+"Common_Dialog_Ericsson.startManufacturing.2" = "看来你对这没兴趣.有需\r\n要时再来.";
+
+/* function ItemExchange() */
+"Common_Dialog_Ericsson.ItemExchange.1" = "交易";
+"Common_Dialog_Ericsson.ItemExchange.2" = "交易";
+"Common_Dialog_Ericsson.ItemExchange.3" = "那么?";
+
+/* function exchange() */
+"Common_Dialog_Ericsson.exchange.1" = "我有这个地区出产的矿物\r\n和宝石,有兴趣吗?交易\r\n很简单,换我需要的.";
+"Common_Dialog_Ericsson.exchange.2" = "我会跟你交换矿石.";
+"Common_Dialog_Ericsson.exchange.3" = "先选你愿意交易的物品.";
+"Common_Dialog_Ericsson.exchange.4" = "50黄色丝带";
+"Common_Dialog_Ericsson.exchange.5" = "50精灵碎片";
+"Common_Dialog_Ericsson.exchange.6" = "50野狼之尾";
+"Common_Dialog_Ericsson.exchange.7" = "50企鹅的嘴";
+
+
+/* Common_Dialog_Fairy ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Fairy.dialog.1" = "我是这里唯一的仙女,真\r\n无聊透顶啊.";
+
+
+/* Common_Dialog_Guard ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Guard.dialog.1" = "不要进入危险的蚂蚁洞.";
+
+
+/* Common_Dialog_Heracle ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Heracle.dialog.1" = "天空之城里一定有什么邪\r\n恶的力量.";
+
+
+/* Common_Dialog_Iyan ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Iyan.dialog.1" = "汉化可是件苦差事.";
+
+
+/* Common_Dialog_Jade ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Jade.dialog.1" = "啊!真冷啊!雪很滑,你\r\n要当心脚下.";
+
+
+/* Common_Dialog_JM ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_JM.dialog.1" = "我在锻炼的时候不要跟我\r\n说话.";
+
+
+/* Common_Dialog_Kri ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Kri.dialog.1" = "是个很危险的地方.";
+
+
+/* Common_Dialog_Manji ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Manji.dialog.1" = "我心里很不舒服.";
+
+
+/* Common_Dialog_Manji2 ***************************************************/
+
+
+/* Common_Dialog_McAthur ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_McAthur.dialog.1" = "这股邪恶力量,肯定是从\r\n恶魔领主那来的.";
+
+
+/* Common_Dialog_Miner ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Miner.dialog.1" = "唉,我又要去找新矿了.";
+
+
+/* Common_Dialog_Ming ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Ming.dialog.1" = "我在忙着节日的预备呢.";
+
+
+/* Common_Dialog_Pia ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Pia.dialog.1" = "我不喜欢我在剧中扮演的\r\n角色...";
+
+
+/* Common_Dialog_Pig ***************************************************/
+
+/* function manuFacturingCallBack() */
+"Common_Dialog_Pig.manuFacturingCallBack.1" = "需要矿物和宝石时再来.";
+
+/* function startManufacturing() */
+"Common_Dialog_Pig.startManufacturing.1" = "交易完成了.";
+"Common_Dialog_Pig.startManufacturing.2" = "如果想交易的话,你还要\r\n继续努力.";
+
+/* function ItemExchange() */
+"Common_Dialog_Pig.ItemExchange.1" = "交易";
+"Common_Dialog_Pig.ItemExchange.2" = "交易";
+"Common_Dialog_Pig.ItemExchange.3" = "开始交易吧.";
+
+/* function exchange() */
+"Common_Dialog_Pig.exchange.1" = "我有这个地区出产的矿物\r\n和宝石,有兴趣吗?交易\r\n很简单,换我需要的.";
+"Common_Dialog_Pig.exchange.2" = "先选你愿意交易的物品.";
+"Common_Dialog_Pig.exchange.3" = "50蓝蘑菇盖";
+"Common_Dialog_Pig.exchange.4" = "50斧子";
+"Common_Dialog_Pig.exchange.5" = "50冰兽之尾";
+
+
+/* Common_Dialog_Roy ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Roy.dialog.1" = "这个护甲真不舒服.";
+
+
+/* Common_Dialog_Sabi ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Sabi.dialog.1" = "我感到了邪恶的力量.";
+
+
+/* Common_Dialog_Skaduru ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Skaduru.dialog.1" = "实在是太过分了!最近都\r\n没什么猎物了.";
+
+
+/* Common_Dialog_SnowQueen ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_SnowQueen.dialog.1" = "村庄安宁的象征,雪,正\r\n在溶化.";
+
+
+/* Common_Dialog_Stan ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Stan.dialog.1" = "感觉有啥不对劲.";
+
+
+/* Common_Dialog_Wilson ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_Wilson.dialog.1" = "整天一个人,无聊死了.";
+
+
+/* Common_Dialog_ZenumistChief ***************************************************/
+
+/* function dialog() */
+"Common_Dialog_ZenumistChief.dialog.1" = "最近很难见到天才炼金师\r\n了,真遗憾.";
+
+
+/* 荤夯 - Common_Dialog_Pig (2) ***************************************************/
+
+/* function manuFacturingCallBack() */
+"Copy_Common_Dialog_Pig2.manuFacturingCallBack.1" = "快点来试试";
+
+/* function startManufacturing() */
+"Copy_Common_Dialog_Pig2.startManufacturing.1" = "需要矿物和宝石时再来.";
+"Copy_Common_Dialog_Pig2.startManufacturing.2" = "如果想交易的话,你还要\r\n继续努力.";
+
+/* function ItemExchange() */
+"Copy_Common_Dialog_Pig2.ItemExchange.1" = "交易";
+"Copy_Common_Dialog_Pig2.ItemExchange.2" = "交易";
+"Copy_Common_Dialog_Pig2.ItemExchange.3" = "开始交易吧.";
+
+/* function exchange() */
+"Copy_Common_Dialog_Pig2.exchange.1" = "我有这个地区出产的矿物\r\n和宝石,有兴趣吗?交易\r\n很简单,换我需要的.";
+"Copy_Common_Dialog_Pig2.exchange.2" = "先选你愿意交易的物品.";
+"Copy_Common_Dialog_Pig2.exchange.3" = "100蓝蘑菇盖";
+"Copy_Common_Dialog_Pig2.exchange.4" = "100斧头";
+"Copy_Common_Dialog_Pig2.exchange.5" = "100冰兽之尾";
+
+/* 荤夯 - Common_Dialog_Pig ***************************************************/
+
+/* function manuFacturingCallBack() */
+"Copy_Common_Dialog_Pig.manuFacturingCallBack.1" = "快,试试看.";
+
+/* function startManufacturing() */
+"Copy_Common_Dialog_Pig.startManufacturing.1" = "需要矿物和宝石时再来.";
+"Copy_Common_Dialog_Pig.startManufacturing.2" = "如果想交易的话,你还要\r\n继续努力.";
+
+/* function ItemExchange() */
+"Copy_Common_Dialog_Pig.ItemExchange.1" = "交易";
+"Copy_Common_Dialog_Pig.ItemExchange.2" = "交易";
+"Copy_Common_Dialog_Pig.ItemExchange.3" = "开始交易吧.";
+
+/* function exchange() */
+"Copy_Common_Dialog_Pig.exchange.1" = "开始交易吧.";
+"Copy_Common_Dialog_Pig.exchange.2" = "先选你愿意交易的物品.";
+"Copy_Common_Dialog_Pig.exchange.3" = "先选你愿意交易的物品.";
+"Copy_Common_Dialog_Pig.exchange.4" = "100黄色丝带";
+"Copy_Common_Dialog_Pig.exchange.5" = "100精灵碎片";
+"Copy_Common_Dialog_Pig.exchange.6" = "100野狼之尾";
+"Copy_Common_Dialog_Pig.exchange.7" = "100企鹅的嘴";
+

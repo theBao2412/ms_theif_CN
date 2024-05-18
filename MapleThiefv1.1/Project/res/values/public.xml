@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="icon" id="0x7f020008" />
+    <public type="drawable" name="loading" id="0x7f020009" />
+    <public type="drawable" name="bg_background" id="0x7f020000" />
+    <public type="drawable" name="bg_frame_left" id="0x7f020001" />
+    <public type="drawable" name="bg_frame_right" id="0x7f020002" />
+    <public type="drawable" name="bg_right_text" id="0x7f020003" />
+    <public type="drawable" name="button_act" id="0x7f020004" />
+    <public type="drawable" name="button_de" id="0x7f020005" />
+    <public type="drawable" name="check_act" id="0x7f020006" />
+    <public type="drawable" name="check_de" id="0x7f020007" />
+    <public type="layout" name="admob" id="0x7f030000" />
+    <public type="layout" name="customwebview" id="0x7f030001" />
+    <public type="layout" name="keyboard" id="0x7f030002" />
+    <public type="layout" name="main" id="0x7f030003" />
+    <public type="layout" name="provision" id="0x7f030004" />
+    <public type="layout" name="videolayout" id="0x7f030005" />
+    <public type="raw" name="assets" id="0x7f040000" />
+    <public type="string" name="hello" id="0x7f050000" />
+    <public type="string" name="app_name" id="0x7f050001" />
+    <public type="string" name="nexon" id="0x7f050002" />
+    <public type="string" name="nexon2" id="0x7f050003" />
+    <public type="id" name="MainFrameLayout" id="0x7f060000" />
+    <public type="id" name="webview" id="0x7f060001" />
+    <public type="id" name="Edit" id="0x7f060002" />
+    <public type="id" name="layout01" id="0x7f060003" />
+    <public type="id" name="ImageView01" id="0x7f060004" />
+    <public type="id" name="ProgressBar01" id="0x7f060005" />
+    <public type="id" name="textView1" id="0x7f060006" />
+    <public type="id" name="btnNext" id="0x7f060007" />
+    <public type="id" name="scrollView1" id="0x7f060008" />
+    <public type="id" name="tvString" id="0x7f060009" />
+    <public type="id" name="tvString2" id="0x7f06000a" />
+    <public type="id" name="bnmediaview" id="0x7f06000b" />
+</resources>

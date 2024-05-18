@@ -1,0 +1,727 @@
+/* 
+   ScriptExtra.strings (Korean Version)
+   MapleThief
+
+   Created by Hyunchul Kim on 1/28/10.
+   Copyright 2010 NEXON Mobile Corporation. All rights reserved.
+ */
+
+
+
+/*
+ * Script - Extra
+ * String Definition: "FileName.MethodName.Sequence" = "Localized String";
+ */
+
+
+/* [Game] ***************************************************/
+
+/* CAniManager ***************************************************/
+
+/* makeAni1 */
+"CAniManager.makeAni1.1" = "宁静的射手村";
+"CAniManager.makeAni1.2" = "我是罗宾!";
+"CAniManager.makeAni1.3" = "真囧,又有大麻烦了.";
+"CAniManager.makeAni1.4" = "罗宾!你疯了吗!\r\n这些怪物会把你给杀了!";
+"CAniManager.makeAni1.5" = "真倒霉.我能应付过来.\r\n我要成为冒险岛最厉害的飞侠!!";
+"CAniManager.makeAni1.6" = "就算你没有插手,我也能搞定的.\r\n那些怪物只是联合起来...";
+"CAniManager.makeAni1.7" = "你还有很长很长的路要走...\r\n麦克阿瑟有话和你说.去见他吧.";
+
+/* makeAniMelodyIn */
+"CAniManager.makeAniMelodyIn.1" = "是谁!你怎么来的?";
+"CAniManager.makeAniMelodyIn.2" = "烂巫婆!敢动我的师傅!";
+"CAniManager.makeAniMelodyIn.3" = "什么?你来这是为了那个老家伙?\r\n哈!如果你想救他,就先胜我!";
+
+/* makeAniMelodyEnd */
+"CAniManager.makeAniMelodyEnd.1" = "我不相信会被你打败...";
+"CAniManager.makeAniMelodyEnd.2" = "实在太坚固了--暴怒--";
+
+/* makeAniWolfIn */
+"CAniManager.makeAniWolfIn.1" = "我不管你为什么来这.我已经警告\r\n过了.如果你还想活着现在就滚.";
+"CAniManager.makeAniWolfIn.2" = "我是为了找生命之木.让我过去!";
+"CAniManager.makeAniWolfIn.3" = "我就喜欢野蛮.难得找点乐子.\r\n现在,准备受死吧!";
+
+/* makeAniWolfEnd */
+"CAniManager.makeAniWolfEnd.1" = "啊啊啊啊啊!什么?我...我正\r\n在消失!!!!不!!!!";
+"CAniManager.makeAniWolfEnd.2" = "你的恐怖统治结束了!你已经被冒\r\n险岛最厉害的飞侠打败!";
+
+/* makeAniYetiIn */
+"CAniManager.makeAniYetiIn.1" = "你是谁?!竟敢闯到我们的地盘!";
+"CAniManager.makeAniYetiIn.2" = "我只是冒险岛最厉害的飞侠.我是\r\n来阻止你们恐吓无辜村民的!";
+"CAniManager.makeAniYetiIn.3" = "这都是人类的过错!让我们失去了\r\n雕像!因此你们都得死!!";
+
+/* makeAniYetiEnd */
+"CAniManager.makeAniYetiEnd.1" = "啊...为什么人类会打败我?";
+"CAniManager.makeAniYetiEnd.2" = "啧啧,你们这群怪物都一附德性.";
+"CAniManager.makeAniYetiEnd.3" = "总有一天我会复仇的!啊啊啊!!";
+
+/* makeAniHomunIn */
+"CAniManager.makeAniHomunIn.1" = "你是谁?!什么?你只是个孩子?\r\n你是他们一直在谈论的那个人吗?\r\n我一直在等你...";
+"CAniManager.makeAniHomunIn.2" = "等我?待会儿你就知道了.我来这\r\n是因为基努莫斯想让我把你除掉!";
+"CAniManager.makeAniHomunIn.3" = "他总是想除掉我,自从实验失败之\r\n后.我只不过是失败的结果!所以\r\n就要除掉我?人类都是这样...\r\n这也是为何我要把你们全都毁灭!";
+"CAniManager.makeAniHomunIn.4" = "我不惧怕死亡,来吧!!\r\n我是冒险岛最厉害的飞侠!";
+
+/* makeAniHomunEnd */
+"CAniManager.makeAniHomunEnd.1" = "我居然会被你这种弱者打败...";
+"CAniManager.makeAniHomunEnd.2" = "你的愚蠢行为会危及冒险岛,很多\r\n生命都会因你而死.你还说要成为\r\n人类的朋友...";
+"CAniManager.makeAniHomunEnd.3" = "我竟然给人类带来了灾难.\r\n现在祈求宽恕会不会太迟了?";
+"CAniManager.makeAniHomunEnd.4" = "永远不会太迟.现在请帮我.\r\n邪恶领主是什么时候复活的?有办\r\n法阻止他吗?";
+"CAniManager.makeAniHomunEnd.5" = "具体的我不知道.但是巫婆复活邪\r\n恶领主.我真的非常非常抱歉.";
+
+/* makeAniBalogIn */
+"CAniManager.makeAniBalogIn.1" = "是谁?!敢一个人闯入我的地盘?";
+"CAniManager.makeAniBalogIn.2" = "你就是传说中的蝙蝠魔啊?";
+"CAniManager.makeAniBalogIn.3" = "既然知道我,那你就是自掘坟墓.\r\n我可不会有丝毫的仁慈.";
+"CAniManager.makeAniBalogIn.4" = "我们走着瞧.正义必胜!";
+"CAniManager.makeAniBalogIn.5" = "居然敢嘲弄我.你将看不到明天的\r\n太阳了.";
+"CAniManager.makeAniBalogIn.6" = "已经没回头路了.我必须打败他.\r\n冒险岛的未来就靠我了.";
+
+/* makeAniEndingZacum */
+"CAniManager.makeAniEndingZacum.1" = "怎么...会这样呢?";
+"CAniManager.makeAniEndingZacum.2" = "现在感觉并不是太难吧?";
+"CAniManager.makeAniEndingZacum.3" = "大胆的家伙!";
+"CAniManager.makeAniEndingZacum.4" = "你的邪恶计划到此为止.滚吧!";
+"CAniManager.makeAniEndingZacum.5" = "我不会善罢甘休!我还会回来的.\r\n啊哈哈哈哈哈哈哈!";
+"CAniManager.makeAniEndingZacum.6" = "别做梦了,如果你还敢乱来,就会\r\n有像我一样的勇者来阻止你.";
+"CAniManager.makeAniEndingZacum.7" = "不!!!!!!我不会灭亡的!";
+
+"CAniManager.makeAniEndingZacum.8" = "啊?什么?这个地方快要倒塌了.\r\n我们要赶紧离开!但是没有出口!";
+"CAniManager.makeAniEndingZacum.9" = "这里随时都会倒塌,你得立刻走.";
+"CAniManager.makeAniEndingZacum.10" = "但是已近没有退路了!";
+"CAniManager.makeAniEndingZacum.11" = "人们都已经听说了你的事迹,大家\r\n都在射手村等着你.快去吧!";
+
+/* makeAniChapter1 */
+"CAniManager.makeAniChapter1.1" = "第一章";
+"CAniManager.makeAniChapter1.2" = "物语始动";
+
+/* makeAniChapter2 */
+"CAniManager.makeAniChapter2.1" = "第二章";
+"CAniManager.makeAniChapter2.2" = "神秘岛的危机";
+
+/* makeAniChapter3 */
+"CAniManager.makeAniChapter3.1" = "第三章";
+"CAniManager.makeAniChapter3.2" = "与邪恶领主的决斗";
+
+/* makeAniMagatiaHumanoid2 */
+"CAniManager.makeAniMagatiaHumanoid2.1" = "没人愿意和我做朋友,因为我是个\r\n机器人.我真的很孤独...\r\n如果我是人类的话大家都会喜欢我\r\n的.有没有办法让我变为人类呢?";
+"CAniManager.makeAniMagatiaHumanoid2.2" = "你想变为人类?我知道一个办法.";
+"CAniManager.makeAniMagatiaHumanoid2.3" = "真的?怎么做?为了成为人类,要\r\n我做什么都可以!";
+"CAniManager.makeAniMagatiaHumanoid2.4" = "你也看到了,我忙着取某些东西,\r\n没时间告诉你.";
+"CAniManager.makeAniMagatiaHumanoid2.5" = "什么东西?我去找给你!";
+"CAniManager.makeAniMagatiaHumanoid2.6" = "不多,只需要基努莫斯联盟的生命\r\n药水和生长在神秘岛的生命之木.\r\n找来这些,我就会把你变为人类.";
+"CAniManager.makeAniMagatiaHumanoid2.7" = "真的?你能做到么?我马上给你找\r\n到那些东西!\r\n(太好了!只要我变为人类就会有\r\n很多的朋友了!)";
+
+/* makeAniMagatiaHumanoid3 */
+"CAniManager.makeAniMagatiaHumanoid3.1" = "*气喘吁吁*我还以为搞砸了呢.";
+"CAniManager.makeAniMagatiaHumanoid3.2" = "哈哈!你带来我要的东西了?";
+"CAniManager.makeAniMagatiaHumanoid3.3" = "现在你可以把我变为人类了吧?";
+"CAniManager.makeAniMagatiaHumanoid3.4" = "笨蛋!机器人不可能变为人类的!";
+"CAniManager.makeAniMagatiaHumanoid3.5" = "什么?!你不是我的朋友么!!";
+"CAniManager.makeAniMagatiaHumanoid3.6" = "啊哈哈哈!哈蒙你得手了?";
+"CAniManager.makeAniMagatiaHumanoid3.7" = "是的.给.";
+"CAniManager.makeAniMagatiaHumanoid3.8" = "啊哈哈哈!这样就能复活领主并掌\r\n控冒险岛!!";
+"CAniManager.makeAniMagatiaHumanoid3.9" = "哦火火,多亏人造人了.一切都照\r\n计划进行.让我来向你介绍我的新\r\n朋友.玩开心点哦!";
+
+/* makeAniMagatiaHumanoid1 */
+"CAniManager.makeAniMagatiaHumanoid1.1" = "*啜泣*我被哈蒙骗了.他说过会\r\n把我变成人类,但现在却失信了.";
+"CAniManager.makeAniMagatiaHumanoid1.2" = "啊?什么意思?";
+"CAniManager.makeAniMagatiaHumanoid1.3" = "真相是这件事发生在几天前了.";
+"CAniManager.makeAniMagatiaHumanoid1.4" = "几天前...";
+
+/* makeAniMagatiaHumanoid4 */
+"CAniManager.makeAniMagatiaHumanoid4.1" = "哈蒙就是这样利用我的.他在为巫\r\n婆效力,正策划什么邪恶的事情.";
+"CAniManager.makeAniMagatiaHumanoid4.2" = "我感觉不对劲.是你偷了药水?";
+"CAniManager.makeAniMagatiaHumanoid4.3" = "是的...我不知道它那么珍贵.\r\n我应该怎么做呢?";
+"CAniManager.makeAniMagatiaHumanoid4.4" = "别担心.会原谅你的.";
+
+/* makeAniChapter1Perion */
+"CAniManager.makeAniChapter1Perion.1" = "罗宾!你终于来了!你有没有见到\r\n麦克阿瑟?";
+"CAniManager.makeAniChapter1Perion.2" = "当然,我跟他不久前在一起训练.";
+"CAniManager.makeAniChapter1Perion.3" = "这就奇了怪.他不是那种说走就走\r\n的人啊.我听说有些怪物能伪装成\r\n树.也许他去调查了.糟了,如果\r\n是这样,那他可能会有危险了.\r\n罗宾,以防万一,我需要你除掉那\r\n些黑木妖.";
+"CAniManager.makeAniChapter1Perion.4" = "我初来乍到你就要我去迎战?\r\n了解!!飞侠当然会义不容辞!";
+"CAniManager.makeAniChapter1Perion.5" = "说的没错,罗宾.现在收集30片\r\n的黑木妖的叶子回来.";
+"CAniManager.makeAniChapter1Perion.6" = "OK!没问题!";
+"CAniManager.makeAniChapter1Perion.7" = "(小子还不错,就是有勇无谋.)";
+
+/* makeAniChapter2Perion */
+"CAniManager.makeAniChapter2Perion.1" = "(希望这种药能帮我的师傅康复)";
+"CAniManager.makeAniChapter2Perion.2" = "(咕噜...咕噜...)\r\n呃...罗宾...是你吗?";
+"CAniManager.makeAniChapter2Perion.3" = "师傅,你醒了?师傅!";
+"CAniManager.makeAniChapter2Perion.4" = "罗宾?我这是在哪?发生什么了?";
+"CAniManager.makeAniChapter2Perion.5" = "巫婆对您使用了咒语后你就昏迷了\r\n.我找了一些药让您醒来.";
+"CAniManager.makeAniChapter2Perion.6" = "罗宾,你救了我.谢谢你.我很欣\r\n慰你成长了!";
+"CAniManager.makeAniChapter2Perion.7" = "等等!我觉得有一股能量从石碑传\r\n来.";
+"CAniManager.makeAniChapter2Perion.8" = "我们该怎么做呢?邪恶之源正从雪\r\n山倾巢而出.马上去雪域.我们不\r\n能再浪费时间了!";
+"CAniManager.makeAniChapter2Perion.9" = "邪恶之源?";
+"CAniManager.makeAniChapter2Perion.10" = "现在没有时间跟你具体解释了,你\r\n必须赶快去见雪域的阿尔卡斯特.";
+
+/* makeAniEndingHenesis */
+"CAniManager.makeAniEndingHenesis.1" = "欢迎,罗宾.你做得很好.冒险岛\r\n的人们向你表示感激,是你阻止了\r\n邪恶领主.";
+"CAniManager.makeAniEndingHenesis.2" = "这没什么的,因为我是罗宾,冒险\r\n岛里最厉害的飞侠!";
+"CAniManager.makeAniEndingHenesis.3" = "看到你的成长,我为你感到骄傲.";
+"CAniManager.makeAniEndingHenesis.4" = "师傅!";
+"CAniManager.makeAniEndingHenesis.5" = "整个冒险岛都认可了你的贡献.让\r\n我们重新庆祝枫叶节吧!";
+
+
+/* CChatBox ***************************************************/
+
+/* drawChatBox */
+"CChatBox.drawChatBox.1" = "罗宾";
+"CChatBox.drawChatBox.2" = "巫婆";
+"CChatBox.drawChatBox.3" = "狼人";
+"CChatBox.drawChatBox.4" = "哈蒙";
+"CChatBox.drawChatBox.5" = "雪人";
+"CChatBox.drawChatBox.6" = "蝙蝠魔";
+
+/* paint */
+"CChatBox.paint.1" = "罗宾";
+
+/* drawRequire */
+"CChatBox.drawRequire.1" = "俺";
+"CChatBox.drawRequire.2" = "付府";
+"CChatBox.drawRequire.3" = "金币";
+
+/* drawReward */
+"CChatBox.drawReward.1" = "俺";
+"CChatBox.drawReward.2" = "金币";
+"CChatBox.drawReward.3" = "经验值";
+
+/* CDataMgr ***************************************************/
+
+/* SKILL_TYPE[3][10] */
+"CDataMgr.SKILL_TYPE.1" = "被动";
+"CDataMgr.SKILL_TYPE.2" = "状态";
+"CDataMgr.SKILL_TYPE.3" = "主动";
+
+/* m_strHelpText[4][255] */
+"CDataMgr.m_strHelpText.1" = "冒险岛是ARPG游戏";
+"CDataMgr.m_strHelpText.2" = "数据包收费";
+"CDataMgr.m_strHelpText.3" = "多任务时不能停止游戏";
+"CDataMgr.m_strHelpText.4" = "海外费用";
+
+
+/* m_strPopupText[62][255] */
+"CDataMgr.m_strPopupText.1" = "口袋巴士★精彩呈现";
+"CDataMgr.m_strPopupText.2" = "流量收费.是否继续?";
+"CDataMgr.m_strPopupText.3" = "口袋巴士★精彩呈现";
+"CDataMgr.m_strPopupText.4" = "是否要购买??";
+"CDataMgr.m_strPopupText.5" = "是否要售出??";
+"CDataMgr.m_strPopupText.6" = "想买多少??";
+"CDataMgr.m_strPopupText.7" = "想卖多少??";
+"CDataMgr.m_strPopupText.8" = "金币不足.";
+"CDataMgr.m_strPopupText.9" = "物品栏不足.";
+"CDataMgr.m_strPopupText.10" = "是否补给飞镖??";
+"CDataMgr.m_strPopupText.11" = "未装备卷轴可强化的物品.";
+"CDataMgr.m_strPopupText.12" = "低等级无法装备该物品.";
+"CDataMgr.m_strPopupText.13" = "技能点数不足.";
+"CDataMgr.m_strPopupText.14" = "是否保存??";
+"CDataMgr.m_strPopupText.15" = "口袋巴士★精彩呈现";
+"CDataMgr.m_strPopupText.16" = "不能丢弃该物品.";
+"CDataMgr.m_strPopupText.17" = "不能卖该物品.";
+"CDataMgr.m_strPopupText.18" = "现在不能进入.";
+"CDataMgr.m_strPopupText.19" = "WTF汉化组出品\r\n蓝色宇宙协力修正";
+"CDataMgr.m_strPopupText.20" = "重新开始会删除原先的数据?!";
+"CDataMgr.m_strPopupText.21" = "是否丢弃该物品?";
+"CDataMgr.m_strPopupText.22" = "现在无法使用";
+"CDataMgr.m_strPopupText.23" = "";
+"CDataMgr.m_strPopupText.24" = "";
+"CDataMgr.m_strPopupText.25" = "是否要升级??";
+"CDataMgr.m_strPopupText.26" = "是否重置技能点数?";
+"CDataMgr.m_strPopupText.27" = "是否提升经验值?";
+"CDataMgr.m_strPopupText.28" = "是否提升技能点数?";
+"CDataMgr.m_strPopupText.29" = "升级成功.";
+"CDataMgr.m_strPopupText.30" = "技能点数重置成功.";
+"CDataMgr.m_strPopupText.31" = "经验值上升了.";
+"CDataMgr.m_strPopupText.32" = "技能点数上升了.";
+"CDataMgr.m_strPopupText.33" = "服务器连接失败.";
+"CDataMgr.m_strPopupText.34" = "是否删除此票券?";
+"CDataMgr.m_strPopupText.35" = "是否放弃该任务?";
+"CDataMgr.m_strPopupText.36" = "票券不足.";
+"CDataMgr.m_strPopupText.37" = "超额消费.";
+"CDataMgr.m_strPopupText.38" = "功能不支持.";
+"CDataMgr.m_strPopupText.39" = "试用到期.是否注册?";
+"CDataMgr.m_strPopupText.40" = "体验到期.是否注册?";
+"CDataMgr.m_strPopupText.41" = "无法在试用版中使用该功能.";
+"CDataMgr.m_strPopupText.42" = "是否注册完整版?";
+"CDataMgr.m_strPopupText.43" = "收费继续?";
+"CDataMgr.m_strPopupText.44" = "连接确认.";
+"CDataMgr.m_strPopupText.45" = "快乐为主.";
+"CDataMgr.m_strPopupText.46" = "";
+"CDataMgr.m_strPopupText.47" = "";
+"CDataMgr.m_strPopupText.48" = "";
+"CDataMgr.m_strPopupText.49" = "服务收费.";
+"CDataMgr.m_strPopupText.50" = "收费记录.";
+"CDataMgr.m_strPopupText.51" = "检查数据.";
+"CDataMgr.m_strPopupText.52" = "保存数据.";
+"CDataMgr.m_strPopupText.53" = "导入数据.";
+"CDataMgr.m_strPopupText.54" = "退出游戏.";
+"CDataMgr.m_strPopupText.55" = "保护数据.";
+"CDataMgr.m_strPopupText.56" = "初始化??";
+"CDataMgr.m_strPopupText.57" = "保存数据.";
+"CDataMgr.m_strPopupText.58" = "退出游戏.";
+"CDataMgr.m_strPopupText.59" = "数据错误.";
+"CDataMgr.m_strPopupText.60" = "导入错误.";
+"CDataMgr.m_strPopupText.61" = "保存错误.";
+"CDataMgr.m_strPopupText.62" = "没有保存的数据.";
+
+/* m_strLoadingTipText[25][255] */
+"CDataMgr.m_strLoadingTipText.1" = "等级10和30和60都可以转职";
+"CDataMgr.m_strLoadingTipText.2" = "去废弃都市里找达克鲁转职.";
+"CDataMgr.m_strLoadingTipText.3" = "转职后你可以习得新技能.";
+"CDataMgr.m_strLoadingTipText.4" = "10级后就能随意获得技能点数.";
+"CDataMgr.m_strLoadingTipText.5" = "需要技能点数来学习新的技能.";
+"CDataMgr.m_strLoadingTipText.6" = "将补给品和技能设置到快捷键.";
+"CDataMgr.m_strLoadingTipText.7" = "灯泡图标表示可以接任务.";
+"CDataMgr.m_strLoadingTipText.8" = "书本图标表示任务完成了.";
+"CDataMgr.m_strLoadingTipText.9" = "完成主线任务游戏才能进行下去.";
+"CDataMgr.m_strLoadingTipText.10" = "等级10和30和60都可以转职";
+"CDataMgr.m_strLoadingTipText.11" = "等级10和30和60都可以转职";
+"CDataMgr.m_strLoadingTipText.12" = "可以设置更改移动按钮.";
+"CDataMgr.m_strLoadingTipText.13" = "去废弃都市里找达克鲁转职.";
+"CDataMgr.m_strLoadingTipText.14" = "去废弃都市里找达克鲁转职.";
+"CDataMgr.m_strLoadingTipText.15" = "去废弃都市里找达克鲁转职.";
+"CDataMgr.m_strLoadingTipText.16" = "BOSS战斗时不能保存.";
+"CDataMgr.m_strLoadingTipText.17" = "没武器的时候无法攻击.";
+"CDataMgr.m_strLoadingTipText.18" = "未装备拳套时无法使用飞镖.";
+"CDataMgr.m_strLoadingTipText.19" = "飞镖可以在商店里补给.";
+"CDataMgr.m_strLoadingTipText.20" = "可以通过史密斯来制造点什么.";
+"CDataMgr.m_strLoadingTipText.21" = "在物品库存中你可以使用卷轴.";
+"CDataMgr.m_strLoadingTipText.22" = "转职后你可以习得新技能.";
+"CDataMgr.m_strLoadingTipText.23" = "转职后你可以习得新技能.";
+"CDataMgr.m_strLoadingTipText.24" = "转职后你可以习得新技能.";
+"CDataMgr.m_strLoadingTipText.25" = "转职后你可以习得新技能.";
+
+/* m_strQuestTitle[3][10][50] */
+"CDataMgr.m_strQuestTitle.1" = "物语始动";
+"CDataMgr.m_strQuestTitle.2" = "飞侠的诞生";
+"CDataMgr.m_strQuestTitle.3" = "师傅的下落";
+"CDataMgr.m_strQuestTitle.4" = "巫婆的密谋";
+"CDataMgr.m_strQuestTitle.5" = "与巫婆决斗";
+"CDataMgr.m_strQuestTitle.6" = "师傅有危险了";
+
+"CDataMgr.m_strQuestTitle.7" = "神秘岛的危机";
+"CDataMgr.m_strQuestTitle.8" = "寻找救药";
+"CDataMgr.m_strQuestTitle.9" = "获得救药";
+"CDataMgr.m_strQuestTitle.10" = "冰封雪域的危机";
+"CDataMgr.m_strQuestTitle.11" = "被雪人袭击";
+"CDataMgr.m_strQuestTitle.12" = "与雪人的对决";
+"CDataMgr.m_strQuestTitle.13" = "阿尔卡斯特的建议";
+"CDataMgr.m_strQuestTitle.14" = "邪恶的阴谋";
+"CDataMgr.m_strQuestTitle.15" = "炼金术师的冲突";
+"CDataMgr.m_strQuestTitle.16" = "图书馆毁坏";
+"CDataMgr.m_strQuestTitle.17" = "透露真相";
+"CDataMgr.m_strQuestTitle.18" = "联盟会长的帮助";
+"CDataMgr.m_strQuestTitle.19" = "向狱火地牢进发";
+"CDataMgr.m_strQuestTitle.20" = "最后的决战";
+"CDataMgr.m_strQuestTitle.21" = "冒险岛的和平";
+
+/* m_strWorldSpotName[7][50] */
+"CDataMgr.m_strWorldSpotName.1" = "废弃都市";
+"CDataMgr.m_strWorldSpotName.2" = "勇士部落";
+"CDataMgr.m_strWorldSpotName.3" = "蚂蚁洞";
+"CDataMgr.m_strWorldSpotName.4" = "射手村";
+"CDataMgr.m_strWorldSpotName.5" = "天空之城";
+"CDataMgr.m_strWorldSpotName.6" = "冰封雪域";
+"CDataMgr.m_strWorldSpotName.7" = "玛加提亚";
+
+/* m_strMiddleSpotName[3][50][50] */
+"CDataMgr.m_strMiddleSpotName.1" = "废弃都市";
+"CDataMgr.m_strMiddleSpotName.2" = "日落天空";
+"CDataMgr.m_strMiddleSpotName.3" = "废都北方工地";
+"CDataMgr.m_strMiddleSpotName.4" = "勇士部落西路";
+"CDataMgr.m_strMiddleSpotName.5" = "勇士部落西街角";
+"CDataMgr.m_strMiddleSpotName.6" = "勇士部落";
+"CDataMgr.m_strMiddleSpotName.7" = "勇士部落东街角";
+"CDataMgr.m_strMiddleSpotName.8" = "勇士部落东部";
+"CDataMgr.m_strMiddleSpotName.9" = "射手村东部树林";
+"CDataMgr.m_strMiddleSpotName.10" = "射手村东山";
+"CDataMgr.m_strMiddleSpotName.11" = "射手村";
+"CDataMgr.m_strMiddleSpotName.12" = "射手村西山";
+"CDataMgr.m_strMiddleSpotName.13" = "三岔路";
+"CDataMgr.m_strMiddleSpotName.14" = "废弃都市中部森林";
+"CDataMgr.m_strMiddleSpotName.15" = "废都南方工地";
+"CDataMgr.m_strMiddleSpotName.16" = "黑暗通道1";
+"CDataMgr.m_strMiddleSpotName.17" = "黑暗通道2";
+"CDataMgr.m_strMiddleSpotName.18" = "蚂蚁洞坑道";
+"CDataMgr.m_strMiddleSpotName.19" = "蚂蚁洞I";
+"CDataMgr.m_strMiddleSpotName.20" = "蚂蚁洞II";
+"CDataMgr.m_strMiddleSpotName.21" = "冰独眼兽洞穴";
+"CDataMgr.m_strMiddleSpotName.22" = "圣殿入口1";
+"CDataMgr.m_strMiddleSpotName.23" = "圣殿入口2";
+"CDataMgr.m_strMiddleSpotName.24" = "被诅咒的圣殿";
+
+"CDataMgr.m_strMiddleSpotName.25" = "天空之城";
+"CDataMgr.m_strMiddleSpotName.26" = "天空码头";
+"CDataMgr.m_strMiddleSpotName.27" = "西部之路";
+"CDataMgr.m_strMiddleSpotName.28" = "双色通道";
+"CDataMgr.m_strMiddleSpotName.29" = "红色庭院";
+"CDataMgr.m_strMiddleSpotName.30" = "红色庭院2";
+"CDataMgr.m_strMiddleSpotName.31" = "天空阶梯";
+"CDataMgr.m_strMiddleSpotName.32" = "黑色庭院";
+"CDataMgr.m_strMiddleSpotName.33" = "庭院废墟";
+"CDataMgr.m_strMiddleSpotName.34" = "蓝色庭院";
+"CDataMgr.m_strMiddleSpotName.35" = "蓝色庭院2";
+"CDataMgr.m_strMiddleSpotName.36" = "云彩公园1";
+"CDataMgr.m_strMiddleSpotName.37" = "徘徊小径";
+"CDataMgr.m_strMiddleSpotName.38" = "云彩公园2";
+"CDataMgr.m_strMiddleSpotName.39" = "云彩公园3";
+"CDataMgr.m_strMiddleSpotName.40" = "通天塔20-16";
+"CDataMgr.m_strMiddleSpotName.41" = "通天塔15-10";
+"CDataMgr.m_strMiddleSpotName.42" = "通天塔9-5";
+"CDataMgr.m_strMiddleSpotName.43" = "通天塔1-4";
+"CDataMgr.m_strMiddleSpotName.44" = "冰雪山丘";
+"CDataMgr.m_strMiddleSpotName.45" = "冰封雪域";
+"CDataMgr.m_strMiddleSpotName.46" = "冰面";
+"CDataMgr.m_strMiddleSpotName.47" = "结冰的平原";
+"CDataMgr.m_strMiddleSpotName.48" = "冰雪峡谷";
+"CDataMgr.m_strMiddleSpotName.49" = "雪人谷";
+"CDataMgr.m_strMiddleSpotName.50" = "尖锐的绝壁";
+"CDataMgr.m_strMiddleSpotName.51" = "冰雪十字路口";
+"CDataMgr.m_strMiddleSpotName.52" = "废矿区1";
+"CDataMgr.m_strMiddleSpotName.53" = "废矿区2";
+"CDataMgr.m_strMiddleSpotName.54" = "艰苦洞穴";
+"CDataMgr.m_strMiddleSpotName.55" = "圣坛之门";
+"CDataMgr.m_strMiddleSpotName.56" = "地狱火圣坛";
+
+"CDataMgr.m_strMiddleSpotName.57" = "玛加提亚";
+"CDataMgr.m_strMiddleSpotName.58" = "基努莫斯研究所1层走廊";
+"CDataMgr.m_strMiddleSpotName.59" = "基努莫斯研究所101室";
+"CDataMgr.m_strMiddleSpotName.60" = "基努莫斯研究所102室";
+"CDataMgr.m_strMiddleSpotName.61" = "图书馆";
+"CDataMgr.m_strMiddleSpotName.62" = "储存库";
+"CDataMgr.m_strMiddleSpotName.63" = "中央大门";
+"CDataMgr.m_strMiddleSpotName.64" = "研究所A-1地区";
+"CDataMgr.m_strMiddleSpotName.65" = "研究所C-1地区";
+"CDataMgr.m_strMiddleSpotName.66" = "研究所B-1地区";
+"CDataMgr.m_strMiddleSpotName.67" = "奥卡诺实验室";
+
+/* m_strContextListName[7][20] */
+"CDataMgr.m_strContextListName.1" = "学习";
+"CDataMgr.m_strContextListName.2" = "使用";
+"CDataMgr.m_strContextListName.3" = "丢弃";
+"CDataMgr.m_strContextListName.4" = "装备";
+"CDataMgr.m_strContextListName.5" = "卸下";
+"CDataMgr.m_strContextListName.6" = "设置快捷键";
+"CDataMgr.m_strContextListName.7" = "取消快捷键";
+
+/* drawPopupOption */
+"CDataMgr.drawPopupOption.1" = "升级";
+"CDataMgr.drawPopupOption.2" = "隐形模式";
+"CDataMgr.drawPopupOption.3" = "攻击模式";
+"CDataMgr.drawPopupOption.4" = "金钱";
+
+/* drawConfig */
+"CDataMgr.drawConfig.1" = "声音";
+"CDataMgr.drawConfig.2" = "速度";
+"CDataMgr.drawConfig.3" = "震动";
+"CDataMgr.drawConfig.4" = "移动";
+"CDataMgr.drawConfig.5" = "快捷窗口";
+"CDataMgr.drawConfig.6" = "信息";
+"CDataMgr.drawConfig.7" = "游戏存档管理";
+
+"CDataMgr.drawConfig.8" = "慢";
+"CDataMgr.drawConfig.9" = "中";
+"CDataMgr.drawConfig.10" = "快";
+"CDataMgr.drawConfig.11" = "关闭";
+"CDataMgr.drawConfig.12" = "打开";
+"CDataMgr.drawConfig.13" = "手动";
+"CDataMgr.drawConfig.14" = "自动";
+"CDataMgr.drawConfig.15" = "关闭";
+"CDataMgr.drawConfig.16" = "打开";
+"CDataMgr.drawConfig.17" = "关闭";
+"CDataMgr.drawConfig.18" = "单行";
+"CDataMgr.drawConfig.19" = "三行";
+"CDataMgr.drawConfig.20" = "关闭";
+"CDataMgr.drawConfig.21" = "保存";
+
+/* drawControlInfo */
+"CDataMgr.drawControlInfo.1" = "2,↑";
+"CDataMgr.drawControlInfo.2" = "8,↓";
+"CDataMgr.drawControlInfo.3" = "4,←";
+"CDataMgr.drawControlInfo.4" = "6,→";
+"CDataMgr.drawControlInfo.5" = "1,3";
+"CDataMgr.drawControlInfo.6" = "5,确定";
+"CDataMgr.drawControlInfo.7" = "";
+"CDataMgr.drawControlInfo.8" = "7,9,0,#";
+"CDataMgr.drawControlInfo.9" = "*";
+"CDataMgr.drawControlInfo.10" = "取消键";
+"CDataMgr.drawControlInfo.11" = "";
+"CDataMgr.drawControlInfo.12" = "召唤键";
+"CDataMgr.drawControlInfo.13" = ":跳跃";
+"CDataMgr.drawControlInfo.14" = ":向传送点移动";
+"CDataMgr.drawControlInfo.15" = ":向左移动";
+"CDataMgr.drawControlInfo.16" = ":向右移动";
+"CDataMgr.drawControlInfo.17" = ":斜跳";
+"CDataMgr.drawControlInfo.18" = ":攻击,对话";
+"CDataMgr.drawControlInfo.19" = "确定,选择";
+"CDataMgr.drawControlInfo.20" = ":使用快捷键";
+"CDataMgr.drawControlInfo.21" = ":查看地图";
+"CDataMgr.drawControlInfo.22" = ":打开目录";
+"CDataMgr.drawControlInfo.23" = "先前,顶部";
+"CDataMgr.drawControlInfo.24" = ":保存";
+
+/* drawSkillInfoBox */
+"CDataMgr.drawSkillInfoBox.1" = "最高等级";
+
+/* drawItemInfoBox */
+"CDataMgr.drawItemInfoBox.1" = "等级限制:";
+"CDataMgr.drawItemInfoBox.2" = "盒幅:";
+"CDataMgr.drawItemInfoBox.3" = "攻击:";
+"CDataMgr.drawItemInfoBox.4" = "防御:";
+"CDataMgr.drawItemInfoBox.5" = "加速:";
+"CDataMgr.drawItemInfoBox.6" = "闪避:";
+"CDataMgr.drawItemInfoBox.7" = "HP:";
+"CDataMgr.drawItemInfoBox.8" = "MP:";
+"CDataMgr.drawItemInfoBox.9" = "攻速:";
+"CDataMgr.drawItemInfoBox.10" = "升级剩余:";
+
+
+/* keyPopupItemInven */
+"CDataMgr.keyPopupItemInven.1" = "最近的村庄";
+"CDataMgr.keyPopupItemInven.2" = "废弃都市";
+"CDataMgr.keyPopupItemInven.3" = "勇士部落";
+"CDataMgr.keyPopupItemInven.4" = "射手村";
+"CDataMgr.keyPopupItemInven.5" = "蚂蚁洞";
+"CDataMgr.keyPopupItemInven.6" = "天空之城";
+"CDataMgr.keyPopupItemInven.7" = "玛加提亚";
+"CDataMgr.keyPopupItemInven.8" = "冰封雪域";
+"CDataMgr.keyPopupItemInven.9" = "废矿区";
+"CDataMgr.keyPopupItemInven.10" = "你是否想去";
+"CDataMgr.keyPopupItemInven.11" = "无法升级";
+"CDataMgr.keyPopupItemInven.12" = "是否要强化";
+
+/* SaveSaveData */
+"CDataMgr.SaveSaveData.1" = "物语始动";
+
+/* LoadSaveData */
+"CDataMgr.LoadSaveData.1" = "物语始动";
+
+/* RcvMsg */
+"CDataMgr.RcvMsg.1" = "完成注册获得完整版.";
+"CDataMgr.RcvMsg.2" = "你已经注册了完整版.";
+
+
+/* CHero ***************************************************/
+
+/* setExp */
+"CHero.setExp.1" = "经验值下降.";
+"CHero.setExp.2" = "获得经验值.";
+
+/* checkMP */
+"CHero.checkMP.1" = "魔力不足.";
+
+/* setMP */
+"CHero.setMP.1" = "魔力不足.";
+
+/* isAddInven */
+"CHero.isAddInven.1" = "存货已满.";
+
+/* addInven */
+"CHero.addInven.1" = "获得!!";
+"CHero.addInven.2" = "获得!!";
+
+/* isSpear */
+"CHero.isSpear.1" = "飞镖不足.";
+
+/* setMeso */
+"CHero.setMeso.1" = "金币不足.";
+"CHero.setMeso.2" = "损失金币";
+"CHero.setMeso.3" = "获得金币.";
+
+/* Flush */
+"CHero.Flush.1" = "按确定复活(消耗CP70)";
+"CHero.Flush.2" = "按确定复活(消耗CP90)";
+"CHero.Flush.3" = "按确定复活(消耗CP110)";
+"CHero.Flush.4" = "成功强化";
+"CHero.Flush.5" = "强化失败";
+
+/* onAttack */
+"CHero.onAttack.1" = "你没有武器.";
+
+
+/* CItem ***************************************************/
+
+/* m_strPart[5][10] */
+"CItem.m_strPart.1" = "帽子";
+"CItem.m_strPart.2" = "武器";
+"CItem.m_strPart.3" = "衣服";
+"CItem.m_strPart.4" = "饰品";
+"CItem.m_strPart.5" = "鞋子";
+
+/* m_strArmType[3][10] */
+"CItem.m_strArmType.1" = "";
+"CItem.m_strArmType.2" = "拳套";
+"CItem.m_strArmType.3" = "短刀";
+
+/* m_strAtkSpeed[4][10] */
+"CItem.m_strAtkSpeed.1" = "非常快";
+"CItem.m_strAtkSpeed.2" = "快";
+"CItem.m_strAtkSpeed.3" = "普通";
+"CItem.m_strAtkSpeed.4" = "慢";
+
+
+/* CQuestList ***************************************************/
+
+/* checkQuestRequireItem */
+"CQuestList.checkQuestRequireItem.1" = "任务完成";
+
+/* checkQuestRequireMob */
+"CQuestList.checkQuestRequireMob.1" = "任务完成";
+
+/* checkQuestRequireMeso */
+"CQuestList.checkQuestRequireMeso.1" = "Meso";
+"CQuestList.checkQuestRequireMeso.2" = "任务完成";
+
+
+/* CSkill ***************************************************/
+
+/* setActiveSkill */
+"CSkill.setActiveSkill.1" = "你必须装备拳套.";
+"CSkill.setActiveSkill.2" = "你必须装备短刀.";
+"CSkill.setActiveSkill.3" = "你必须装备拳套.";
+"CSkill.setActiveSkill.4" = "你必须装备拳套.";
+"CSkill.setActiveSkill.5" = "你必须装备拳套.";
+"CSkill.setActiveSkill.6" = "你必须装备短刀.";
+"CSkill.setActiveSkill.7" = "你必须装备短刀.";
+
+
+/* CStateGame ***************************************************/
+
+/* OnKeyPressed */
+"CStateGame.OnKeyPressed.1" = "移到附近的村庄.";
+"CStateGame.OnKeyPressed.2" = "经验";
+"CStateGame.OnKeyPressed.3" = "下降";
+"CStateGame.OnKeyPressed.4" = "金币";
+"CStateGame.OnKeyPressed.5" = "下降";
+"CStateGame.OnKeyPressed.6" = "移到附近的村庄.";
+"CStateGame.OnKeyPressed.7" = "立即复活?";
+"CStateGame.OnKeyPressed.8" = "网络复活.";
+"CStateGame.OnKeyPressed.9" = "网络复活?";
+"CStateGame.OnKeyPressed.0" = "网络复活.";
+
+/* Paint */
+"CStateGame.Paint.1" = "正在连接网络.";
+"CStateGame.Paint.2" = "传输数据.";
+"CStateGame.Paint.3" = "蛋正在孵化.";
+"CStateGame.Paint.4" = "返回城市";
+"CStateGame.Paint.5" = "倒流";
+"CStateGame.Paint.6" = "复活";
+
+"CStateGame.Paint.7" = "正在连接网络";
+"CStateGame.Paint.8" = "传输数据";
+"CStateGame.Paint.9" = "开始怪物嘉年华!";
+"CStateGame.Paint.10" = "稍等片刻.";
+
+/* SetPigmeState */
+"CStateGame.SetPigmeState.1" = "黄金";
+"CStateGame.SetPigmeState.2" = "粉色";
+
+"CStateGame.SetPigmeState.3" = "功能不支持.";
+"CStateGame.SetPigmeState.4" = "试用版本不支持此功能.";
+"CStateGame.SetPigmeState.5" = "和矮兽做什么?";
+"CStateGame.SetPigmeState.6" = "果酱款待.";
+"CStateGame.SetPigmeState.7" = "孵蛋.";
+"CStateGame.SetPigmeState.8" = "没有果酱.";
+"CStateGame.SetPigmeState.9" = "还没有蛋.";
+"CStateGame.SetPigmeState.10" = "矮兽饿了.";
+"CStateGame.SetPigmeState.11" = "把美味的果酱给矮兽吗?";
+"CStateGame.SetPigmeState.12" = "矮兽很开心";
+"CStateGame.SetPigmeState.13" = "蛋";
+"CStateGame.SetPigmeState.14" = ".";
+"CStateGame.SetPigmeState.15" = "要孵化这个蛋吗";
+"CStateGame.SetPigmeState.16" = "?";
+"CStateGame.SetPigmeState.17" = "要孵化这个蛋吗";
+"CStateGame.SetPigmeState.18" = "?";
+"CStateGame.SetPigmeState.19" = "n\r\n(首次孵化是免费的)";
+"CStateGame.SetPigmeState.20" = "额外费用";
+"CStateGame.SetPigmeState.21" = "收取继续?";
+"CStateGame.SetPigmeState.22" = "免费孵化";
+"CStateGame.SetPigmeState.23" = "收取继续?";
+"CStateGame.SetPigmeState.24" = "韩元";
+"CStateGame.SetPigmeState.25" = "收取继续?";
+"CStateGame.SetPigmeState.26" = "爱人的物品";
+"CStateGame.SetPigmeState.27" = "蛋";
+"CStateGame.SetPigmeState.28" = ".";
+"CStateGame.SetPigmeState.29" = "在线";
+"CStateGame.SetPigmeState.30" = "优惠券发行.";
+
+"CStateGame.SetPigmeState.31" = "发送金币.";
+"CStateGame.SetPigmeState.32" = "金币传送速率.";
+"CStateGame.SetPigmeState.33" = "要发送多少?";
+"CStateGame.SetPigmeState.34" = "1000金币";
+"CStateGame.SetPigmeState.35" = "2200金币";
+"CStateGame.SetPigmeState.36" = "7000金币";
+"CStateGame.SetPigmeState.37" = "没有足够的金币.";
+"CStateGame.SetPigmeState.38" = "手机";
+"CStateGame.SetPigmeState.39" = "领受金币";
+"CStateGame.SetPigmeState.40" = "0,000Mesosonline.\r\n附加费用";
+"CStateGame.SetPigmeState.41" = "会被收取";
+"CStateGame.SetPigmeState.42" = "服务器连接失败.";
+"CStateGame.SetPigmeState.43" = "没有足够存货空间无法使用.";
+"CStateGame.SetPigmeState.44" = "没有足够存货空间无法使用.";
+"CStateGame.SetPigmeState.45" = "没有优惠券无法使用.";
+
+/* resultMonCa */
+"CStateGame.resultMonCa.1" = "啦啦啦啦";
+"CStateGame.resultMonCa.2" = ".\r\n欢迎随时光临!!\r\n怪物嘉年华排名:";
+"CStateGame.resultMonCa.3" = "这是你的奖励.";
+
+
+/* CStateMainMenu ***************************************************/
+
+/* m_strMonca[3][30] */
+"CStateMainMenu.m_strMonca.1" = "怪物嘉年华A";
+"CStateMainMenu.m_strMonca.2" = "怪物嘉年华B";
+"CStateMainMenu.m_strMonca.3" = "怪物嘉年华C";
+
+/* Paint */
+"CStateMainMenu.Paint.1" = "没有数据";
+"CStateMainMenu.Paint.2" = "没有数据";
+
+"CStateMainMenu.Paint.3" = "#:新的";
+"CStateMainMenu.Paint.4" = "#:跳过";
+"CStateMainMenu.Paint.5" = "编号.";
+"CStateMainMenu.Paint.6" = "SKT_WIPI";
+"CStateMainMenu.Paint.7" = "QVGA";
+"CStateMainMenu.Paint.8" = "版本";
+"CStateMainMenu.Paint.9" = "商务服务器";
+"CStateMainMenu.Paint.10" = "我的排名";
+"CStateMainMenu.Paint.11" = "没有优惠券";
+"CStateMainMenu.Paint.12" = "发行日期:";
+"CStateMainMenu.Paint.13" = "截止日期:";
+"CStateMainMenu.Paint.14" = "连接中";
+"CStateMainMenu.Paint.15" = "上传中";
+"CStateMainMenu.Paint.16" = "正在连接到网络";
+"CStateMainMenu.Paint.17" = "数据传输中";
+
+
+/* CStateTitle ***************************************************/
+
+/* Paint */
+"CStateTitle.Paint.1" = "无法认证账户.";
+"CStateTitle.Paint.2" = "请检查SIM卡.";
+"CStateTitle.Paint.3" = "如果一直无法认证,";
+"CStateTitle.Paint.4" = "请与客服中心联系.";
+"CStateTitle.Paint.5" = "WWW.PTBUS.COM";
+"CStateTitle.Paint.6" = "正在连接到网络.";
+"CStateTitle.Paint.7" = "认证中…";
+
+
+
+/* [FWSW] ***************************************************/
+
+/* CMPopup ***************************************************/
+
+/* CMPopup */
+"CMPopup.CMPopup.1" = "是";
+"CMPopup.CMPopup.2" = "不";
+"CMPopup.CMPopup.3" = "确定";
+"CMPopup.CMPopup.4" = "是";
+
+
+/* SkyCanvas ***************************************************/
+
+/* SkyCanvas */
+"SkyCanvas.SkyCanvas.1" = "Gulim";
+"SkyCanvas.SkyCanvas.2" = "Red";
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="MainFrameLayout">false</item>
+    <item type="id" name="webview">false</item>
+    <item type="id" name="Edit">false</item>
+    <item type="id" name="layout01">false</item>
+    <item type="id" name="ImageView01">false</item>
+    <item type="id" name="ProgressBar01">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="btnNext">false</item>
+    <item type="id" name="scrollView1">false</item>
+    <item type="id" name="tvString">false</item>
+    <item type="id" name="tvString2">false</item>
+    <item type="id" name="bnmediaview">false</item>
+</resources>

@@ -1,0 +1,816 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/bt_01_claim_nor.png
+SHA1-Digest: br4DycgQEgipRzEmyjwnX/xb3pQ=
+
+Name: xml/commonPopupAutoPurchaseFormW.xml
+SHA1-Digest: bhYeaH1GLhck3+1oPBxPzrwmWag=
+
+Name: res/line_dot_01.png
+SHA1-Digest: DV7kNWh/9S5lvgY4q6EGlIx9W14=
+
+Name: res/btn_pad_nor.png
+SHA1-Digest: C36Gm3zYA9CNO+dIb/Yc4RmaRU4=
+
+Name: res/btn_locking_sel.png
+SHA1-Digest: /D8ePIAajLn8gJHFIoLfP5ttiDw=
+
+Name: xml/ocb_pw_auth.xml
+SHA1-Digest: 0hBP/6JmoUu/kkDXvsE4EZpsp0c=
+
+Name: assets/snd/4.ogg
+SHA1-Digest: k0LUydDDUiHize8HP+oQI4ybXiE=
+
+Name: drawable-hdpi/e_popup_list_p.png
+SHA1-Digest: nXo4m4uoIn8ndv8h6p8tOGTbZRE=
+
+Name: res/btn_more_02_nor_e.png
+SHA1-Digest: S+X1608SPlZDdsY87xJwhqryRws=
+
+Name: drawable-hdpi/e_popup_list_line.png
+SHA1-Digest: Mzil0Xbi1pUQGGE0k+e5bUhfH+U=
+
+Name: xml_kt_lg/lgusmsauthpopup_w.xml
+SHA1-Digest: OZRfZrupipZRu/VFrVdV9ecHHds=
+
+Name: res/btn_buy_nor_h.png
+SHA1-Digest: 5T1GjKfVA7jASiSLQOI1aH78XqY=
+
+Name: res/textbox_01_3.png
+SHA1-Digest: 0zL3byPmwRPCFwC0gKLdWBcUEoA=
+
+Name: res/keypad_num_08.png
+SHA1-Digest: 1g+hEpOCli899WxRpmySXfyLOqs=
+
+Name: res/layout/videolayout.xml
+SHA1-Digest: 0PBihBIaW6GEaxJAGzifLOtbvfM=
+
+Name: assets/snd/3.ogg
+SHA1-Digest: mxlSdxK7zQlhmKjg2Ejfipj9FR0=
+
+Name: drawable-hdpi/e_popup_line.png
+SHA1-Digest: qdK0tnyL+YT6PuvikICx7wfFrEI=
+
+Name: res/bt_01_claim_dim.png
+SHA1-Digest: 0FkkZpegnU4TnM3Mr4D/kbmOwjg=
+
+Name: res/drawable-mdpi/loading.png
+SHA1-Digest: bvlmZLdUbxCsxczK7kmHmqaobTI=
+
+Name: res/raw/assets.mp3
+SHA1-Digest: ZoWf7OpRHZ4pRnyg1yBfomjrw4A=
+
+Name: xml/ocbpopup_w.xml
+SHA1-Digest: o3JclDb5l0xdzbRxvabH58nN1B4=
+
+Name: res/bt_confirm_dim_e.png
+SHA1-Digest: 1/UNT0b12bGfYvkpVK1KXgmPpdI=
+
+Name: res/radio_bt_sel.png
+SHA1-Digest: tmPUzEkBBJq2yoJBB6JEm/WJVD4=
+
+Name: res/pop_btn_sel_ok_e.png
+SHA1-Digest: nuSKC0XwJhUdkXdL78LBVAYgdus=
+
+Name: res/btn_terms_nor_b2.png
+SHA1-Digest: 2lD9hZ+wL0yOAGB5TfarNL/P9lg=
+
+Name: res/pop_btn_nor_ok.png
+SHA1-Digest: n5HNAQdsV1QncfBDe0a30l0G5ik=
+
+Name: res/textbox_01_4.png
+SHA1-Digest: bVu8kFdd/a/K4e3+WPZN82SOgOw=
+
+Name: drawable-hdpi/popup_btn.png
+SHA1-Digest: Aty4+iZd0SFz6jUKPKYb8whY1HA=
+
+Name: assets/snd/2.ogg
+SHA1-Digest: 01RlAt8h9x9ZIg1OqS//uHqUw70=
+
+Name: res/icon_bullet.png
+SHA1-Digest: p7Bb1+BlYTXqvzJtlWL1deib5To=
+
+Name: res/keypad_num_09.png
+SHA1-Digest: S9pvVGvN/mrLFbOMa5l6U65wZcE=
+
+Name: res/textbox_01_9.png
+SHA1-Digest: Y0GcVibJ9LA5W0nTPDyHoixt+hE=
+
+Name: xml/purchaseW_finalVersion.xml
+SHA1-Digest: 5a8ZyCMK360EDDD3w9lnEaQR7LM=
+
+Name: res/textbox_01.9.png
+SHA1-Digest: Vs680N+gAS6UwbCE2hSL4MlDP+M=
+
+Name: res/textbox_01_2.9.png
+SHA1-Digest: S0yoPmSngqa72T1arhZsdY9HJes=
+
+Name: res/btn_more_01_nor.png
+SHA1-Digest: 8o9WBsBg8cv7ClNherPc0T30TOU=
+
+Name: res/info_table_02.png
+SHA1-Digest: vGPMmaASU/s3erG7gWyB7THCXG8=
+
+Name: res/bt_confirm_dim.png
+SHA1-Digest: EmehAp4Qndw64Z/1rDktMlIIjAY=
+
+Name: res/btn_more_01_sel.png
+SHA1-Digest: OzydUBrNPKoNrMIQLAbCqob7HpY=
+
+Name: xml/otpPopup_h.xml
+SHA1-Digest: deZs+fodn07ppA34Rbeiu8SFszs=
+
+Name: res/btn_policy_sel_b_e.png
+SHA1-Digest: vfCRDBA9M0z31Z2UfSH97yO50lo=
+
+Name: res/btn_terms_sel_b2_e.png
+SHA1-Digest: vfCRDBA9M0z31Z2UfSH97yO50lo=
+
+Name: res/btn_buy_sel_h.png
+SHA1-Digest: TY3PnzOUHGURnH+fhwSck+mcE1M=
+
+Name: xml_kt_lg/commonPopupJoinW.xml
+SHA1-Digest: AjJx4ZlFr38+w1ssdedPLSlXZvY=
+
+Name: xml/purchaseH_finalVersion.xml
+SHA1-Digest: AKIEb/9LazOzxzZtYuPFaN2pPSY=
+
+Name: res/btn_check_no_sel.png
+SHA1-Digest: DSfNRnoG4SrmIPkHQlG7V1piqhI=
+
+Name: res/textbox_01_5.png
+SHA1-Digest: Cg3x3/kmct8LFUAv0r5EUROV5uY=
+
+Name: res/textbox_01_2.png
+SHA1-Digest: Vu0RVFPegq2JLwSfSuEDzvLXSLQ=
+
+Name: res/btn_info01_nor.png
+SHA1-Digest: GNBGFp0f0B4GudxnoDz9fpPoEAY=
+
+Name: res/icon_title_01.png
+SHA1-Digest: GodeMQquqkj2yT8lYFs8Ifwfr4I=
+
+Name: assets/snd/37.ogg
+SHA1-Digest: nUJO8Jb2RjupFMhYzQNXfvLoKGo=
+
+Name: res/btn_policy_sel_b.png
+SHA1-Digest: ukU5J269WYVpb3/6x3FHZyJ1qiY=
+
+Name: res/bt_01_claim_nor_e.png
+SHA1-Digest: MCQ0HJ8TsHdNQhus1e6ffPAbrNY=
+
+Name: assets/snd/9.ogg
+SHA1-Digest: 8A3VNTb+1KxvIUHLdVNaJoctFKM=
+
+Name: res/textbox_01_1.png
+SHA1-Digest: H6QCIEekntp+x+fzEcBT0/uYASM=
+
+Name: res/btn_terms_sel_b_e.png
+SHA1-Digest: vfCRDBA9M0z31Z2UfSH97yO50lo=
+
+Name: res/btn_check_ok_sel.png
+SHA1-Digest: 45EaVwpiuANzmnVZQXNn9343+zw=
+
+Name: assets/snd/15.ogg
+SHA1-Digest: 0xbvRVVwhcZweOYzAzzxPPVSuAA=
+
+Name: res/btn_terms_nor_b_e.png
+SHA1-Digest: rF7i+yY0o1wO2e8+VFKPtLw105M=
+
+Name: assets/snd/39.ogg
+SHA1-Digest: goM0KEHACT4QlooarsP7CCsXV2c=
+
+Name: xml_kt_lg/purchaseH_finalVersion.xml
+SHA1-Digest: BZ1uJMFh+GTRnfUP1/XsqLtRplg=
+
+Name: assets/snd/27.ogg
+SHA1-Digest: u+4GAcOVEJJJVZnwe/AtY4MWiAg=
+
+Name: drawable-hdpi/popup_bg_top_right.png
+SHA1-Digest: 1DBm1QScixh9v4rU3WoesCCJDOE=
+
+Name: res/btn_buy_sel_h_e.png
+SHA1-Digest: uIJqAmqEL9DOPlNgQlGmoOpzRM4=
+
+Name: assets/snd/1.ogg
+SHA1-Digest: PQPP5AQSMn1R9mMdKjgYMkBPskI=
+
+Name: res/bottom_bg.png
+SHA1-Digest: pd7BoL9+wo/y4eKnaW/EMX+QznY=
+
+Name: xml/dotori_sms_auth_w.xml
+SHA1-Digest: mDM9saiAnMBVQBRFua2YvRm6zRs=
+
+Name: res/drawable-hdpi/bg_background.png
+SHA1-Digest: +b0fiHgcuMWOHQNp/c9ug8CU/+8=
+
+Name: res/title_line01.png
+SHA1-Digest: YWkdM0r6R7mEJGhW48YUGTaE4mE=
+
+Name: res/checkbox_n.png
+SHA1-Digest: xVkZ3HNz9iPbUp2dpjJMT2Uu00Q=
+
+Name: assets/snd/24.ogg
+SHA1-Digest: qSiYQqJltLjWQvB5dSg/M7ais6c=
+
+Name: xml/commonPopup.xml
+SHA1-Digest: 9yuq30JsE7RZzhfAhrOiu5WvVJY=
+
+Name: assets/snd/12.ogg
+SHA1-Digest: BNDx7R6g0xWumvW+hz8vDQ8p7W4=
+
+Name: res/radio_bt_nor.png
+SHA1-Digest: iW7mwXjftBhGpXDd7Ec/Ju0oc7k=
+
+Name: assets/snd/43.ogg
+SHA1-Digest: 4mRQHl/GmoCOzWcE8V+OCqV0wew=
+
+Name: res/input_box_sel2.9.png
+SHA1-Digest: VDSnorFmIm7enMigirkhD2iSFNo=
+
+Name: xml_kt_lg/commonPopupJoinForm.xml
+SHA1-Digest: G9UXjbHrHdQbgSEbrGnSVDh1FfE=
+
+Name: res/btn_info01_sel.png
+SHA1-Digest: MclwNDFZQdhRQmHh7WzzKgcvU/k=
+
+Name: res/bt_01_reclaim_nor.png
+SHA1-Digest: dNnf82eLNj1EF83qWH9lPq4kSZ0=
+
+Name: assets/snd/41.ogg
+SHA1-Digest: C802p1pF1uHGDYXaHuX+jQKLgT0=
+
+Name: res/btn_pad_sel.png
+SHA1-Digest: mT6uGndwxxyA1k88p3lh6uPIkfM=
+
+Name: assets/snd/20.ogg
+SHA1-Digest: lWZK9LPTEZeiETRPq7wus6zXlWU=
+
+Name: assets/snd/28.ogg
+SHA1-Digest: RZmuukFYK/QpU5WABmaUCtDoZNY=
+
+Name: res/btn_buy_resel_h.png
+SHA1-Digest: pBvbC5B3Bq3WWO+1VAnhxuLEviY=
+
+Name: res/layout/provision.xml
+SHA1-Digest: KcmsEpX7HUdMLYcGy8DJCMgO13s=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: IWO6FPRDh25u5+9/23Uem9hh01Q=
+
+Name: drawable-hdpi/a_inputbox_f.png
+SHA1-Digest: eheuhLVN0+CL5Y+Oj7FBGuLo/Gk=
+
+Name: res/layout/customwebview.xml
+SHA1-Digest: 9hGPFMx369Ic9S2GxvEZwHLPnB0=
+
+Name: res/keypad_num_03.png
+SHA1-Digest: K2MfGKnn39JKn+GKgyZEtWix1Fg=
+
+Name: assets/snd/16.ogg
+SHA1-Digest: J8FFx6cFV+MzhYLrcPdFYgjToPE=
+
+Name: layout/dialog_select.xml
+SHA1-Digest: zM3Lp2bpc8tsJoRmfAcAAbyEam8=
+
+Name: res/pop_btn_nor_ok_e.png
+SHA1-Digest: z2SJnh74hgQv98q6Ji9G+07r3ww=
+
+Name: xml_kt_lg/purchaseH.xml
+SHA1-Digest: jj0zYW8eIdWuTkYpyNg++lAtG2Y=
+
+Name: res/btn_buycancel_nor_e.png
+SHA1-Digest: /+91he315nLKtE3OAsUG+610TLs=
+
+Name: res/textbox_.9.png
+SHA1-Digest: S0yoPmSngqa72T1arhZsdY9HJes=
+
+Name: res/keypad_num_02.png
+SHA1-Digest: V7nz41XSX9hsIFfYTG0aZzDJa0Q=
+
+Name: res/btn_cancel_sel_h_e.png
+SHA1-Digest: hgBQ4a5mKrx8bUek8XZNlWwRlpc=
+
+Name: xml/culture_login_w.xml
+SHA1-Digest: 0Rjs5mWTbpnU5dzGX4rabqcvOmc=
+
+Name: res/btn_check_no_nor.png
+SHA1-Digest: R9ReDLBSeqN2gStQbH8ZNwk3ml4=
+
+Name: res/btn_cancel_sel_h.png
+SHA1-Digest: UhVsk9eJH9UfidsLx+5by7GwYww=
+
+Name: xml_kt_lg/purchaseH_Auto.xml
+SHA1-Digest: hbW7sCQM28dJBqg5ygItCEMJZ44=
+
+Name: res/btn_cancel_nor_h.png
+SHA1-Digest: pa7jF/+t7BNTeEuvlNU2yWmqSaE=
+
+Name: res/info_table_01.9.png
+SHA1-Digest: AVKWzJlR4M1kqQpi7LVsqA3NBE0=
+
+Name: res/bt_01_reclaim_nor_e.png
+SHA1-Digest: BiUPLLjZZ4Cn/vcMtCfdFbwvoCg=
+
+Name: res/btn_policy_nor_b_e.png
+SHA1-Digest: rF7i+yY0o1wO2e8+VFKPtLw105M=
+
+Name: drawable-hdpi/popup_bg.png
+SHA1-Digest: 4xKp2O9z60wvv0njtabDMn46I5M=
+
+Name: res/keypad_num_06.png
+SHA1-Digest: +eNEgx6cqt5/YK6fOcRiE+Lmr7U=
+
+Name: res/keypad_num_00.png
+SHA1-Digest: 8MEV30494vColDVIgGqd6feOaEI=
+
+Name: res/btn_con_nor_e.png
+SHA1-Digest: xp5Xo7XVetihyEAuaETWJDReqHY=
+
+Name: xml_kt_lg/pop_Juminnumber_h.xml
+SHA1-Digest: v228w9/XEdM/ssdGCWCcsuKGMtc=
+
+Name: xml/imeiauthw.xml
+SHA1-Digest: jfcoZR/vfgI5ZBCR7QzXx2uQNtU=
+
+Name: res/popup_bg_all_02.9.png
+SHA1-Digest: KvhXu8JBs74d+n3VD9OCj/NaWzo=
+
+Name: xml_kt_lg/purchaseW.xml
+SHA1-Digest: 4lvu/ZPq9AtlZ8Nyo2RZeH1++Tg=
+
+Name: res/layout/admob.xml
+SHA1-Digest: eJdoSne8whuNYdxVSjSTmKhj7pA=
+
+Name: res/info_table_01.png
+SHA1-Digest: /bz50zxyIDHnqpx4JOSqtb0XAKs=
+
+Name: lib/armeabi/libBNVModule.so
+SHA1-Digest: NQMIuYPLolj26p8oxEm7ro4uUn0=
+
+Name: xml_kt_lg/purchaseW_Auto.xml
+SHA1-Digest: WUYC5oIOCzSfEgSFfDFNLsptLdI=
+
+Name: res/bt_01_claim_dim_e.png
+SHA1-Digest: aUndw/MC7r1lOrfPTOp6cQK98NY=
+
+Name: res/bt_sel.9.png
+SHA1-Digest: BphtievYDmqVxsy9kRY+Wg7Ji/M=
+
+Name: res/layout/keyboard.xml
+SHA1-Digest: Q2EhvY9YZ0TWz6aEpwWPy50zmUU=
+
+Name: res/pop_title_e.png
+SHA1-Digest: Er1UNOO7y6XXP/WL9leKjyMBvRk=
+
+Name: res/btn_terms_sel_b.png
+SHA1-Digest: Gm3DRBTLL7UvEQiBMXved9/D5eA=
+
+Name: drawable-hdpi/a_inputbox_p.png
+SHA1-Digest: CyyU28AJbxMY6fMu01O5Zkyral8=
+
+Name: assets/snd/18.ogg
+SHA1-Digest: OQjySRfBJnX7VlD3qp+HWoACJ84=
+
+Name: res/btn_more_02_sel_e.png
+SHA1-Digest: BuwE0CQQQ8QKTN49Ggz23L0y3yM=
+
+Name: xml/commonPopupYesNo.xml
+SHA1-Digest: 2i6GmxWDuOD8rI7Bn08EeWhyIIE=
+
+Name: assets/snd/7.ogg
+SHA1-Digest: XhfWaMpEk7HBgoLHGpSGGWY9OSQ=
+
+Name: res/bt_01_claim_sel.png
+SHA1-Digest: L+pWBmekO9l2LAvtK9dXDkdabcE=
+
+Name: assets/snd/35.ogg
+SHA1-Digest: 7aJBpoMIzEgxrHi2diPWRxDommM=
+
+Name: assets/snd/5.ogg
+SHA1-Digest: yDRLWcYq6N2HtKs+Z3WS32+Y9GA=
+
+Name: res/btn_terms_nor_b2_e.png
+SHA1-Digest: rF7i+yY0o1wO2e8+VFKPtLw105M=
+
+Name: xml/foreign_inputmdn_w.xml
+SHA1-Digest: k6RAIowYWR05xx6cZ7K4c40XCzc=
+
+Name: xml/purchaseH.xml
+SHA1-Digest: 2Wr8g6Zf1Ort+5sqtwcCehcgXR8=
+
+Name: res/popup_bg_2.9.png
+SHA1-Digest: FSFTWI3mtj5XanSl591huichB+c=
+
+Name: res/bottom_shadow_01.png
+SHA1-Digest: 0mM7GNJ0U8aopNr4NoDUoymlHaY=
+
+Name: res/drawable-hdpi/bg_right_text.png
+SHA1-Digest: b1qdLoON0SYvTZKWW2U3JKLhYcs=
+
+Name: assets/snd/23.ogg
+SHA1-Digest: I4SFeycNvtDwSMyXE2IsOotAi/M=
+
+Name: res/popup_bg_all.9.png
+SHA1-Digest: K9IjDFoPSUJcND09Sfoj7CcaaeU=
+
+Name: res/btn_more_01_sel_e.png
+SHA1-Digest: XiJF9tnjqT4ukopKg7RcPbcxeJw=
+
+Name: assets/snd/32.ogg
+SHA1-Digest: OXQM2o5Y5pMzs+WtXzZxe3cvCNw=
+
+Name: xml_kt_lg/commonPopup.xml
+SHA1-Digest: wnBIynbhrY251GYUHoeucbSKeKA=
+
+Name: res/drawable-hdpi/check_de.png
+SHA1-Digest: 3lbHElVN3txOxweOh/iH/bGKsBc=
+
+Name: res/info_table_03.9.png
+SHA1-Digest: kJxm3rYDTdBgh1xwOX1kPLv3asY=
+
+Name: xml/imeiauthh.xml
+SHA1-Digest: PlIvQo0qMJdgDimm4SRkXD8KSLU=
+
+Name: xml/ocbpopup_h.xml
+SHA1-Digest: Szro4q9oFaRwc7DRvDD/sy/UUDQ=
+
+Name: drawable-hdpi/popup_bg_botton_left.png
+SHA1-Digest: 40PvY1aHSwEy38vmV/gykXAhBEw=
+
+Name: assets/snd/8.ogg
+SHA1-Digest: Ep8ttZdfxHD7dcnfmEIspn1mAxE=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 3KgMqOog8eNOmMoB65PEB31LsOU=
+
+Name: res/btn_con_nor.png
+SHA1-Digest: W5AUFWV3O5lWRz78vVdf7RZ2Z8o=
+
+Name: assets/snd/26.ogg
+SHA1-Digest: qV3gA6HFwnX11y4o/UWgWHgqtO0=
+
+Name: res/keypad_back.png
+SHA1-Digest: Tf4n/K3LV9ihRLsfFKIhizhoZlw=
+
+Name: drawable-hdpi/popup_bg_botton_right.png
+SHA1-Digest: hYzR2b3omB3o8mouijNKk+auJT0=
+
+Name: res/popup_bg_2.png
+SHA1-Digest: TxhlRGsn2mpXkbzySW3ZluzpIpY=
+
+Name: res/popPwd_bg.png
+SHA1-Digest: z8YhYlNjo5SVfobsaF4X7hyprqw=
+
+Name: res/btn_cancel_nor_h_e.png
+SHA1-Digest: /+91he315nLKtE3OAsUG+610TLs=
+
+Name: res/kepad_bg.png
+SHA1-Digest: iFufD4iHr39rqphRPJNmTjRvKrA=
+
+Name: xml/commonPopupAutoPurchaseFormH.xml
+SHA1-Digest: vxecHyJtJot/6EDxWbfI+Uspmv8=
+
+Name: res/btn_buycancel_nor.png
+SHA1-Digest: XSlJGR+iKJlB+h5lPHXFyPThp4I=
+
+Name: res/btn_buycancel_sel_e.png
+SHA1-Digest: hgBQ4a5mKrx8bUek8XZNlWwRlpc=
+
+Name: assets/snd/34.ogg
+SHA1-Digest: h7QA1gjjSE1Yr2CkhpQ/b6ujODE=
+
+Name: res/image.png
+SHA1-Digest: nv2dhM3PwVE5pQFLjEXuHsAt6wA=
+
+Name: layout/dialog_login.xml
+SHA1-Digest: DG8gD77hMMcw+rtpnmh7XNYVhDk=
+
+Name: res/btn_policy_nor_b.png
+SHA1-Digest: 0BVNVHFFg8QyqXcjK1ogQIOWN8g=
+
+Name: res/input_box_sel.9.png
+SHA1-Digest: jze9evBq3JIYAyOTi55Mzjskae4=
+
+Name: xml/otpPopup_w.xml
+SHA1-Digest: 6Buv1HBUxim9JWtw4Cs+6K9Ns0I=
+
+Name: assets/snd/6.ogg
+SHA1-Digest: oYn4Y+UtFG4uTIrkcViQ17bsmtU=
+
+Name: res/textbox_01_8.png
+SHA1-Digest: bPeczgGcasmrhcVTs3tFAPZHxNQ=
+
+Name: res/bt_01_sel.9.png
+SHA1-Digest: OQLer3e26+XPbvVKFK5rxWcLBXA=
+
+Name: drawable-hdpi/e_popup_list_bg.png
+SHA1-Digest: js7dl27Zjr5dZ5Kr7mHQvZC+eQo=
+
+Name: xml/otpCommonPopup.xml
+SHA1-Digest: 873whcU7gxlKTy3Bwcw5qORPiiU=
+
+Name: res/bg_line.png
+SHA1-Digest: qy8gPVwURFf/ge8+GjcdSQoeU44=
+
+Name: assets/snd/14.ogg
+SHA1-Digest: 8i0e85dZ4GU+kIaTuJQK9RuxuVs=
+
+Name: res/inputbox_pw.png
+SHA1-Digest: 5k0Q3nNHy/QJFujgLJklipMrulM=
+
+Name: res/bt_01_reclaim_sel_e.png
+SHA1-Digest: dkyReSULA3+8OjF8iDGTt/heeqI=
+
+Name: xml/commonPopupJoin_w.xml
+SHA1-Digest: LnGdgsiIUbeEvd9bsRnHlHMcJqg=
+
+Name: res/btn_locking_sel_e.png
+SHA1-Digest: eVnoZwMmZE03BKum34AuL2rHN7I=
+
+Name: res/drawable-hdpi/bg_frame_left.png
+SHA1-Digest: Of2cpzS2FPjVKbH3T1kgy5MIWBs=
+
+Name: xml_kt_lg/commonPopupJoin_w.xml
+SHA1-Digest: LnGdgsiIUbeEvd9bsRnHlHMcJqg=
+
+Name: res/keypad_num_07.png
+SHA1-Digest: L3fdjwj9BRjEKP8pjhv40cidNJo=
+
+Name: xml/purchase_w.xml
+SHA1-Digest: cAHR16+42mmRjeCrfIY0qSJq7e8=
+
+Name: assets/snd/19.ogg
+SHA1-Digest: AtiI2Q2I7yvEMWPJNBcZnl5f60o=
+
+Name: xml/dotori_sms_auth_h.xml
+SHA1-Digest: EzHpJog2q39mB+p1S5JeNjWZAu8=
+
+Name: res/pop_btn_sel_ok.png
+SHA1-Digest: 7hGKawYkdxwMvkfs7DMojcn4srg=
+
+Name: res/btn_terms_sel_b2.png
+SHA1-Digest: Gm3DRBTLL7UvEQiBMXved9/D5eA=
+
+Name: xml_kt_lg/commonPopupYesNo.xml
+SHA1-Digest: LozEltDyknfA/ZDdo1W9aBJeXgw=
+
+Name: resources.arsc
+SHA1-Digest: LJ//AXmi04SibzJ0fljBaKo/0yc=
+
+Name: assets/snd/11.ogg
+SHA1-Digest: Q9xtiJkpGioHR61fu16DpnaVXRI=
+
+Name: xml_kt_lg/commonPopupJoinFormH.xml
+SHA1-Digest: UkKW3UUVwGBW0UZyHeDSeKkfMZ8=
+
+Name: xml_kt_lg/purchase_w.xml
+SHA1-Digest: SeaJUSa7yusLj99RR4RBuV53EK0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: sEL9qXRoEWt7hW46fIAXvDN+w+U=
+
+Name: res/btn_more_01_nor_e.png
+SHA1-Digest: b05ejdT1OwsKFvQwYO1wzIkfj7g=
+
+Name: res/textbox_01_7.png
+SHA1-Digest: ui4We9WvHhZnBOuLzcBK4qaLZNQ=
+
+Name: res/pop_title.png
+SHA1-Digest: zbYH77eaT4W+n3W1lOsrtJi6nBg=
+
+Name: xml/purchaseW.xml
+SHA1-Digest: FuzB0ql1NHnQIFk8XPbdWlUI47c=
+
+Name: res/btn_con_sel_e.png
+SHA1-Digest: +yTNYVZqH0mgpDtp7Xl1rhJgTJM=
+
+Name: assets/snd/42.ogg
+SHA1-Digest: 0+USYjzMHiGbCubJJDFetCZz+1E=
+
+Name: res/btn_info01_nor_e.png
+SHA1-Digest: DCYfiJtnY6/xwo5+Pc8Jbf7CpaM=
+
+Name: xml/purchaseH_Auto.xml
+SHA1-Digest: sCtzdK0WBkanpfrF1rGBH1eFKZs=
+
+Name: classes.dex
+SHA1-Digest: Lw0vYBp8sp8KrZ38BhmjEg7jPLI=
+
+Name: xml/foreign_inputmdn_h.xml
+SHA1-Digest: LDmGj84g4+noiW7T3cRywtHVbYE=
+
+Name: res/input_box_nor2.9.png
+SHA1-Digest: OLPgcowmgrEPHDwoqyj+tFdOiLI=
+
+Name: res/btn_terms_nor_b.png
+SHA1-Digest: 2lD9hZ+wL0yOAGB5TfarNL/P9lg=
+
+Name: assets/snd/38.ogg
+SHA1-Digest: GQx+F4H/GOh1gxv2+WcM2Ls9SqU=
+
+Name: res/btn_buy_nor_h_e.png
+SHA1-Digest: 97TMBvfQk5aK9uQG5Xy3lumeC8c=
+
+Name: res/bt_01_reclaim_dim.png
+SHA1-Digest: 1JNN8m+48jc8SWIgC2tdMeVWID8=
+
+Name: res/info_table_02.9.png
+SHA1-Digest: 6QWYCxAwcIprdJRoSus7d+CWEBI=
+
+Name: res/checkbox_y.png
+SHA1-Digest: Ci58pmiAmiBzqB9ahuWjes9nRnA=
+
+Name: res/drawable-hdpi/bg_frame_right.png
+SHA1-Digest: Mc7YsERboRVfEWafrmmeNmV80eA=
+
+Name: res/drawable-hdpi/check_act.png
+SHA1-Digest: dcZt6Ec/jDgFSJTsG7rS1vFyJU4=
+
+Name: res/btn_info01_sel_e.png
+SHA1-Digest: 1QRbuBr72Gu/rISrwK+6UFfNqho=
+
+Name: res/bt_01_claim_sel_e.png
+SHA1-Digest: Eq4ZtaESCU592iwPNqcZhIijPfA=
+
+Name: layout/dialog_pay.xml
+SHA1-Digest: xiwWy1aqFMelPwLxUIbaieJv3iQ=
+
+Name: xml/culture_login_h.xml
+SHA1-Digest: gLnThNPEom4aJ84i5yVSBO9iVkk=
+
+Name: res/popup_bg.9.png
+SHA1-Digest: FSFTWI3mtj5XanSl591huichB+c=
+
+Name: res/inputbox_pw_dot.png
+SHA1-Digest: js3kuyXplwsLbeBKGSoAlvacYEM=
+
+Name: assets/snd/10.ogg
+SHA1-Digest: lF82UfykjFwIrrfZkacA46KIkdw=
+
+Name: drawable-hdpi/popup_bg_top_left.png
+SHA1-Digest: QRHPq/QtfWJ+4uKneuYqA6BYJbI=
+
+Name: res/drawable-hdpi/button_act.png
+SHA1-Digest: /vZOLJ5I4feKOZrqYZ1GXrLnM34=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: zx/Lkhqy1rppbbiheZaXaSCymoM=
+
+Name: res/popup_bg_all_2.9.png
+SHA1-Digest: K9IjDFoPSUJcND09Sfoj7CcaaeU=
+
+Name: assets/snd/0.ogg
+SHA1-Digest: XcwPpbH4zcPiY52QQFcD8T3RgNw=
+
+Name: res/keypad_num_01.png
+SHA1-Digest: K3iWTeF9RSYzoZhUO5uS92YrtGQ=
+
+Name: res/btn_check_ok_nor.png
+SHA1-Digest: HtCfbYbvBPvmbt/kL5Z6FYvYvig=
+
+Name: res/keypad_bg.9.png
+SHA1-Digest: Tt3HLr8pYbVjMKODHDXA4y4Vcks=
+
+Name: xml_kt_lg/commonPopupJoinFormW.xml
+SHA1-Digest: NDOBa7+J3yaOcjvslBjHduxuWUI=
+
+Name: xml_kt_lg/commonPopupJoinH.xml
+SHA1-Digest: GvV0LjUSWEbU2NAHtFQJ8zUPag4=
+
+Name: res/bt_01_nor.9.png
+SHA1-Digest: nx5TzKQXEtG007mlOsBsT7yt4uY=
+
+Name: res/keypad_num_05.png
+SHA1-Digest: mW1hkDghAbUEr/vCbHcl58AbPPE=
+
+Name: drawable-hdpi/popup_btn_sel.png
+SHA1-Digest: Ejfp8w/umkM00dScDuoF46p5ZMc=
+
+Name: xml/purchaseW_Auto.xml
+SHA1-Digest: 7vIKDxikTJQQ+HeyDWt7ElYpQKE=
+
+Name: res/bt_buy_dim_e.png
+SHA1-Digest: 8m08efFjKSUh4p5ZQhRcnqyDAwM=
+
+Name: xml/commonPopupJoin_h.xml
+SHA1-Digest: Atl67ddceo+vrK6TGhx5VQ0c/Vo=
+
+Name: xml_kt_lg/commonPopupJoin_h.xml
+SHA1-Digest: Atl67ddceo+vrK6TGhx5VQ0c/Vo=
+
+Name: xml_kt_lg/commonPopupJoin.xml
+SHA1-Digest: 4vJYIxIMwQKXW81ypZgON2k0PZY=
+
+Name: xml_kt_lg/commonPopupImage.xml
+SHA1-Digest: BTtXxBf8imiscthMEmO8TJL8lFc=
+
+Name: res/layout/main.xml
+SHA1-Digest: ilMjOL6My9ypgkpbD2aYL3o5260=
+
+Name: res/info_table_04.9.png
+SHA1-Digest: rch2ycqYrP2UoHCTFHHPzpAa2ZQ=
+
+Name: res/bt_01_reclaim_dim_e.png
+SHA1-Digest: ACPk9cMKpmoS3xFpoQajCzjOb6E=
+
+Name: xml_kt_lg/purchaseW_finalVersion.xml
+SHA1-Digest: 1zj03s/od51O8+YEOIR0ropxEF4=
+
+Name: assets/snd/25.ogg
+SHA1-Digest: iisZJ1RKZwwNriyhBloZDCnlfho=
+
+Name: xml_kt_lg/lgusmsauthpopup_h.xml
+SHA1-Digest: K0g3njJOxMy/R4e5tMijRfvskQA=
+
+Name: drawable-hdpi/a_inputbox_n.png
+SHA1-Digest: 25Uvsz9vWLr6Sh2wDI/uiP+hzoc=
+
+Name: res/input_box_nor.9.png
+SHA1-Digest: 6ag7/CMtwX1f/zsQTUm9H1WAru4=
+
+Name: assets/snd/36.ogg
+SHA1-Digest: vmGCS8TpRPwAvgj4onge6cESzdE=
+
+Name: assets/snd/30.ogg
+SHA1-Digest: j/6aXh/bp8r6wqwnC4RyKTSzcGI=
+
+Name: res/btn_check_dim.png
+SHA1-Digest: aLI0my3UpoCtX7M0cSM8YJGvSQ4=
+
+Name: xml_kt_lg/pop_Juminnumber_w.xml
+SHA1-Digest: UzbAx5IFKETF/uuwFPdIb/8h94s=
+
+Name: xml/commonPopupImage.xml
+SHA1-Digest: YQ+fJg53JyeXfJ/BMsrcnKqUKik=
+
+Name: res/drawable-hdpi/button_de.png
+SHA1-Digest: PEWnHwfATC743LaM6yP0ovOG1so=
+
+Name: assets/snd/21.ogg
+SHA1-Digest: /jui9/99Klv59iBqpORP0ggkEOw=
+
+Name: assets/snd/40.ogg
+SHA1-Digest: cYpeuQbYsFlSFxz/S1l0fDj7zAM=
+
+Name: assets/snd/22.ogg
+SHA1-Digest: BJ0ppVQl55m4GJZtgzACNxHSlwQ=
+
+Name: res/btn_buycancel_sel.png
+SHA1-Digest: bOBcRqIK/kWO0516j/gEdx3nJIE=
+
+Name: res/logo_pw.png
+SHA1-Digest: 16NuujqH72CI75iVucOxZ7wPRYc=
+
+Name: res/btn_buy_renor_h.png
+SHA1-Digest: Zq0GlUIzCdS7P3/80QnoDfKDdDA=
+
+Name: res/keypad_num_04.png
+SHA1-Digest: 18IdQs+hGEsiQvwuprgNbPuAg6A=
+
+Name: res/textbox_01_6.png
+SHA1-Digest: s6Qe5uLg0MX+Hqqs67q1w2eZoS8=
+
+Name: res/bt_01_reclaim_sel.png
+SHA1-Digest: Ha/g/XrBUP0uqzxXQKvvjCmN8YI=
+
+Name: assets/snd/33.ogg
+SHA1-Digest: h10ad3Qe5RzCat+UHWY5QRI37Ik=
+
+Name: xml/purchase_h.xml
+SHA1-Digest: Je5cuyL/PxzkSHNmaPqYujaMss8=
+
+Name: res/bt_buy_dim.png
+SHA1-Digest: DdyEtMS+c+KPsPyDD4IRVdaihgA=
+
+Name: layout/dialog_alert.xml
+SHA1-Digest: 19mJkhwUBMBXSSOC4Qflg6bTBeU=
+
+Name: xml_kt_lg/purchase_h.xml
+SHA1-Digest: Je5cuyL/PxzkSHNmaPqYujaMss8=
+
+Name: assets/snd/31.ogg
+SHA1-Digest: DaCseQiVZCyr+xtrQmUiaJxSHXA=
+
+Name: assets/snd/17.ogg
+SHA1-Digest: UA8LSVCccFbptHFDXSneKoPuXvg=
+
+Name: assets/snd/13.ogg
+SHA1-Digest: VudCAY9O/x15PHUVpJNIfxS4Ejg=
+
+Name: res/bt_nor.9.png
+SHA1-Digest: ywETrV3lnCSmoSMPEbwTe2zw3ao=
+
+Name: res/btn_locking_nor.png
+SHA1-Digest: eTiyhOgT8LycChJn9lNqsIrRNcM=
+
+Name: res/btn_con_sel.png
+SHA1-Digest: tbpEGXkaprt1l7IX53iHnMkov8Y=
+
+Name: res/btn_locking_nor_e.png
+SHA1-Digest: +P/jwvjWYhzkoNymn6jdUQap1xs=
+
+Name: assets/snd/29.ogg
+SHA1-Digest: MSvQlR9GeYaFO8+Agy+dBc15dug=
+
